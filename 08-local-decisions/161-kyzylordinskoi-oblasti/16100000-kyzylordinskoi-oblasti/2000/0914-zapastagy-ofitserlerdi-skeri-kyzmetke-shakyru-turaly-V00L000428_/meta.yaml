@@ -1,0 +1,21 @@
+key: V00L000428_
+akn: /akn/kz/act/2000-09-14/V00L000428_
+act_code: '7511'
+requisite: Решение от 15.09.2000 №312, Аким Кызылординской области
+title:
+  rus: Запастағы офицерлерді әскери қызметке шақыру туралы
+  kaz: Запастағы офицерлерді әскери қызметке шақыру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2000-09-14
+approved_by:
+- '161000000003'
+versions:
+- date: 2000-09-14
+  languages:
+  - kaz
+version_date:
+  kaz: 2000-09-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7511/kaz/14.09.2000
