@@ -1,0 +1,21 @@
+key: V03L0003111
+akn: /akn/kz/act/2003-02-12/V03L0003111
+act_code: '15302'
+requisite: Решение от 12.02.2003 №163, Маслихат Кызылординской области
+title:
+  rus: Бюджеттік алулар мен субвенцияларды беру тәртібін бекіту туралы
+  kaz: Бюджеттік алулар мен субвенцияларды беру тәртібін бекіту туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2003-02-12
+approved_by:
+- '161000000002'
+versions:
+- date: 2003-02-12
+  languages:
+  - kaz
+version_date:
+  kaz: 2003-02-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/15302/kaz/12.02.2003
