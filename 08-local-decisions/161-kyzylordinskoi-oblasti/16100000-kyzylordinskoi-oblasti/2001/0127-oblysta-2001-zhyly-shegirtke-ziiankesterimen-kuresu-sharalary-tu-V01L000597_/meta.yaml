@@ -1,0 +1,21 @@
+key: V01L000597_
+akn: /akn/kz/act/2001-01-27/V01L000597_
+act_code: '9637'
+requisite: Решение от 27.01.2001 №404, Аким Кызылординской области
+title:
+  rus: Облыста 2001 жылы шегiртке зиянкестерiмен күресу шаралары туралы
+  kaz: Облыста 2001 жылы шегiртке зиянкестерiмен күресу шаралары туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2001-01-27
+approved_by:
+- '161000000003'
+versions:
+- date: 2001-01-27
+  languages:
+  - kaz
+version_date:
+  kaz: 2001-01-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/9637/kaz/27.01.2001
