@@ -1,0 +1,21 @@
+key: V08LG000054
+akn: /akn/kz/act/2008-05-14/V08LG000054
+act_code: '39877'
+requisite: Решение от 14.05.2008 №301, Акимат аульного округа Кыркенсе
+title:
+  rus: '"Көше атауларын өзгерту туралы"'
+  kaz: '"Көше атауларын өзгерту туралы"'
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2008-05-14
+approved_by:
+- '161009007001'
+versions:
+- date: 2008-05-14
+  languages:
+  - kaz
+version_date:
+  kaz: 2008-05-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/39877/kaz/14.05.2008
