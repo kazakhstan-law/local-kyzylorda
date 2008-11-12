@@ -1,0 +1,21 @@
+key: V08LI000073
+akn: /akn/kz/act/2008-11-12/V08LI000073
+act_code: '42744'
+requisite: Решение от 12.11.2008 №11, Акимат аульного округа Жолек
+title:
+  rus: Жөлек ауылындағы кейбір көшелерге есім беру туралы
+  kaz: Жөлек ауылындағы кейбір көшелерге есім беру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2008-11-12
+approved_by:
+- '161008012001'
+versions:
+- date: 2008-11-12
+  languages:
+  - kaz
+version_date:
+  kaz: 2008-11-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/42744/kaz/12.11.2008
