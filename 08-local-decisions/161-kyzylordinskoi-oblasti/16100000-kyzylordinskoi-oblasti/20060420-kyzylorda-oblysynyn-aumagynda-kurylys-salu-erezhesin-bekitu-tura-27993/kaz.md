@@ -1,5 +1,5 @@
 ---
-version_id: AI27993_0
+version_id: AI27993_1
 act_code: '27993'
 language: kaz
 title: Қызылорда облысының аумағында құрылыс салу Ережесін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '161000000002'
 approval_date: 2006-04-20
-version_date: 2006-04-20
+version_date: 2009-03-27
 registry_number: '27993'
-source: https://zan.gov.kz/client/#!/doc/27993/kaz/20.04.2006
+caused_by:
+  code: '45717'
+  title: '"Қызылорда облысының аумағында құрылыс салу Ережесін бекіту туралы" Қызылорда облыстық мәслихатының 2006 жылғы 20 сәуірдегі N 282 шешіміне өзгеріс енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/45717/kaz
+source: https://zan.gov.kz/client/#!/doc/27993/kaz/27.03.2009
 ---
 
 # Қызылорда облысының аумағында құрылыс салу Ережесін бекіту туралы
