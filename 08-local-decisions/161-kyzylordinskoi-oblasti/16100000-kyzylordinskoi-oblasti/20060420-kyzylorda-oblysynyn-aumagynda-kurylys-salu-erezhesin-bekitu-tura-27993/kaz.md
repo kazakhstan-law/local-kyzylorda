@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27993/kaz/20.04.2006
+source: https://zan.gov.kz/client/#!/doc/27993/kaz/27.03.2009
 ---
 
 # Қызылорда облысының аумағында құрылыс салу Ережесін бекіту туралы
