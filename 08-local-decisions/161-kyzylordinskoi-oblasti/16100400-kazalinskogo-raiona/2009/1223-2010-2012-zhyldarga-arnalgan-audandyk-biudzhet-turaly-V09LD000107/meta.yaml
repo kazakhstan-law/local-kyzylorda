@@ -1,0 +1,21 @@
+key: V09LD000107
+akn: /akn/kz/act/2009-12-23/V09LD000107
+act_code: '49498'
+requisite: Решение от 23.12.2009 №169, Маслихат Казалинского района
+title:
+  rus: 2010-2012 жылдарға арналған аудандық бюджет туралы
+  kaz: 2010-2012 жылдарға арналған аудандық бюджет туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2009-12-23
+approved_by:
+- '161004000002'
+versions:
+- date: 2009-12-23
+  languages:
+  - kaz
+version_date:
+  kaz: 2009-12-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/49498/kaz/23.12.2009
