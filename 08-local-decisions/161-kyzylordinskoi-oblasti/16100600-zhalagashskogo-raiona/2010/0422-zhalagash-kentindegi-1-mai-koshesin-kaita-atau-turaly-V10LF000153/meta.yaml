@@ -1,0 +1,21 @@
+key: V10LF000153
+akn: /akn/kz/act/2010-04-22/V10LF000153
+act_code: '52652'
+requisite: Решение от 22.04.2010 №284, Акимат Жалагашского района
+title:
+  rus: Жалағаш кентіндегі 1 май көшесін қайта атау туралы
+  kaz: Жалағаш кентіндегі 1 май көшесін қайта атау туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2010-04-22
+approved_by:
+- '161006000001'
+versions:
+- date: 2010-04-22
+  languages:
+  - kaz
+version_date:
+  kaz: 2010-04-22
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/52652/kaz/22.04.2010
