@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49501/kaz/14.07.2010
+source: https://zan.gov.kz/client/#!/doc/49501/kaz/07.09.2010
 ---
 
 # 2010-2012 жылдарға арналған қалалық бюджет туралы
