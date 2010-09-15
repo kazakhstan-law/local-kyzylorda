@@ -1,0 +1,21 @@
+key: V10LH000130
+akn: /akn/kz/act/2010-09-15/V10LH000130
+act_code: '54807'
+requisite: Решение от 15.09.2010 №19, Акимат Сырдарьинского района
+title:
+  rus: А.Тоқмағанбетов ауылдық округіндегі көшеге атау беру туралы
+  kaz: А.Тоқмағанбетов ауылдық округіндегі көшеге атау беру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2010-09-15
+approved_by:
+- '161007000001'
+versions:
+- date: 2010-09-15
+  languages:
+  - kaz
+version_date:
+  kaz: 2010-09-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/54807/kaz/15.09.2010
