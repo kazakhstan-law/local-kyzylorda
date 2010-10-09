@@ -1,0 +1,21 @@
+key: V10LF000170
+akn: /akn/kz/act/2010-10-09/V10LF000170
+act_code: '55574'
+requisite: Решение от 09.10.2010 №22, Акимат Жалагашского района
+title:
+  rus: Жалағаш кентіндегі Елтай көшесін қайта атау туралы
+  kaz: Жалағаш кентіндегі Елтай көшесін қайта атау туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2010-10-09
+approved_by:
+- '161006000001'
+versions:
+- date: 2010-10-09
+  languages:
+  - kaz
+version_date:
+  kaz: 2010-10-09
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/55574/kaz/09.10.2010
