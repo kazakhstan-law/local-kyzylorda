@@ -1,0 +1,21 @@
+key: V10LD000136
+akn: /akn/kz/act/2010-12-15/V10LD000136
+act_code: '56803'
+requisite: Решение от 15.12.2010 №667, Аким поселка Айтеке би
+title:
+  rus: Әйтеке би кентіндегі көше атауын өзгерту туралы
+  kaz: Әйтеке би кентіндегі көше атауын өзгерту туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2010-12-15
+approved_by:
+- '161004001001'
+versions:
+- date: 2010-12-15
+  languages:
+  - kaz
+version_date:
+  kaz: 2010-12-15
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/56803/kaz/15.12.2010
