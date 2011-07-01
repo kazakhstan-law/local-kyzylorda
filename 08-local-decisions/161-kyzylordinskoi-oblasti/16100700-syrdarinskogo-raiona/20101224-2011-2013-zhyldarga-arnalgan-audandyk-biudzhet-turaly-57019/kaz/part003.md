@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57019/kaz/12.05.2011
+source: https://zan.gov.kz/client/#!/doc/57019/kaz/01.07.2011
 ---
 
 ## 2013 жылға арналған аудандық бюджет
@@ -9,8 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/57019/kaz/12.05.2011
 
 <table>
 <tr>
-<th colspan="6">Сыныптама</th>
-<th rowspan="5">Сомасы</th>
+<td colspan="6">Сыныптама</td>
+<td>Сомасы</td>
 </tr>
 <tr>
 <th></th>
@@ -28,12 +28,12 @@ source: https://zan.gov.kz/client/#!/doc/57019/kaz/12.05.2011
 <th colspan="3">Ерекшелік</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -738,8 +738,8 @@ source: https://zan.gov.kz/client/#!/doc/57019/kaz/12.05.2011
 <td>1692825</td>
 </tr>
 <tr>
-<th colspan="6">Функционалдық топ</th>
-<th rowspan="6">БАРЛЫҒЫ</th>
+<td colspan="6">Функционалдық топ</td>
+<td>БАРЛЫҒЫ</td>
 </tr>
 <tr>
 <th></th>
@@ -764,12 +764,12 @@ source: https://zan.gov.kz/client/#!/doc/57019/kaz/12.05.2011
 <th colspan="2">Кіші бағдарлама</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>АТАУЫ</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
