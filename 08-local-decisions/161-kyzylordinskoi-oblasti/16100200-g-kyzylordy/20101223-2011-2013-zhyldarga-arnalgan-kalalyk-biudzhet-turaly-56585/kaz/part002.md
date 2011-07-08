@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56585/kaz/01.04.2011
+source: https://zan.gov.kz/client/#!/doc/56585/kaz/08.07.2011
 ---
 
 ## 2012 жылға арналған қалалық бюджет
@@ -2981,7 +2981,7 @@ source: https://zan.gov.kz/client/#!/doc/56585/kaz/01.04.2011
 <td></td>
 <td></td>
 <td>09</td>
-<td colspan="2">Жергілікті бюджетке түсетін салықтық емес басқа да түсімдер</td>
+<td colspan="2">Жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
 <td>5 513</td>
 </tr>
 <tr>
