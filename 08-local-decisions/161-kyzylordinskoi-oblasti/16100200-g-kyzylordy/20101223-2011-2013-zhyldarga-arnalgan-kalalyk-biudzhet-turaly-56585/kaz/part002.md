@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56585/kaz/05.09.2011
+source: https://zan.gov.kz/client/#!/doc/56585/kaz/21.10.2011
 ---
 
 ## 2012 жылға арналған қалалық бюджет
