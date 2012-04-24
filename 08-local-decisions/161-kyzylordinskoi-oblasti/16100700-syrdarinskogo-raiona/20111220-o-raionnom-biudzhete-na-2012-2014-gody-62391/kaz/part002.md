@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62391/kaz/20.03.2012
+source: https://zan.gov.kz/client/#!/doc/62391/kaz/24.04.2012
 ---
 
 ## 2013 жылға арналған аудандық бюджет
