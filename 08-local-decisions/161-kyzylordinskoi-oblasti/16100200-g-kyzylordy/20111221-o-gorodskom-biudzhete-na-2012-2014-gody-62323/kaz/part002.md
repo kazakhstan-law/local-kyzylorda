@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62323/kaz/12.04.2012
+source: https://zan.gov.kz/client/#!/doc/62323/kaz/26.06.2012
 ---
 
 ## 2013 жылға арналған қалалық бюджет
