@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62323/rus/26.06.2012
+source: https://zan.gov.kz/client/#!/doc/62323/rus/24.07.2012
 ---
 
 ## Городской бюджет на 2013 года
