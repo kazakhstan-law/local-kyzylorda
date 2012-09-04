@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
+source: https://zan.gov.kz/client/#!/doc/62323/kaz/04.09.2012
 ---
 
 ## 2012 жылға арналған қалалық бюджеттің бюджеттік даму бағдарламасының және заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту тізбесі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Қызылорда қалалық мәслихатының 2012.07.24 N 7/2 (2012 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Қызылорда қалалық мәслихатының 2012.09.04 N 8/1 (2012 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <tr>
 <th></th>
 <th></th>
-<th colspan="4">Бюджеттік бағдарлама әкімшісі</th>
+<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
 </tr>
 <tr>
 <th></th>
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>8 324 478</td>
+<td>8 361 659</td>
 </tr>
 <tr>
 <td>04</td>
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>09</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -112,16 +112,16 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7 573 541</td>
+<td>7 610 722</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>5 041 910</td>
+<td>5 079 091</td>
 </tr>
 <tr>
 <td></td>
@@ -130,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>5 041 910</td>
+<td>5 079 091</td>
 </tr>
 <tr>
 <td></td>
@@ -138,8 +138,8 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td>003</td>
 <td></td>
-<td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үй құрылысы және (немесе) сатып алу</td>
-<td>2 554 078</td>
+<td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үйін жобалау, салу және (немесе) сатып алу</td>
+<td>2 591 259</td>
 </tr>
 <tr>
 <td></td>
@@ -148,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td>011</td>
 <td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
-<td>1 912 568</td>
+<td>1 949 749</td>
 </tr>
 <tr>
 <td></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td>004</td>
 <td></td>
-<td>Инженерлік коммуникациялық инфрақұрылымды дамыту және жайластыру және (немесе) сатып алу</td>
+<td>Инженерлік коммуникациялық инфрақұрылымды жобалау, дамыту, жайластыру және (немесе) сатып алу</td>
 <td>1 741 800</td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -332,11 +332,11 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді-мекендерді абаттандыру</td>
 <td></td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -422,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -476,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>09</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -548,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -575,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -696,16 +696,16 @@ source: https://zan.gov.kz/client/#!/doc/62323/kaz/24.07.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Басқалар</td>
+<td>Өзгелер</td>
 <td>462 525</td>
 </tr>
 <tr>
 <td></td>
-<td>09</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Басқалар</td>
+<td>Өзгелер</td>
 <td>462 525</td>
 </tr>
 <tr>
