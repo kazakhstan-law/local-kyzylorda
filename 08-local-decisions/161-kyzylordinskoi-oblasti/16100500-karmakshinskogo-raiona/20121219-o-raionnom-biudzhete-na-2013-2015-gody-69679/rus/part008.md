@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69679/rus/28.08.2013
+source: https://zan.gov.kz/client/#!/doc/69679/rus/29.10.2013
 ---
 
 ## Список бюджетных программ на 2015 год аппаратов акима поселка, аульного (сельского) округа
