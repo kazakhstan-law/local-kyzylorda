@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69729/rus/13.09.2013
+source: https://zan.gov.kz/client/#!/doc/69729/rus/04.11.2013
 ---
 
 ## Районный бюджет на 2014 год
@@ -3006,7 +3006,7 @@ source: https://zan.gov.kz/client/#!/doc/69729/rus/13.09.2013
 <td></td>
 <td></td>
 <td></td>
-<td>6.Финансирование дефицита бюджета (использование профицита)</td>
+<td>6. Финансирование дефицита бюджета (использование профицита)</td>
 <td>0</td>
 </tr>
 <tr>
