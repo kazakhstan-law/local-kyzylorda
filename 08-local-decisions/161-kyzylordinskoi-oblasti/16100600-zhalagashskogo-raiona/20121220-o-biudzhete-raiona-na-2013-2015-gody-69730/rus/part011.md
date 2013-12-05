@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69730/rus/30.10.2013
+source: https://zan.gov.kz/client/#!/doc/69730/rus/05.12.2013
 ---
 
 ## Расходы, направленные на увеличение средств по бюджетным программам бюджета района на 2013 год
