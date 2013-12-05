@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
+source: https://zan.gov.kz/client/#!/doc/69530/rus/05.12.2013
 ---
 
 ## Городской бюджет на 2013 год
 
-> *Сноска. Приложение 1 в редакции решения Кызылординского городского маслихата от 29.10.2013 N 23/1 (вводится в действие со дня его первого официального опубликования и распространяется на отношения, возникшие с 01.01.2013).*
+> *Сноска. Приложение 1 в редакции решения Кызылординского городского маслихата от 05.12.2013 N 24/1 (вводится в действие со дня его первого официального опубликования и распространяется на отношения, возникшие с 01.01.2013).*
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <th colspan="2"></th>
 <th colspan="2"></th>
 <th colspan="3">1. Доходы</th>
-<th>30 629 545,0</th>
+<th>31 192 278,0</th>
 </tr>
 <tr>
 <td>1</td>
@@ -466,10 +466,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">02</td>
-<td colspan="3">
-Государственная пошлина, взимаемая с подаваемых в суд исковых заявлений, заявлений особого искового производства, заявлений (жалоб) по делам особого производства, заявлений о вынесении судебного приказа, заявлений о выдаче дубликата исполнительного листа, заявлений о выдаче
-исполнительных листов на принудительное исполнение решений третейских (арбитражных) судов и иностранных судов, заявлений о повторной выдаче копий судебных актов, исполнительных листов и иных документов, за исключением государственной пошлины с подаваемых в суд исковых заявлений к государственным учреждениям
-</td>
+<td colspan="3">Государственная пошлина, взимаемая с подаваемых в суд исковых заявлений, заявлений особого искового производства, заявлений (жалоб) по делам особого производства, заявлений о вынесении судебного приказа, заявлений о выдаче дубликата исполнительного листа, заявлений о выдаче исполнительных листов на принудительное исполнение решений третейских (арбитражных) судов и иностранных судов, заявлений о повторной выдаче копий судебных актов, исполнительных листов и иных документов, за исключением государственной пошлины с подаваемых в суд исковых заявлений к государственным учреждениям</td>
 <td>300 000,0</td>
 </tr>
 <tr>
@@ -501,10 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">07</td>
-<td colspan="3">
-Государственная пошлина, взимаемая за оформление документов о приобретении гражданства Республики Казахстан, восстановлении гражданства Республики Казахстан и прекращении гражданства Республики
-Казахстан
-</td>
+<td colspan="3">Государственная пошлина, взимаемая за оформление документов о приобретении гражданства Республики Казахстан, восстановлении гражданства Республики Казахстан и прекращении гражданства Республики Казахстан</td>
 <td>100,0</td>
 </tr>
 <tr>
@@ -826,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3">Продажа нематериальных активов</td>
-<td>4 623,0</td>
+<td>4623</td>
 </tr>
 <tr>
 <td></td>
@@ -842,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>20 803 545,0</td>
+<td>21 366 278,0</td>
 </tr>
 <tr>
 <td></td>
@@ -850,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>20 803 545,0</td>
+<td>21 366 278,0</td>
 </tr>
 <tr>
 <td></td>
@@ -858,7 +852,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>20 803 545,0</td>
+<td>21 366 278,0</td>
 </tr>
 <tr>
 <td></td>
@@ -866,7 +860,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="3">Целевые текущие трансферты</td>
-<td>4 870 014,0</td>
+<td>4 844 288,0</td>
 </tr>
 <tr>
 <td></td>
@@ -874,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3">Целевые трансферты на развитие</td>
-<td>12 320 431,0</td>
+<td>12 908 890,0</td>
 </tr>
 <tr>
 <td></td>
@@ -930,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <th colspan="2"></th>
 <th></th>
 <th>2. Расходы</th>
-<th>31 155 924,8</th>
+<th>31 718 657,8</th>
 </tr>
 <tr>
 <td>01</td>
@@ -1308,7 +1302,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Образование</td>
-<td>9 927 620,0</td>
+<td>9 907 361,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1443,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>586 055,0</td>
+<td>565 796,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1452,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>506 955,0</td>
+<td>486 696,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1497,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">015</td>
 <td></td>
 <td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>62 503,0</td>
+<td>42 244,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1506,7 +1500,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>62 503,0</td>
+<td>42 244,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1626,13 +1620,13 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td>193,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>1 098 508,0</td>
+<td>1 094 869,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1641,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>987 809,0</td>
+<td>984 170,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1650,7 +1644,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>903 395,0</td>
+<td>899 756,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1740,7 +1734,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">007</td>
 <td></td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>184 203,0</td>
+<td>183 786,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1749,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>028</td>
 <td>За счет трансфертов из областного бюджета</td>
-<td>150 782,0</td>
+<td>150 365,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1812,7 +1806,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">014</td>
 <td></td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>37 119,0</td>
+<td>37 048,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1821,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>1 742,0</td>
+<td>1 671,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1839,7 +1833,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">015</td>
 <td></td>
 <td>Территориальные центры социального обслуживания пенсионеров и инвалидов</td>
-<td>30 971,0</td>
+<td>27 820,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1848,7 +1842,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>23 310,0</td>
+<td>20 159,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1881,7 +1875,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">023</td>
+<td>023</td>
 <td></td>
 <td>Обеспечение деятельности центров занятости населения</td>
 <td>1 060,0</td>
@@ -1907,7 +1901,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">464</td>
+<td>464</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
@@ -1917,7 +1911,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td></td>
 <td>Социальная поддержка обучающихся и воспитанников организаций образования очной формы обучения в виде льготного проезда на общественном транспорте (кроме такси) по решению местных представительных органов</td>
 <td>84 414,0</td>
@@ -1992,7 +1986,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>12 530 489,8</td>
+<td>13 118 948,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2001,12 +1995,12 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>4 788 518,8</td>
+<td>4 926 977,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
@@ -2016,7 +2010,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">027</td>
+<td>027</td>
 <td></td>
 <td>Ремонт и благоустройства объектов в рамках развития сельских населенных пунктов по Дорожной карте занятости 2020</td>
 <td>1 074,0</td>
@@ -2087,20 +2081,20 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">467</td>
+<td>467</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>4 641 712,8</td>
+<td>4 780 171,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td></td>
 <td>Проектирование, строительство и (или) приобретение жилья коммунального жилищного фонда</td>
-<td>3 161 071,4</td>
+<td>3 299 530,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2127,13 +2121,13 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>521 271,4</td>
+<td>659 730,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">004</td>
+<td>004</td>
 <td></td>
 <td>Проектирование, развитие, обустройство и (или) приобретение инженерно-коммуникационной инфраструктуры</td>
 <td>1 381 444,6</td>
@@ -2160,7 +2154,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td></td>
 <td>Развитие инженерно-коммуникационной инфраструктуры в рамках Дорожной карты занятости 2020</td>
 <td>5 276,8</td>
@@ -2178,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">072</td>
+<td>072</td>
 <td></td>
 <td>Строительство и (или) приобретение служебного жилища и развитие и (или) приобретение инженерно-коммуникационной инфраструктуры в рамках Дорожной карты занятости 2020</td>
 <td>93 920,0</td>
@@ -2226,7 +2220,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>4 552 726,0</td>
+<td>5 002 726,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2250,7 +2244,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">028</td>
+<td>028</td>
 <td></td>
 <td>Развитие коммунального хозяйства</td>
 <td>1 066 534,0</td>
@@ -2276,20 +2270,20 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">467</td>
+<td>467</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>3 466 194,0</td>
+<td>3 916 194,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">006</td>
+<td>006</td>
 <td></td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td>3 207 903,0</td>
+<td>3 657 903,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2298,7 +2292,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>3 050 514,0</td>
+<td>3 500 514,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2770,7 +2764,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -2780,7 +2774,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">458</td>
+<td>458</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
@@ -2790,7 +2784,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">019</td>
+<td>019</td>
 <td></td>
 <td>Развитие теплоэнергетической системы</td>
 <td>30 740,0</td>
@@ -2807,7 +2801,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">467</td>
+<td>467</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
@@ -2817,7 +2811,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">009</td>
+<td>009</td>
 <td></td>
 <td>Развитие теплоэнергетической системы</td>
 <td>12 877,0</td>
@@ -2880,7 +2874,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">099</td>
+<td>099</td>
 <td></td>
 <td>Реализация мер по оказанию социальной поддержки специалистов</td>
 <td>0,0</td>
@@ -2897,17 +2891,20 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">467</td>
+<td>467</td>
 <td colspan="2"></td>
 <td></td>
-<td>Отдел строительства района (города областного значения)</td>
+<td>
+Отдел строительства района (города областного
+значения)
+</td>
 <td>17 727,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">010</td>
+<td>010</td>
 <td></td>
 <td>Развитие объектов сельского хозяйства</td>
 <td>17 727,0</td>
@@ -3170,7 +3167,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -3180,7 +3177,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">473</td>
+<td>473</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
@@ -3190,7 +3187,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">011</td>
+<td>011</td>
 <td></td>
 <td>Проведение противоэпизоотических мероприятий</td>
 <td>0,0</td>
@@ -3207,7 +3204,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">474</td>
+<td>474</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел сельского хозяйства и ветеринарии района (города областного значения)</td>
@@ -3217,7 +3214,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td></td>
 <td>Проведение противоэпизоотических мероприятий</td>
 <td>32 017,0</td>
@@ -3382,7 +3379,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>328 955,0</td>
+<td>327 127,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3436,7 +3433,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>315 395,0</td>
+<td>313 567,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3445,7 +3442,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>15 927,0</td>
+<td>14 099,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3454,7 +3451,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2">040</td>
 <td></td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
-<td>15 927,0</td>
+<td>14 099,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3463,7 +3460,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>15 345,0</td>
+<td>13 517,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3557,7 +3554,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -3567,7 +3564,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">452</td>
+<td>452</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
@@ -3577,7 +3574,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td></td>
 <td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
 <td>856,0</td>
@@ -3593,7 +3590,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -3603,7 +3600,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">452</td>
+<td>452</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
@@ -3613,7 +3610,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">006</td>
+<td>006</td>
 <td></td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>168 543,0</td>
@@ -3622,7 +3619,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">016</td>
+<td>016</td>
 <td></td>
 <td>Возврат, использованных не по целевому назначению целевых трансфертов</td>
 <td>45 745,0</td>
@@ -3665,7 +3662,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -3675,7 +3672,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">462</td>
+<td>462</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел сельского хозяйства района (города областного значения)</td>
@@ -3685,7 +3682,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td></td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
 <td>0,0</td>
@@ -3711,7 +3708,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">474</td>
+<td>474</td>
 <td colspan="2"></td>
 <td></td>
 <td>Отдел сельского хозяйства и ветеринарии района (города областного значения)</td>
@@ -3721,7 +3718,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">009</td>
+<td>009</td>
 <td></td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
 <td>25 965,0</td>
@@ -3847,7 +3844,7 @@ source: https://zan.gov.kz/client/#!/doc/69530/rus/29.10.2013
 Поступления от продажи финансовых активов
 государства
 </td>
-<td>0,0</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
