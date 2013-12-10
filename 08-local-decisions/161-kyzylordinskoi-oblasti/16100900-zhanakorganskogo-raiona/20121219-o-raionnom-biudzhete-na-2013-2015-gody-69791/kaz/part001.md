@@ -1,41 +1,50 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
+source: https://zan.gov.kz/client/#!/doc/69791/kaz/10.12.2013
 ---
 
 ## 2013 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 04.11.2013 N 162 шешімімен (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі және 01.01.2013 бастап пайда болған қатынастарға таралады).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 10.12.2013 N 174 шешімімен (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі және 01.01.2013 бастап пайда болған қатынастарға таралады).*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td>Сомасы, мың</td>
+<td colspan="5">Санаты</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <th></th>
-<th colspan="3">Сыныбы</th>
+<th colspan="4">Сыныбы</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<th colspan="3">Iшкi сыныбы</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">Ерекшелiгi</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Атауы</th>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1.Кірістер</td>
-<td>8353152</td>
+<td>8332526</td>
 </tr>
 <tr>
 <th>1</th>
+<th></th>
 <th></th>
 <th></th>
 <th>Салықтық түсiмдер</th>
@@ -45,6 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th></th>
 <th>01</th>
 <th></th>
+<th></th>
 <th>Табыс салығы</th>
 <th>556313</th>
 </tr>
@@ -52,12 +62,14 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Жеке табыс салығы</td>
 <td>556313</td>
 </tr>
 <tr>
 <th></th>
 <th>03</th>
+<th></th>
 <th></th>
 <th>Әлеуметтiк салық</th>
 <th>422886</th>
@@ -66,12 +78,14 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Әлеуметтiк салық</td>
 <td>422886</td>
 </tr>
 <tr>
 <th></th>
 <th>04</th>
+<th></th>
 <th></th>
 <th>Меншiкке салынатын салықтар</th>
 <th>503237</th>
@@ -80,6 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Мүлiкке салынатын салықтар</td>
 <td>447811</td>
 </tr>
@@ -87,6 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>3</td>
+<td></td>
 <td>Жер салығы</td>
 <td>9416</td>
 </tr>
@@ -94,6 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>4</td>
+<td></td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>42755</td>
 </tr>
@@ -101,12 +118,14 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>5</td>
+<td></td>
 <td>Бiрыңғай жер салығы</td>
 <td>3255</td>
 </tr>
 <tr>
 <th></th>
 <th>05</th>
+<th></th>
 <th></th>
 <th>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</th>
 <th>23145</th>
@@ -115,6 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Акциздер</td>
 <td>5066</td>
 </tr>
@@ -122,6 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>3</td>
+<td></td>
 <td>Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>6635</td>
 </tr>
@@ -129,6 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>4</td>
+<td></td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>10718</td>
 </tr>
@@ -136,12 +158,14 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>5</td>
+<td></td>
 <td>Ойын бизнесiне салық</td>
 <td>726</td>
 </tr>
 <tr>
 <th></th>
 <th>08</th>
+<th></th>
 <th></th>
 <th>Заңдық мәндi iс-әрекеттердi жасағаны және (немесе) оған уәкiлеттiгi бар мемлекеттiк органдар немесе лауазымды адамдар құжаттар бергенi үшiн алынатын мiндеттi төлемдер</th>
 <th>4285</th>
@@ -150,6 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Мемлекеттiк баж</td>
 <td>4285</td>
 </tr>
@@ -157,20 +182,23 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>2</th>
 <th></th>
 <th></th>
+<th></th>
 <th>Салықтық емес түсiмдер</th>
-<th>165705</th>
+<th>165714</th>
 </tr>
 <tr>
 <th></th>
 <th>01</th>
 <th></th>
+<th></th>
 <th>Мемлекеттiк меншiктен түсетiн кiрiстер</th>
-<th>1027</th>
+<th>1036</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
+<td></td>
 <td>Мемлекет меншiгiндегi мүлiктi жалға беруден түсетiн кiрiстер</td>
 <td>1007</td>
 </tr>
@@ -178,12 +206,14 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>7</td>
+<td></td>
 <td>Мемлекеттiк бюджеттен берiлген кредиттер бойынша сыйақылар</td>
-<td>20</td>
+<td>29</td>
 </tr>
 <tr>
 <th></th>
 <th>06</th>
+<th></th>
 <th></th>
 <th>Басқа да салықтық емес түсiмдер</th>
 <th>164678</th>
@@ -192,11 +222,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>164678</td>
 </tr>
 <tr>
 <th>3</th>
+<th></th>
 <th></th>
 <th></th>
 <th>Негiзгi капиталды сатудан түсетiн түсiмдер</th>
@@ -206,6 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th></th>
 <th>03</th>
 <th></th>
+<th></th>
 <th>Жердi және материалдық емес активтердi сату</th>
 <th>2895</th>
 </tr>
@@ -213,6 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>1</td>
+<td></td>
 <td>Жердi сату</td>
 <td>1605</td>
 </tr>
@@ -220,6 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Материалдық емес активтердi сату</td>
 <td>1290</td>
 </tr>
@@ -227,22 +262,25 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>4</th>
 <th></th>
 <th></th>
+<th></th>
 <th>Трансферттердiң түсiмдерi</th>
-<th>6674686</th>
+<th>6654051</th>
 </tr>
 <tr>
 <th></th>
 <th>02</th>
 <th></th>
+<th></th>
 <th>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</th>
-<th>6674686</th>
+<th>6654051</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
+<td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>6674686</td>
+<td>6654051</td>
 </tr>
 </table>
 
@@ -267,11 +305,11 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th></th>
@@ -279,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th></th>
 <th></th>
 <th>2. Шығындар</th>
-<th>8531912</th>
+<th>8511235</th>
 </tr>
 <tr>
 <td>01</td>
@@ -559,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4194451</td>
+<td>4207326</td>
 </tr>
 <tr>
 <th></th>
@@ -567,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>464</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</th>
-<th>4194451</th>
+<th>4207326</th>
 </tr>
 <tr>
 <td></td>
@@ -575,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>4075519</td>
+<td>4088394</td>
 </tr>
 <tr>
 <td></td>
@@ -591,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>439248</td>
+<td>426373</td>
 </tr>
 <tr>
 <th></th>
@@ -599,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>464</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</th>
-<th>344248</th>
+<th>331373</th>
 </tr>
 <tr>
 <td></td>
@@ -655,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>213872</td>
+<td>200997</td>
 </tr>
 <tr>
 <th></th>
@@ -711,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>462364</td>
+<td>461948</td>
 </tr>
 <tr>
 <td></td>
@@ -719,7 +757,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>403347</td>
+<td>402931</td>
 </tr>
 <tr>
 <th></th>
@@ -727,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>451</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</th>
-<th>403347</th>
+<th>402931</th>
 </tr>
 <tr>
 <td></td>
@@ -767,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>007</td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>41699</td>
+<td>41542</td>
 </tr>
 <tr>
 <td></td>
@@ -791,7 +829,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>014</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>49966</td>
+<td>49707</td>
 </tr>
 <tr>
 <td></td>
@@ -863,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>100945</td>
+<td>84945</td>
 </tr>
 <tr>
 <th></th>
@@ -903,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>458</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</th>
-<th>33781</th>
+<th>17781</th>
 </tr>
 <tr>
 <td></td>
@@ -912,14 +950,6 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>002</td>
 <td>Мемлекеттiк қажеттiлiктер үшiн жер учаскелерiн алып қою, соның iшiнде сатып алу жолымен алып қою және осыған байланысты жылжымайтын мүлiктi иелiктен айыру</td>
 <td>10000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>033</td>
-<td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту, жайластыру және (немесе) сатып алу</td>
-<td>16000</td>
 </tr>
 <tr>
 <td></td>
@@ -951,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>746221</td>
+<td>762221</td>
 </tr>
 <tr>
 <th></th>
@@ -975,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>458</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</th>
-<th>743088</th>
+<th>759088</th>
 </tr>
 <tr>
 <td></td>
@@ -983,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>012</td>
 <td>Сумен жабдықтау және су бөлу жүйесінің қызмет етуі</td>
-<td>36480</td>
+<td>52480</td>
 </tr>
 <tr>
 <td></td>
@@ -1559,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>102568</td>
+<td>82298</td>
 </tr>
 <tr>
 <td></td>
@@ -1572,38 +1602,6 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <tr>
 <th></th>
 <th></th>
-<th>469</th>
-<th></th>
-<th>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</th>
-<th>0</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Жергілікті деңгейде кәсіпкерлік пен өнеркәсіпті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>003</td>
-<td>Кәсіпкерлік қызметті қолдау</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>0</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
 <th>493</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік, өнеркәсіп және туризм бөлімі</th>
@@ -1612,7 +1610,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td>493</td>
 <td>006</td>
 <td>Кәсіпкерлік қызметті қолдау</td>
 <td>460</td>
@@ -1623,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>102108</td>
+<td>81838</td>
 </tr>
 <tr>
 <th></th>
@@ -1631,15 +1629,15 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>123</th>
 <th></th>
 <th>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</th>
-<th>60062</th>
+<th>40087</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>040</td>
-<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
-<td>60062</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>40087</td>
 </tr>
 <tr>
 <th></th>
@@ -1647,7 +1645,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>452</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</th>
-<th>18292</th>
+<th>17997</th>
 </tr>
 <tr>
 <td></td>
@@ -1655,7 +1653,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>012</td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>18292</td>
+<td>17997</td>
 </tr>
 <tr>
 <th></th>
@@ -1703,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>20</td>
+<td>29</td>
 </tr>
 <tr>
 <td></td>
@@ -1711,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>20</td>
+<td>29</td>
 </tr>
 <tr>
 <th></th>
@@ -1719,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>452</th>
 <th></th>
 <th>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</th>
-<th>20</th>
+<th>29</th>
 </tr>
 <tr>
 <td></td>
@@ -1727,7 +1725,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td>013</td>
 <td>Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>20</td>
+<td>29</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1802,12 +1800,12 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>129825</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>462</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлiмi</td>
-<td>129825</td>
+<th></th>
+<th></th>
+<th>462</th>
+<th></th>
+<th>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлiмi</th>
+<th>129825</th>
 </tr>
 <tr>
 <td></td>
@@ -1863,7 +1861,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>-290028</td>
+<td>-289977</td>
 </tr>
 <tr>
 <td></td>
@@ -1871,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>290028</td>
+<td>289977</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1911,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>18557</td>
+<td>18608</td>
 </tr>
 <tr>
 <td></td>
@@ -1919,15 +1917,15 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>18557</td>
+<td>18608</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>452</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлiмi</td>
-<td>18557</td>
+<th></th>
+<th></th>
+<th>452</th>
+<th></th>
+<th>Ауданның (облыстық маңызы бар қаланың) қаржы бөлiмi</th>
+<th>18608</th>
 </tr>
 <tr>
 <td></td>
@@ -1938,20 +1936,28 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>18557</td>
 </tr>
 <tr>
-<td>8</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>178760</td>
+<td>021</td>
+<td>Жергілікті бюджеттен бөлінген пайдаланылмаған бюджеттік кредиттерді қайтару</td>
+<td>51</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Бюджет қаражаты қалдықтары</td>
-<td>178760</td>
+<th>8</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Бюджет қаражаттарының пайдаланылатын қалдықтары</th>
+<th>178760</th>
+</tr>
+<tr>
+<th></th>
+<th>01</th>
+<th></th>
+<th></th>
+<th>Бюджет қаражаты қалдықтары</th>
+<th>178760</th>
 </tr>
 <tr>
 <td></td>
@@ -4637,7 +4643,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 
 ## 2013 жылға кент, ауылдық округтерге қаралған қаржы бөлінісі
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 04.11.2013 N 162 шешімімен (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі және 01.01.2013 бастап пайда болған қатынастарға таралады).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 10.12.2013 N 174 шешімімен (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі және 01.01.2013 бастап пайда болған қатынастарға таралады).*
 
 <table>
 <tr>
@@ -4661,7 +4667,7 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 </tr>
 <tr>
 <td>1</td>
-<td>Жаңақорған к/ә</td>
+<td>Жаңақорған к</td>
 <td>32693</td>
 <td>6318</td>
 <td>0</td>
@@ -4670,17 +4676,17 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>33677</td>
 <td>0</td>
 <td>24995</td>
-<td>10062</td>
+<td>9056</td>
 <td>16176</td>
 <td>83019</td>
 <td>166330</td>
 <td>128022</td>
 <td>0</td>
-<td>601467</td>
+<td>600461</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Шалқия к/ә</td>
+<td>Шалқия к</td>
 <td>11991</td>
 <td>600</td>
 <td>3</td>
@@ -4689,13 +4695,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2664</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>974</td>
 <td>0</td>
 <td>0</td>
 <td>12382</td>
 <td>12797</td>
 <td>0</td>
-<td>45824</td>
+<td>44798</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4708,13 +4714,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>136</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1188</td>
 <td>1481</td>
 <td>0</td>
 <td>12959</td>
 <td>0</td>
 <td>0</td>
-<td>29740</td>
+<td>28928</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4727,13 +4733,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>362</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1269</td>
 <td>0</td>
 <td>0</td>
 <td>160</td>
 <td>14612</td>
 <td>0</td>
-<td>40290</td>
+<td>39559</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4746,13 +4752,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>242</td>
 <td>3133</td>
 <td>0</td>
-<td>2000</td>
+<td>985</td>
 <td>2000</td>
 <td>0</td>
 <td>15885</td>
 <td>12176</td>
 <td>0</td>
-<td>49850</td>
+<td>48835</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4765,13 +4771,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2223</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1015</td>
 <td>1509</td>
 <td>0</td>
 <td>31684</td>
 <td>22538</td>
 <td>1000</td>
-<td>76136</td>
+<td>75151</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4784,13 +4790,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>1855</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>989</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>20532</td>
+<td>19521</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4822,13 +4828,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>461</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1133</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>6110</td>
 <td>0</td>
-<td>86198</td>
+<td>85331</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4841,13 +4847,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>400</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1020</td>
 <td>2156</td>
 <td>0</td>
 <td>12578</td>
 <td>0</td>
 <td>0</td>
-<td>45011</td>
+<td>44031</td>
 </tr>
 <tr>
 <td>11</td>
@@ -4860,13 +4866,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>642</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1032</td>
 <td>0</td>
 <td>0</td>
 <td>17670</td>
 <td>21329</td>
 <td>0</td>
-<td>61536</td>
+<td>60568</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4879,17 +4885,17 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2803</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1041</td>
 <td>0</td>
 <td>0</td>
 <td>24800</td>
 <td>23765</td>
 <td>0</td>
-<td>68594</td>
+<td>67635</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Ақүйық а/о</td>
+<td>Ақүйык а/о</td>
 <td>11615</td>
 <td>150</td>
 <td>0</td>
@@ -4898,13 +4904,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2242</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1190</td>
 <td>0</td>
 <td>0</td>
 <td>17567</td>
 <td>6110</td>
 <td>0</td>
-<td>42301</td>
+<td>41491</td>
 </tr>
 <tr>
 <td>14</td>
@@ -4917,13 +4923,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>4858</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1290</td>
 <td>0</td>
 <td>0</td>
 <td>13166</td>
 <td>6089</td>
 <td>0</td>
-<td>40759</td>
+<td>40049</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4936,13 +4942,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>495</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>950</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>62037</td>
+<td>60987</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4955,13 +4961,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>453</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1248</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>10959</td>
 <td>0</td>
-<td>38014</td>
+<td>37262</td>
 </tr>
 <tr>
 <td>17</td>
@@ -4974,13 +4980,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>113</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1146</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>20163</td>
+<td>19309</td>
 </tr>
 <tr>
 <td>18</td>
@@ -4993,13 +4999,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>1764</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1190</td>
 <td>0</td>
 <td>0</td>
 <td>9688</td>
 <td>0</td>
 <td>0</td>
-<td>24431</td>
+<td>23621</td>
 </tr>
 <tr>
 <td>19</td>
@@ -5012,13 +5018,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>790</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1245</td>
 <td>0</td>
 <td>0</td>
 <td>13571</td>
 <td>0</td>
 <td>0</td>
-<td>29075</td>
+<td>28320</td>
 </tr>
 <tr>
 <td>20</td>
@@ -5031,13 +5037,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>106</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1190</td>
 <td>0</td>
 <td>0</td>
 <td>4155</td>
 <td>4871</td>
 <td>0</td>
-<td>27400</td>
+<td>26590</td>
 </tr>
 <tr>
 <td>21</td>
@@ -5050,13 +5056,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>653</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1300</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>3055</td>
 <td>0</td>
-<td>19461</td>
+<td>18761</td>
 </tr>
 <tr>
 <td>22</td>
@@ -5069,13 +5075,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>1657</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1046</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>3727</td>
 <td>0</td>
-<td>19243</td>
+<td>18289</td>
 </tr>
 <tr>
 <td>23</td>
@@ -5088,13 +5094,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>438</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1786</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>3566</td>
 <td>0</td>
-<td>22830</td>
+<td>22616</td>
 </tr>
 <tr>
 <td>24</td>
@@ -5107,13 +5113,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2489</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1786</td>
 <td>0</td>
 <td>0</td>
 <td>4155</td>
 <td>4871</td>
 <td>0</td>
-<td>25825</td>
+<td>25611</td>
 </tr>
 <tr>
 <td>25</td>
@@ -5126,13 +5132,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>2070</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1232</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>6089</td>
 <td>0</td>
-<td>22799</td>
+<td>22031</td>
 </tr>
 <tr>
 <td>26</td>
@@ -5145,13 +5151,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <td>1865</td>
 <td>0</td>
 <td>0</td>
-<td>2000</td>
+<td>1786</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>9742</td>
 <td>0</td>
-<td>28147</td>
+<td>27933</td>
 </tr>
 <tr>
 <th></th>
@@ -5164,13 +5170,13 @@ source: https://zan.gov.kz/client/#!/doc/69791/kaz/04.11.2013
 <th>65941</th>
 <th>3133</th>
 <th>24995</th>
-<th>60062</th>
+<th>40087</th>
 <th>28491</th>
 <th>83019</th>
 <th>373819</th>
 <th>300428</th>
 <th>1000</th>
-<th>1622037</th>
+<th>1602062</th>
 </tr>
 </table>
 
