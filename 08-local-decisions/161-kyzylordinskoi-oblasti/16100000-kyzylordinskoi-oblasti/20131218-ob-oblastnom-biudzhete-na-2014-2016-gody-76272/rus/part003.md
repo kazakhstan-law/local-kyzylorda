@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76272/rus/18.12.2013
+source: https://zan.gov.kz/client/#!/doc/76272/rus/07.02.2014
 ---
 
 ## Областной бюджет на 2016 год
@@ -8,19 +8,16 @@ source: https://zan.gov.kz/client/#!/doc/76272/rus/18.12.2013
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Класс</td>
+<th></th>
+<th colspan="3">Класс</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
+<th></th>
+<th></th>
+<th colspan="2">Подкласс</th>
 </tr>
 <tr>
 <td></td>

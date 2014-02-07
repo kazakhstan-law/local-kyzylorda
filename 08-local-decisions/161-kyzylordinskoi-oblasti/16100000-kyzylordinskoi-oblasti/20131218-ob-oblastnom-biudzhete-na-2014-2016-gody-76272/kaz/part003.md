@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
+source: https://zan.gov.kz/client/#!/doc/76272/kaz/07.02.2014
 ---
 
 ## 2016 жылға арналған облыстық бюджет
@@ -8,19 +8,16 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
+<th></th>
+<th colspan="3">Сыныбы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Iшкi сыныбы</td>
+<th></th>
+<th></th>
+<th colspan="2">Iшкi сыныбы</th>
 </tr>
 <tr>
 <td></td>
@@ -239,17 +236,17 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
 <td>80 719 104</td>
 </tr>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4"></td>
+<th colspan="4">Функционалдық топ</th>
+<th rowspan="4"></th>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<th></th>
+<th colspan="3">Бюджеттік бағдарламалардың әкімшісі</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<th></th>
+<th></th>
+<th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
 <td></td>
 <td></td>
 <td>001</td>
-<td>Облыс әкімнің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>Облыс әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>1 063 002</td>
 </tr>
 <tr>
@@ -611,7 +608,7 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
 <td></td>
 <td></td>
 <td>004</td>
-<td>Балаларын құқықтарын қорғау саласында іс-шаралар өткізу</td>
+<td>Балалардың құқықтарын қорғау саласында іс-шаралар өткізу</td>
 <td>16 327</td>
 </tr>
 <tr>
@@ -891,7 +888,7 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/18.12.2013
 <td></td>
 <td></td>
 <td>113</td>
-<td>Жергілікті бюджеттерден берілетін ағымдағы нысалы трансферттер</td>
+<td>Жергілікті бюджеттерден берілетін ағымдағы нысаналы трансферттер</td>
 <td>433 615</td>
 </tr>
 <tr>
