@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76273/rus/24.12.2013
+source: https://zan.gov.kz/client/#!/doc/76273/rus/18.02.2014
 ---
 
 ## Городской бюджет на 2015 год
@@ -8,7 +8,7 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/24.12.2013
 <table>
 <tr>
 <td colspan="6">Категория</td>
-<td rowspan="5">2015 год Сумма, тысяч тенге</td>
+<td>2015 год Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <th></th>

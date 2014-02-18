@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76273/kaz/24.12.2013
+source: https://zan.gov.kz/client/#!/doc/76273/kaz/18.02.2014
 ---
 
 ## 2015 жылға арналған қалалық бюджет
@@ -8,22 +8,22 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/24.12.2013
 <table>
 <tr>
 <td colspan="6">Санаты</td>
-<td rowspan="5">2015 жыл Сомасы, мың теңге</td>
+<td>2015 жыл Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="5">Сыныбы</td>
+<th></th>
+<th colspan="5">Сыныбы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<th></th>
+<th></th>
+<th colspan="4">Ішкі сыныбы</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3">Ерекшелігі</td>
+<th></th>
+<th></th>
+<th></th>
+<th colspan="3">Ерекшелігі</th>
 </tr>
 <tr>
 <td></td>
@@ -1370,7 +1370,7 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/24.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td>О15</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>1055430</td>
 </tr>
@@ -1902,7 +1902,7 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/24.12.2013
 <td></td>
 <td>067</td>
 <td></td>
-<td>Ведомостволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
 <td></td>
 </tr>
 <tr>
