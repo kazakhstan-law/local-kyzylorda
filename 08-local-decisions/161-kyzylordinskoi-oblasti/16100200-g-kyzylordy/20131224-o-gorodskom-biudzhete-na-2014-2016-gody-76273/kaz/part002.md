@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76273/kaz/18.02.2014
+source: https://zan.gov.kz/client/#!/doc/76273/kaz/29.04.2014
 ---
 
 ## 2015 жылға арналған қалалық бюджет
@@ -996,9 +996,9 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/18.02.2014
 <th colspan="5">Кіші функция</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="4"></td>
+<th></th>
+<th></th>
+<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
 </tr>
 <tr>
 <th></th>
@@ -3512,4 +3512,4 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/18.02.2014
 > *Қызылорда қалалық мәслихатының*  
 > *2013 жылғы 24 желтоқсандағы кезекті*  
 > *XXV сессиясының N 25/2 шешіміне*  
-> *3 қосымша*
+> *3-қосымша*
