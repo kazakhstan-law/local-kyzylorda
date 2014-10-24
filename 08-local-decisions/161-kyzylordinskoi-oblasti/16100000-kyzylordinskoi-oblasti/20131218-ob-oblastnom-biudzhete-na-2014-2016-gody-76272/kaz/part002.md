@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
+source: https://zan.gov.kz/client/#!/doc/76272/kaz/24.10.2014
 ---
 
 ## 2015 жылға арналған облыстық бюджет
@@ -8,16 +8,16 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td>Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="3">Сыныбы</th>
+<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -236,17 +236,17 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
 <td>83 180 589</td>
 </tr>
 <tr>
-<th colspan="4">Функционалдық топ</th>
-<th rowspan="4"></th>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="3">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Бағдарлама</th>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -1852,26 +1852,33 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
 </tr>
 </table>
 
-> *Қызылорда облыстық мәслихатының*  
-> *2013 жылғы "18" желтоқсандағы*  
-> *22 сессиясының N 164 шешіміне*  
-> *3-қосымша*
+<table>
+<tr>
+<td></td>
+<td>
+Қызылорда облыстық мәслихатының
+2013 жылғы &quot;18&quot; желтоқсандағы
+22 сессиясының N 164 шешіміне
+3-қосымша
+</td>
+</tr>
+</table>
 
 ## 2016 жылға арналған облыстық бюджет
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td>Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="3">Сыныбы</th>
+<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Iшкi сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2090,17 +2097,17 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
 <td>80 719 104</td>
 </tr>
 <tr>
-<th colspan="4">Функционалдық топ</th>
-<th rowspan="4"></th>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="3">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">Бағдарлама</th>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -3650,10 +3657,17 @@ source: https://zan.gov.kz/client/#!/doc/76272/kaz/30.07.2014
 </tr>
 </table>
 
-> *Қызылорда облыстық мәслихатының*  
-> *2013 жылғы "18" желтоқсандағы*  
-> *22 сессиясының N 164 шешіміне*  
-> *4-қосымша*
+<table>
+<tr>
+<td></td>
+<td>
+Қызылорда облыстық мәслихатының
+2013 жылғы &quot;18&quot; желтоқсандағы
+22 сессиясының N 164 шешіміне
+4-қосымша
+</td>
+</tr>
+</table>
 
 ## 2014 жылға арналған жергілікті бюджеттерді атқару процесінде секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалардың тізбесі
 
