@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/76273/kaz/27.11.2014
 ---
 
 ## 2015 жылға арналған қалалық бюджет
@@ -8,22 +8,22 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 <table>
 <tr>
 <td colspan="6">Санаты</td>
-<td>2015 жыл Сомасы, мың теңге</td>
+<td rowspan="5">2015 жыл Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Сыныбы</th>
+<td></td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Ішкі сыныбы</th>
+<td></td>
+<td></td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Ерекшелігі</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
@@ -34,13 +34,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>8</td>
 </tr>
 <tr>
 <td></td>
@@ -988,31 +988,31 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 <td></td>
 </tr>
 <tr>
-<th colspan="6">Функционалдық топ</th>
-<th rowspan="4"></th>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Кіші функция</th>
+<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Бюджеттік бағдарламалардың әкімшісі</th>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Бағдарлама</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Кіші бағдарлама</th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Кіші бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3184,13 +3184,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 <td>2091682</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>3. Таза бюджеттік кредит беру</th>
-<th>-4337</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3. Таза бюджеттік кредит беру</td>
+<td>-4337</td>
 </tr>
 <tr>
 <td></td>
@@ -3292,13 +3292,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 <td>4337</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3509,7 +3509,14 @@ source: https://zan.gov.kz/client/#!/doc/76273/kaz/30.10.2014
 </tr>
 </table>
 
-> *Қызылорда қалалық мәслихатының*  
-> *2013 жылғы 24 желтоқсандағы кезекті*  
-> *XXV сессиясының N 25/2 шешіміне*  
-> *3-қосымша*
+<table>
+<tr>
+<td></td>
+<td>
+Қызылорда қалалық мәслихатының
+2013 жылғы 24 желтоқсандағы кезекті
+XXV сессиясының N 25/2 шешіміне
+3-қосымша
+</td>
+</tr>
+</table>

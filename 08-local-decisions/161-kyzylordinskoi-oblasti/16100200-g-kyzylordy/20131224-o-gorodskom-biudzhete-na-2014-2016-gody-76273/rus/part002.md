@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
+source: https://zan.gov.kz/client/#!/doc/76273/rus/27.11.2014
 ---
 
 ## Городской бюджет на 2015 год
@@ -8,22 +8,22 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <table>
 <tr>
 <td colspan="6">Категория</td>
-<td>2015 год Сумма, тысяч тенге</td>
+<td rowspan="5">2015 год Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Класс</th>
+<td></td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">Подкласс</th>
+<td></td>
+<td></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Специфика</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td></td>
@@ -34,13 +34,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>8</td>
 </tr>
 <tr>
 <td></td>
@@ -988,32 +988,32 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <td></td>
 </tr>
 <tr>
-<th colspan="6">Функциональная группа</th>
-<th rowspan="4"></th>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="5">Функциональная подгруппа</th>
+<td></td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Администратор бюджетных программ</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="3">Программа</th>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Подпрограмма</th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3185,13 +3185,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <td>2091682</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>3. Чистое бюджетное кредитование</th>
-<th>-4337</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3. Чистое бюджетное кредитование</td>
+<td>-4337</td>
 </tr>
 <tr>
 <td></td>
@@ -3293,13 +3293,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <td>4337</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>4. Сальдо по операциям с финансовыми активами</th>
-<th>0</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3311,13 +3311,13 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 <td>0</td>
 </tr>
 <tr>
-<th>13</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th>0</th>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3510,7 +3510,14 @@ source: https://zan.gov.kz/client/#!/doc/76273/rus/30.10.2014
 </tr>
 </table>
 
-> *Приложение 3*  
-> *к решению очередной XXV сессии*  
-> *Кызылординского городского маслихата*  
-> *От 24 декабря 2013 года N 25/2*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 3
+к решению очередной XXV сессии
+Кызылординского городского маслихата
+От 24 декабря 2013 года N 25/2
+</td>
+</tr>
+</table>
