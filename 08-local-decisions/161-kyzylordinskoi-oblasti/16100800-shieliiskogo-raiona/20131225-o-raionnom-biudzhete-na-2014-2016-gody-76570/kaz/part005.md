@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76570/kaz/29.10.2014
+source: https://zan.gov.kz/client/#!/doc/76570/kaz/02.12.2014
 ---
 
 ## Кент, ауыл, ауылдық округ әкiмi аппаратының 2015 жылға арналған жергiлiктi бюджеттерінің шығыстары
