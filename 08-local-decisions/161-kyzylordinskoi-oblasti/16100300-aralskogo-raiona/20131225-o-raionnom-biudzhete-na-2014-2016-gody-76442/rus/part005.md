@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76442/rus/05.11.2014
+source: https://zan.gov.kz/client/#!/doc/76442/rus/05.12.2014
 ---
 
 ## Бюджет на 2015 год аппарата акима города районного значения, поселка, села, сельского округа
