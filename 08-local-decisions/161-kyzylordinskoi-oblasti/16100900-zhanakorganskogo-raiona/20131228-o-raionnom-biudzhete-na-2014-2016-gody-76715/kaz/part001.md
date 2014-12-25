@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
+source: https://zan.gov.kz/client/#!/doc/76715/kaz/25.12.2014
 ---
 
 ## 2014 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 06.11.2014 N 238 шешімімен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 01.01.2014 пайда болған қатынастарға таралады).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 25.12.2014 N 256 шешімімен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 01.01.2014 пайда болған қатынастарға таралады).*
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1.Кірістер</td>
-<td>9434437,3</td>
+<td>9425902,3</td>
 </tr>
 <tr>
 <td>1</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердiң түсiмдерi</td>
-<td>7540843,3</td>
+<td>7532308,3</td>
 </tr>
 <tr>
 <td>4</td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>7540843,3</td>
+<td>7532308,3</td>
 </tr>
 <tr>
 <td>4</td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>7540843,3</td>
+<td>7532308,3</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
@@ -357,12 +357,12 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">Атауы</th>
-<th></th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">Атауы</td>
+<td>8</td>
 </tr>
 <tr>
 <td></td>
@@ -370,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td>9811408,3</td>
+<td>9802873,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -642,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td>5994387</td>
+<td>5993510</td>
 </tr>
 <tr>
 <td>04</td>
@@ -682,7 +682,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4552368</td>
+<td>4551491</td>
 </tr>
 <tr>
 <td>04</td>
@@ -706,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4550386</td>
+<td>4549509</td>
 </tr>
 <tr>
 <td>04</td>
@@ -714,7 +714,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2">464</td>
 <td colspan="2">003</td>
 <td colspan="2">Жалпы білім беру</td>
-<td>4428368</td>
+<td>4427491</td>
 </tr>
 <tr>
 <td>04</td>
@@ -842,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>473672</td>
+<td>466014</td>
 </tr>
 <tr>
 <td>06</td>
@@ -850,7 +850,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек</td>
-<td>391951</td>
+<td>384293</td>
 </tr>
 <tr>
 <td>06</td>
@@ -874,7 +874,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>371992</td>
+<td>364334</td>
 </tr>
 <tr>
 <td>06</td>
@@ -890,7 +890,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/kaz/06.11.2014
 <td colspan="2">451</td>
 <td colspan="2">005</td>
 <td colspan="2">Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>12310</td>
+<td>4652</td>
 </tr>
 <tr>
 <td>06</td>
