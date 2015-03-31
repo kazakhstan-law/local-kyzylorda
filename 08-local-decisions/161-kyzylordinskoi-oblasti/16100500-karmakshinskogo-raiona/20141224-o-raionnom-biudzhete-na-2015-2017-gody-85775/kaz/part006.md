@@ -1,1260 +1,1728 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85775/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/85775/kaz/31.03.2015
 ---
 
 > *Қармақшы аудандық мәслихатының*  
 > *2014 жылғы «24» желтоқсандағы*  
-> *№225 шешіміне 6- қосымша*
+> *35-сессиясының №225 шешіміне 6- қосымша*
 
 # Кент, ауылдық округ әкімі аппараттарының 2015 жылға арналған бюджеттік бағдарламаларының тізбесі
 
+> *Ескерту. 6-қосымша жаңа редакцияда - Қызылорда облысы Қармақшы аудандық мәслихатының 31.03.2015 N 249 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 2015 жылдың 1 қаңтарынан бастап туындаған қатынастарға таралады)*
+
 <table>
 <tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td colspan="8">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5">Бағдарлама</td>
+<td></td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Кіші бағдарлама</td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>2. Шығындар</td>
-<td>1267810</td>
+<td>1676416,8</td>
 </tr>
 <tr>
-<td>01</td>
+<td>1</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>254346</td>
+<td>244759</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>254346</td>
+<td>244759</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">001</td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>229280</td>
+<td>224308</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
-<td>229280</td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>3676</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>45201</td>
+<td>718</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>22527</td>
+<td>276</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
-<td>12619</td>
+<td>245</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
-<td>12368</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
-<td>11490</td>
+<td>239</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
-<td>15386</td>
+<td>255</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
-<td>13972</td>
+<td>199</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>12818</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
-<td>14103</td>
+<td>245</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
-<td>14100</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
-<td>10552</td>
+<td>186</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
-<td>11406</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
-<td>13452</td>
+<td>228</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>19286</td>
+<td>247</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
-<td colspan="2"></td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>25066</td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>220632</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>2090</td>
+<td>44799</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>21819</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Қармақшы ауылдық округ әкімінің аппараты</td>
+<td>11393</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Жосалы ауылдық округ әкімінің аппараты</td>
+<td>11994</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Иіркөл ауылдық округ әкімінің аппараты</td>
+<td>10847</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жаңажол ауылдық округ әкімінің аппараты</td>
+<td>15012</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
+<td>12361</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақтөбе ауылдық округ әкімінің аппараты</td>
+<td>12492</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақжар ауылдық округ әкімінің аппараты</td>
+<td>13922</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Дауылкөл ауылдық округ әкімінің аппараты</td>
+<td>13869</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
+<td>10083</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Қуандария ауылдық округ әкімінің аппараты</td>
+<td>10041</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Көмекбаев ауылдық округ әкімінің аппараты</td>
+<td>13070</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>18930</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">022</td>
+<td></td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>20451</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>5290</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
 <td>1043</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>420</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>340</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
-<td>2720</td>
+<td>2670</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>140</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>250</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>7250</td>
+<td>250</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>960</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
-<td>5670</td>
+<td>5220</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
-<td>2810</td>
+<td>2495</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>723</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>370</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
 <td>280</td>
 </tr>
 <tr>
-<td>04</td>
+<td>4</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Білім беру</td>
-<td>564318</td>
+<td>761683</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>564318</td>
+<td>759080</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">004</td>
-<td colspan="2"></td>
+<td></td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td>556365</td>
+<td>578740</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
-<td>556365</td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>24978</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>215425</td>
+<td>10300</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>43419</td>
+<td>1920</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Қармақшы ауылдық округ әкімінің аппараты</td>
+<td>1093</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Жосалы ауылдық округ әкімінің аппараты</td>
+<td>731</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Иіркөл ауылдық округ әкімінің аппараты</td>
+<td>806</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жаңажол ауылдық округ әкімінің аппараты</td>
+<td>1320</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
+<td>864</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақтөбе ауылдық округ әкімінің аппараты</td>
+<td>1098</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақжар ауылдық округ әкімінің аппараты</td>
+<td>1016</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Дауылкөл ауылдық округ әкімінің аппараты</td>
+<td>1061</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
+<td>887</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Қуандария ауылдық округ әкімінің аппараты</td>
+<td>675</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Көмекбаев ауылдық округ әкімінің аппараты</td>
+<td>892</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>2315</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>553762</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>218425</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>41714</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>21404</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>12762</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>14473</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>27883</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>15559</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
 <td>20905</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>22603</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
 <td>19029</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>15641</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>11751</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>16354</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>99157</td>
+<td>95259</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">005</td>
-<td colspan="2"></td>
+<td></td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>7953</td>
+<td>8134</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>181</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2">015</td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>36</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>72</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Көмекбаев ауылдық округ әкімінің аппараты</td>
+<td>37</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>36</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>7953</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
 <td>1201</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
 <td>3284</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>1881</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
 <td>1587</td>
 </tr>
 <tr>
-<td>05</td>
+<td></td>
+<td></td>
+<td colspan="2">041</td>
+<td></td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td>172206</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">41</td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>172206</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>49372</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>78709</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>44125</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>Денсаулық сақтау</td>
 <td>176</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>176</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">002</td>
-<td colspan="2"></td>
+<td></td>
 <td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
 <td>176</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>176</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
 <td>17</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>3</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>27</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>27</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>4</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>12</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>86</td>
 </tr>
 <tr>
-<td>06</td>
+<td>6</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Әлеуметтік көмек және әлеуметтік қамсыздандыру</td>
-<td>32717</td>
+<td>34236</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>32717</td>
+<td>34236</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">003</td>
-<td colspan="2"></td>
+<td></td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>14643</td>
+<td>16162</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
-<td>14643</td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>919</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>14643</td>
+<td>919</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>15243</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>15243</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">026</td>
-<td colspan="2"></td>
+<td></td>
 <td>Жергілікті деңгейде халықты жұмыспен қамтуды қамтамасыз ету</td>
 <td>18074</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
 <td>7499</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
 <td>2371</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>257</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>257</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
 <td>769</td>
 </tr>
 <tr>
-<td>07</td>
+<td>7</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>241931</td>
+<td>455565,8</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>241931</td>
+<td>455565,8</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">008</td>
-<td colspan="2"></td>
+<td></td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>36111</td>
+<td>40018</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>36111</td>
+<td>40018</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>18086</td>
+<td>27782</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>3239</td>
+<td>2950</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
-<td>7500</td>
+<td>2000</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>478</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>295</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>978</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>672</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
 <td>306</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>387</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
 <td>653</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>286</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>897</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>835</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
 <td>1499</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">009</td>
-<td colspan="2"></td>
+<td></td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>14663</td>
+<td>14529</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>14663</td>
+<td>14529</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
 <td>11350</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>2648</td>
+<td>2538</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>665</td>
+<td>641</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">011</td>
-<td colspan="2"></td>
+<td></td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>188220</td>
+<td>396922,8</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>188220</td>
+<td>396922,8</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>41817</td>
+<td>246933</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>5752</td>
+<td>1431</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
-<td>2889</td>
+<td>6694</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>2889</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>347</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>4047</td>
+<td>347</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>347</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>60347</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>62889</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
 <td>2889</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
-<td>857</td>
+<td>6664,8</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>2456</td>
+<td>4451</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>347</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>347</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">027</td>
-<td colspan="2"></td>
-<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>2937</td>
+<td></td>
+<td colspan="2">014</td>
+<td></td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>2000</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>2937</td>
+<td>2000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Жосалы кенті әкімінің аппараты</td>
-<td>2937</td>
-</tr>
-<tr>
-<td>08</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
-<td>126080</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>126080</td>
-</tr>
-<tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">006</td>
-<td colspan="2"></td>
-<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>126080</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
-<td>126080</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>10677</td>
+<td>2000</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td colspan="2">027</td>
+<td></td>
+<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>2096</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>2096</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>2096</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
+<td>131755</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td colspan="2"></td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>131755</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">006</td>
+<td></td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>131755</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>5104</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>480</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Қармақшы ауылдық округ әкімінің аппараты</td>
+<td>546</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы ауылдық округ әкімінің аппараты</td>
+<td>324</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Иіркөл ауылдық округ әкімінің аппараты</td>
+<td>339</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жаңажол ауылдық округ әкімінің аппараты</td>
+<td>349</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
+<td>308</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақтөбе ауылдық округ әкімінің аппараты</td>
+<td>359</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақжар ауылдық округ әкімінің аппараты</td>
+<td>470</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Дауылкөл ауылдық округ әкімінің аппараты</td>
+<td>467</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
+<td>321</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Қуандария ауылдық округ әкімінің аппараты</td>
+<td>327</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Көмекбаев ауылдық округ әкімінің аппараты</td>
+<td>327</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>487</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>126651</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Төретам кенті әкімінің аппараты</td>
+<td>10488</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>12227</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>5746</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
 <td>5946</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
 <td>12189</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
 <td>11655</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
 <td>6935</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
 <td>14114</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
 <td>14873</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>5680</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
 <td>5886</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Көмекбаев ауылдық округ әкімінің аппараты</td>
-<td>5805</td>
+<td>6565</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
 <td>14347</td>
 </tr>
 <tr>
 <td>13</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Басқалар</td>
 <td>48242</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>48242</td>
 </tr>
 <tr>
+<td>7</td>
 <td></td>
-<td colspan="2"></td>
 <td colspan="2">040</td>
-<td colspan="2"></td>
+<td></td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>48242</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
 <td>48242</td>
 </tr>
