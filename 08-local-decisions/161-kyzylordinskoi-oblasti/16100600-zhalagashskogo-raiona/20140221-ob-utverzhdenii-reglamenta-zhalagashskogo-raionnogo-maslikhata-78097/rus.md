@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78097/rus/21.02.2014
+source: https://zan.gov.kz/client/#!/doc/78097/rus/06.05.2015
 ---
 
 # Об утверждении Регламента Жалагашского районного маслихата
