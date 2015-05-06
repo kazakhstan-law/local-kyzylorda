@@ -1,5 +1,5 @@
 ---
-version_id: '78097_13490'
+version_id: '78097_17651'
 act_code: '78097'
 language: rus
 title: Об утверждении Регламента Жалагашского районного маслихата
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '161006000002'
 approval_date: 2014-02-21
-version_date: 2014-02-21
+version_date: 2015-05-06
 registry_number: '78097'
-source: https://zan.gov.kz/client/#!/doc/78097/rus/21.02.2014
+caused_by:
+  code: '90111'
+  title: О внесении изменения в решение Жалагашского районного маслихата от 21 февраля 2014 года №29-3 “Об утверждении Регламента Жалагашского районного маслихата”
+  link: https://zan.gov.kz/client/#!/doc/90111/rus
+source: https://zan.gov.kz/client/#!/doc/78097/rus/06.05.2015
 ---
 
 # Об утверждении Регламента Жалагашского районного маслихата
