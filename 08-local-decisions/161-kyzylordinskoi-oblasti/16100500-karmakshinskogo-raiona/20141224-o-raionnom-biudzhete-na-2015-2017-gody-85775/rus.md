@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85775/rus/31.03.2015
+source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 ---
 
 # О районном бюджете на 2015-2017 годы
