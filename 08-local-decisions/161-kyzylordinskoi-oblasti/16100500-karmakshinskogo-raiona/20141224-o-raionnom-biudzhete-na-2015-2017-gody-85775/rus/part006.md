@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
+source: https://zan.gov.kz/client/#!/doc/85775/rus/23.07.2015
 ---
 
 > *Приложение 6*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 
 # Список бюджетных программ на 2015 год аппаратов акимов поселков, сельских округов.
 
-> *Сноска. Приложение 6 в редакции решения Кармакшинского районного маслихата Кызылординской области от 09.06.2015 N 256 (вводится в действие со дня его первого официального опубликования и распространяется на отношения, возникшие с 1 января 2015 года).*
+> *Сноска. Приложение 6 в редакции решения Кармакшинского районного маслихата Кызылординской области от 23.07.2015 N 274 (вводится в действие со дня его первого официального опубликования и распространяется на отношения, возникшие с 1 января 2015 года).*
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>1664485,8</td>
+<td>1709203,8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>243762</td>
+<td>251263</td>
 </tr>
 <tr>
 <td></td>
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>243762</td>
+<td>251263</td>
 </tr>
 <tr>
 <td></td>
@@ -315,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2">022</td>
 <td colspan="3"></td>
 <td>Капитальные расходы государственного органа</td>
-<td>20435</td>
+<td>27936</td>
 </tr>
 <tr>
 <td></td>
@@ -323,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>5290</td>
+<td>12791</td>
 </tr>
 <tr>
 <td></td>
@@ -435,7 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Образование</td>
-<td>757719</td>
+<td>766016</td>
 </tr>
 <tr>
 <td></td>
@@ -443,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>757719</td>
+<td>766016</td>
 </tr>
 <tr>
 <td></td>
@@ -451,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2">004</td>
 <td colspan="3"></td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>577240</td>
+<td>585537</td>
 </tr>
 <tr>
 <td></td>
@@ -579,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>552262</td>
+<td>560559</td>
 </tr>
 <tr>
 <td></td>
@@ -587,7 +587,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>218425</td>
+<td>226722</td>
 </tr>
 <tr>
 <td></td>
@@ -1123,7 +1123,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>446005,8</td>
+<td>425921,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1131,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>446005,8</td>
+<td>425921,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1139,7 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2">008</td>
 <td colspan="3"></td>
 <td>Освещение улиц населенных пунктов</td>
-<td>40018</td>
+<td>22395</td>
 </tr>
 <tr>
 <td></td>
@@ -1147,7 +1147,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>40018</td>
+<td>22395</td>
 </tr>
 <tr>
 <td></td>
@@ -1155,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>27782</td>
+<td>10159</td>
 </tr>
 <tr>
 <td></td>
@@ -1267,7 +1267,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2">009</td>
 <td colspan="3"></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>15929</td>
+<td>21445</td>
 </tr>
 <tr>
 <td></td>
@@ -1275,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>15929</td>
+<td>21445</td>
 </tr>
 <tr>
 <td></td>
@@ -1283,7 +1283,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>12750</td>
+<td>18266</td>
 </tr>
 <tr>
 <td></td>
@@ -1307,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2">011</td>
 <td colspan="3"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>385962,8</td>
+<td>379068,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>385962,8</td>
+<td>379068,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1323,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>239602</td>
+<td>232708</td>
 </tr>
 <tr>
 <td></td>
@@ -1459,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td>027</td>
 <td colspan="4"></td>
 <td>Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>2096</td>
+<td>1013</td>
 </tr>
 <tr>
 <td></td>
@@ -1467,7 +1467,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4">015</td>
 <td>За счет средств местного бюджета</td>
-<td>2096</td>
+<td>1013</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>2096</td>
+<td>1013</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1483,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>132345</td>
+<td>178102</td>
 </tr>
 <tr>
 <td></td>
@@ -1491,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>132345</td>
+<td>178102</td>
 </tr>
 <tr>
 <td></td>
@@ -1499,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td>006</td>
 <td colspan="4"></td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>132345</td>
+<td>178102</td>
 </tr>
 <tr>
 <td></td>
@@ -1619,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4">015</td>
 <td>За счет средств местного бюджета</td>
-<td>127241</td>
+<td>172998</td>
 </tr>
 <tr>
 <td></td>
@@ -1675,7 +1675,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Актобе</td>
-<td>6935</td>
+<td>52692</td>
 </tr>
 <tr>
 <td></td>
@@ -1763,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Прочие</td>
-<td>48242</td>
+<td>51489</td>
 </tr>
 <tr>
 <td></td>
@@ -1771,7 +1771,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>48242</td>
+<td>51489</td>
 </tr>
 <tr>
 <td></td>
@@ -1779,7 +1779,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td>040</td>
 <td colspan="4"></td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развития регионов»</td>
-<td>48242</td>
+<td>51489</td>
 </tr>
 <tr>
 <td></td>
@@ -1787,7 +1787,7 @@ source: https://zan.gov.kz/client/#!/doc/85775/rus/09.06.2015
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>48242</td>
+<td>51489</td>
 </tr>
 </table>
 
