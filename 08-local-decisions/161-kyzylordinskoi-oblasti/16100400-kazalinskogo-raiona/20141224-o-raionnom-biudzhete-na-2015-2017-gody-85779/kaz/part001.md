@@ -1,328 +1,328 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
+source: https://zan.gov.kz/client/#!/doc/85779/kaz/23.09.2015
 ---
 
 > *Қазалы аудандық мәслихатының*  
 > *2014 жылғы 24 желтоқсандағы*  
-> *ХХXIX сессиясының №266 шешіміне*  
-> *1-қосымша*
+> *ХХXIX сессиясының №266*  
+> *шешіміне 1-қосымша*
 
 # 2015 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Қазалы аудандық мәслихатының 21.08.2015 № 341 шешiмiмен (01.01.2015 бастап қолданысқа енгізіледі және ресми жариялауға жатады).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Қазалы аудандық мәслихатының 30.09.2015 № 348 шешiмiмен (2015 жылғы 1 қаңтардан бастап қолданысқа енгізіледі және ресми жариялауға жатады).*
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td colspan="4" rowspan="3">Атауы</td>
-<td colspan="3" rowspan="3">Сомасы, мың теңге</td>
+<td colspan="7">Санаты</td>
+<td colspan="2" rowspan="3">Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2">Iшкi сыныбы</td>
+<td colspan="2"></td>
+<td colspan="3">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="4">1. КІРІСТЕР</td>
-<td>10416131</td>
+<td colspan="2"></td>
+<td colspan="3">1. КІРІСТЕР</td>
+<td>10420664</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="4">Салықтық түсімдер</td>
+<td colspan="2"></td>
+<td colspan="3">Салықтық түсімдер</td>
 <td>1616414</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="4">Табыс салығы</td>
+<td colspan="3">Табыс салығы</td>
 <td>685908</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="4">Жеке табыс салығы</td>
+<td colspan="3">Жеке табыс салығы</td>
 <td>685908</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>03</td>
+<td colspan="2">03</td>
 <td colspan="2"></td>
-<td colspan="4">Әлеуметтiк салық</td>
+<td colspan="3">Әлеуметтiк салық</td>
 <td>465614</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Әлеуметтік салық</td>
+<td colspan="3">Әлеуметтік салық</td>
 <td>465614</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>04</td>
+<td colspan="2">04</td>
 <td colspan="2"></td>
-<td colspan="4">Меншiкке салынатын салықтар</td>
+<td colspan="3">Меншiкке салынатын салықтар</td>
 <td>422357</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Мүлiкке салынатын салықтар</td>
+<td colspan="3">Мүлiкке салынатын салықтар</td>
 <td>345516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td colspan="4">Жер салығы</td>
+<td colspan="3">Жер салығы</td>
 <td>9331</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="4">Көлiк құралдарына салынатын салық</td>
+<td colspan="3">Көлiк құралдарына салынатын салық</td>
 <td>63874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">5</td>
-<td colspan="4">Бірыңғай жер салығы</td>
+<td colspan="3">Бірыңғай жер салығы</td>
 <td>3636</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>05</td>
+<td colspan="2">05</td>
 <td colspan="2"></td>
-<td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
+<td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>33552</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="4">Акциздер</td>
+<td colspan="3">Акциздер</td>
 <td>8658</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td colspan="4">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
+<td colspan="3">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>4437</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="4">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
+<td colspan="3">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>17857</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">5</td>
-<td colspan="4">Ойын бизнесіне салық</td>
+<td colspan="3">Ойын бизнесіне салық</td>
 <td>2600</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>07</td>
+<td colspan="2">07</td>
 <td colspan="2"></td>
-<td colspan="4">Басқа да салықтар</td>
+<td colspan="3">Басқа да салықтар</td>
 <td>910</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Басқа да салықтар</td>
+<td colspan="3">Басқа да салықтар</td>
 <td>910</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>08</td>
+<td colspan="2">08</td>
 <td colspan="2"></td>
-<td colspan="4">Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
+<td colspan="3">Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>8073</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Мемлекеттік баж</td>
+<td colspan="3">Мемлекеттік баж</td>
 <td>8073</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="4">Салықтық емес түсiмдер</td>
-<td>21300</td>
+<td colspan="2"></td>
+<td colspan="3">Салықтық емес түсiмдер</td>
+<td>21309</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
-<td>2543</td>
+<td colspan="3">Мемлекеттік меншіктен түсетін кірістер</td>
+<td>2552</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">5</td>
-<td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
+<td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>2500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">7</td>
-<td colspan="4">Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
-<td>43</td>
+<td colspan="3">Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
+<td>52</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>02</td>
+<td colspan="2">02</td>
 <td colspan="2"></td>
-<td colspan="4">Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуден түсетін түсімдер</td>
+<td colspan="3">Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуден түсетін түсімдер</td>
 <td>25</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Жергілікті бюджеттен қаржыландырылатын мемлекеттік мекемелер ұйымдастыратын мемлекеттік сатып алуды өткізуден түсетін ақшаның түсімі</td>
+<td colspan="3">Жергілікті бюджеттен қаржыландырылатын мемлекеттік мекемелер ұйымдастыратын мемлекеттік сатып алуды өткізуден түсетін ақшаның түсімі</td>
 <td>25</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>04</td>
+<td colspan="2">04</td>
 <td colspan="2"></td>
-<td colspan="4">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="3">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>6290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="3">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>6290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>06</td>
+<td colspan="2">06</td>
 <td colspan="2"></td>
-<td colspan="4">Өзге де салықтық емес түсiмдер</td>
+<td colspan="3">Өзге де салықтық емес түсiмдер</td>
 <td>12442</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Өзге де салықтық емес түсiмдер</td>
+<td colspan="3">Өзге де салықтық емес түсiмдер</td>
 <td>12442</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="4">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Негізгі капиталды сатудан түсетін түсімдер</td>
 <td>20451</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="4">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td colspan="3">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
 <td>451</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td colspan="3">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
 <td>451</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>03</td>
+<td colspan="2">03</td>
 <td colspan="2"></td>
-<td colspan="4">Жердi және материалдық емес активтердi сату</td>
+<td colspan="3">Жердi және материалдық емес активтердi сату</td>
 <td>20000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Жерді сату</td>
+<td colspan="3">Жерді сату</td>
 <td>16200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="4">Материалдық емес активтерді сату</td>
+<td colspan="3">Материалдық емес активтерді сату</td>
 <td>3800</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td></td>
 <td colspan="2"></td>
-<td colspan="4">Трансферттердің түсімдері</td>
-<td>8757966</td>
+<td colspan="2"></td>
+<td colspan="3">Трансферттердің түсімдері</td>
+<td>8762490</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>02</td>
+<td colspan="2">02</td>
 <td colspan="2"></td>
-<td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>8757966</td>
+<td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td>8762490</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td colspan="4">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>8757966</td>
+<td colspan="3">Облыстық бюджеттен түсетiн трансферттер</td>
+<td>8762490</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td colspan="4" rowspan="3">
+<td colspan="8">Функционалдық топ</td>
+<td rowspan="3">
 
 Атауы
 </td>
-<td colspan="4" rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="5">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">2. ШЫҒЫНДАР</td>
-<td>10499294,2</td>
+<td>10503827,2</td>
 </tr>
 <tr>
 <td>1</td>
@@ -560,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бiлiм беру</td>
-<td>5969109,9</td>
+<td>5974490,9</td>
 </tr>
 <tr>
 <td></td>
@@ -609,14 +609,14 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="4">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4997657</td>
+<td>5003038</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="4">Жалпы білім беру</td>
-<td>4826303</td>
+<td>4831684</td>
 </tr>
 <tr>
 <td></td>
@@ -627,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="4">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
 <td>140476,1</td>
@@ -889,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>938719,7</td>
+<td>937578,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1015,14 +1015,14 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td colspan="4">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>26466</td>
+<td>25325</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td colspan="4">Коммуналдық шаруашылығын дамыту</td>
-<td>22894</td>
+<td>21753</td>
 </tr>
 <tr>
 <td></td>
@@ -1085,21 +1085,21 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>613466,8</td>
+<td>613750,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>189288</td>
+<td>189572</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="4">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>189288</td>
+<td>189572</td>
 </tr>
 <tr>
 <td></td>
@@ -1294,7 +1294,7 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
-<td colspan="4">Мемлекеттік органның күрделі шығыстары+</td>
+<td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
 <td>139</td>
 </tr>
 <tr>
@@ -1568,21 +1568,21 @@ source: https://zan.gov.kz/client/#!/doc/85779/kaz/21.08.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Борышқа қызмет көрсету</td>
-<td>43</td>
+<td>52</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="4">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>43</td>
+<td>52</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="4">Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>43</td>
+<td>52</td>
 </tr>
 <tr>
 <td>15</td>
