@@ -1,5 +1,5 @@
 ---
-version_id: AI88432_1
+version_id: AI88432_3
 act_code: '88432'
 language: rus
 title: О предоставлении мер социальной поддержки на 2015 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '161008000002'
 approval_date: 2015-03-27
-version_date: 2015-03-27
+version_date: 2016-01-01
 registry_number: '88432'
-source: https://zan.gov.kz/client/#!/doc/88432/rus/27.03.2015
+source: https://zan.gov.kz/client/#!/doc/88432/rus
 ---
 
 # О предоставлении мер социальной поддержки на 2015 год
