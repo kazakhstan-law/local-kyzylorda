@@ -1,33 +1,33 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
+source: https://zan.gov.kz/client/#!/doc/76715/rus/01.01.2016
 ---
 
 ## Районный бюджет на 2016 год
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="5">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>1.Доходы</td>
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td>Социальный налог</td>
@@ -75,7 +75,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Социальный налог</td>
@@ -83,7 +83,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td>Hалоги на собственность</td>
@@ -91,7 +91,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Hалоги на имущество</td>
@@ -99,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
@@ -107,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td>Hалог на транспортные средства</td>
@@ -115,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Единый земельный налог</td>
@@ -123,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
@@ -131,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Акцизы</td>
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td>Поступления за использование природных и других ресурсов</td>
@@ -147,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
@@ -155,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Налог на игорный бизнес</td>
@@ -163,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td>Прочие налоги</td>
@@ -171,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Прочие налоги</td>
@@ -179,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
@@ -187,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Государственная пошлина</td>
@@ -195,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
@@ -203,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td>Доходы от государственной собственности</td>
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Поступления части чистого дохода государственных предприятий</td>
@@ -219,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>7</td>
 <td></td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td>Прочие неналоговые поступления</td>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Прочие неналоговые поступления</td>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
@@ -275,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
@@ -283,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td>Продажа земли</td>
@@ -291,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Продажа нематериальных активов</td>
@@ -299,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
@@ -315,33 +315,33 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
 <td>4799794</td>
 </tr>
 <tr>
-<td colspan="6">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -357,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -365,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>7474319</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -373,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>693916</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -381,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>514263</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -389,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>18747</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -397,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>18747</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -405,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>98150</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -413,7 +413,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>92350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -421,7 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -429,7 +429,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>397366</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -437,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>354806</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -445,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>11353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -453,7 +453,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>31207</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -461,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>25281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -469,7 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>25281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -477,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>23303</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -485,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1978</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -493,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>30634</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -501,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>30634</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -509,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>29134</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -517,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -525,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>123738</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -533,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>123738</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -541,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>123738</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -549,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3175</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -557,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3175</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -565,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3175</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -573,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3175</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -581,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1284</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -589,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1284</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -597,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1284</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -605,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1284</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -613,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5132053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -621,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>564046</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -629,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>558518</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -637,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>539605</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -645,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>18913</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -653,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5528</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -661,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5528</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -669,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4386840</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -677,7 +677,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4386840</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -685,7 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4270684</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -693,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>116156</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -701,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>181167</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -709,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>181167</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -717,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>41038</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -725,7 +725,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>35233</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -733,7 +733,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>682</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -741,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>12261</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -749,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>91953</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -757,7 +757,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>119</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -765,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>119</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -773,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>119</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -781,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>119</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -789,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>355655</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -797,7 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>297005</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -805,7 +805,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>297005</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -813,7 +813,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>30917</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -821,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3950</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -829,7 +829,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>16688</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -837,15 +837,15 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>9068</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
-<td>Социальная поддержка граждан, награжденных от 26 июля 1999 года орденами «Отан», «Даңқ», удостоенных высокого звания «Халық Қаһарманы», почетных званий республики</td>
+<td>Социальная поддержка граждан, награжденных от 26 июля 1999 года орденами &quot;Отан&quot;, &quot;Даңқ&quot;, удостоенных высокого звания &quot;Халық Қаһарманы&quot;, почетных званий республики</td>
 <td>86</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -853,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3483</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -861,7 +861,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>49638</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -869,7 +869,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>144868</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -877,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>33662</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -885,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4645</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -893,7 +893,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>58650</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -901,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>19163</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -909,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>19163</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -917,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39487</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -925,7 +925,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>36525</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -933,7 +933,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1462</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -941,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1500</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -949,7 +949,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>394040</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -957,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>32981</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -965,7 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3055</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -973,7 +973,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3055</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -981,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1926</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>031</td>
@@ -989,7 +989,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1626</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>049</td>
@@ -997,7 +997,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -1005,7 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>22800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -1013,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>22800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1021,7 +1021,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5200</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1029,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1200</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1037,7 +1037,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1045,7 +1045,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>361059</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1053,7 +1053,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>361059</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1061,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>16003</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1069,7 +1069,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>8560</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1077,7 +1077,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>336496</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1085,7 +1085,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>424219</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1093,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>220011</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1101,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>161433</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1109,7 +1109,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>161433</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1117,7 +1117,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>58578</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1125,7 +1125,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>48834</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1133,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>9744</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1141,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>38818</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1149,7 +1149,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -1157,7 +1157,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>5000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -1165,7 +1165,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>33818</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1173,7 +1173,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4090</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1181,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>29728</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1189,7 +1189,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>86572</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1197,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>74453</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1205,7 +1205,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>73679</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1213,7 +1213,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>774</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1221,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>12119</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1229,7 +1229,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>8297</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1237,7 +1237,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3822</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1245,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>78818</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1253,7 +1253,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>45503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1261,7 +1261,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>13503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1269,7 +1269,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>32000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1277,7 +1277,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>18540</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1285,7 +1285,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>14153</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1293,7 +1293,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>4387</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -1301,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>14775</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1309,7 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>11152</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1317,7 +1317,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3623</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1325,7 +1325,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>263996</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1333,7 +1333,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>91937</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>462</td>
 <td></td>
@@ -1341,7 +1341,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>66293</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1349,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>26522</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1357,7 +1357,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39771</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1365,7 +1365,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>25644</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1373,7 +1373,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10547</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1381,7 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>9963</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1389,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>1819</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1397,7 +1397,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>3315</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1405,7 +1405,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10406</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -1413,7 +1413,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10406</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1421,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10406</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1429,7 +1429,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>161653</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1437,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>161653</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1445,7 +1445,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>161653</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1453,7 +1453,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>21735</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1461,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>21735</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1469,7 +1469,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>11405</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1477,7 +1477,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>11405</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>468</td>
 <td></td>
@@ -1485,7 +1485,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10330</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1493,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>10330</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1501,7 +1501,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39551</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1509,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39551</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1517,7 +1517,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39551</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1525,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>39551</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1533,7 +1533,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>144550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1541,7 +1541,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>492</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>493</td>
 <td></td>
@@ -1549,7 +1549,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>492</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1557,7 +1557,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>492</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1565,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>144058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1573,15 +1573,15 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>70954</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td>70954</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1589,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>51273</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1597,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>51273</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1605,7 +1605,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>12283</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1613,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>12283</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>493</td>
 <td></td>
@@ -1621,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>9548</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1629,7 +1629,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>9548</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1637,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>26</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1645,7 +1645,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>26</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1653,7 +1653,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>26</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1665,12 +1665,19 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <table>
 <tr>
 <td></td>
-<td>
-Приложение 4
-к решению очередной ХХVІІ сессии
-Жанакорганского районного маслихата
-от 28 декабря 2014 года N 181
-</td>
+<td>Приложение 4</td>
+</tr>
+<tr>
+<td></td>
+<td>к решению очередной ХХVІІ сессии</td>
+</tr>
+<tr>
+<td></td>
+<td>Жанакорганского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от 28 декабря 2014 года N 181</td>
 </tr>
 </table>
 
@@ -1689,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>Освещение улиц населенных пунктов</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td>Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 <td>Капитальный и средний ремонт автомобильных дорог улиц населенных пунктов</td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
@@ -2356,12 +2363,19 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <table>
 <tr>
 <td></td>
-<td>
-Приложение 5
-к решению очередной ХХVІІ сессии
-Жанакорганского районного маслихата
-от 28 декабря 2014 года N 181
-</td>
+<td>Приложение 5</td>
+</tr>
+<tr>
+<td></td>
+<td>к решению очередной ХХVІІ сессии</td>
+</tr>
+<tr>
+<td></td>
+<td>Жанакорганского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от 28 декабря 2014 года N 181</td>
 </tr>
 </table>
 
@@ -2388,12 +2402,19 @@ source: https://zan.gov.kz/client/#!/doc/76715/rus/25.12.2014
 <table>
 <tr>
 <td></td>
-<td>
-Приложение 6
-к решению очередной ХХVІІ сессии
-Жанакорганского районного маслихата
-от 28 декабря 2014 года N 181
-</td>
+<td>Приложение 6</td>
+</tr>
+<tr>
+<td></td>
+<td>к решению очередной ХХVІІ сессии</td>
+</tr>
+<tr>
+<td></td>
+<td>Жанакорганского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от 28 декабря 2014 года N 181</td>
 </tr>
 </table>
 

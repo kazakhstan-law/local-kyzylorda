@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/88432/kaz/27.03.2015
+source: https://zan.gov.kz/client/#!/doc/88432/kaz/01.01.2016
 ---
 
 # 2015 жылға әлеуметтік қолдау шараларын көрсету туралы

@@ -1,505 +1,7 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
+source: https://zan.gov.kz/client/#!/doc/76671/kaz/01.01.2016
 ---
-
-## 2014 жылға арналған аудан бюджетінің құрамында кенттің, ауылдық округтердің шығыстары
-
-> *Ескерту. 5-қосымша жаңа редакцияда - Қызылорда облысы Жалағаш аудандық мәслихатының 27.11.2014 N 40-2 шешімімен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 01.01.2014 бастап пайда болған қатынастарға таралады).*
-
-мың теңге
-
-<table>
-<tr>
-<td>Рет саны</td>
-<td colspan="2">
-Бюджеттік бағдарлама
-әкімшісі
-</td>
-<td colspan="2">
-Кент, ауыл, ауылдық округ әкiмінің қызметін
-қамтамасыз ету жөніндегі қызметтер
-</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="3">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
-<td colspan="2">Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>Жергілікті деңгейде халықты жұмыспен қамтуды қамтамасыз ету</td>
-</tr>
-<tr>
-<th></th>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th colspan="2">6</th>
-<th colspan="2">7</th>
-<th colspan="2">8</th>
-<th>9</th>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">Жалағаш кенті әкімі аппараты</td>
-<td colspan="2">33894</td>
-<td colspan="2">150</td>
-<td colspan="2">3360</td>
-<td colspan="3">193482</td>
-<td colspan="2">98724</td>
-<td colspan="2"></td>
-<td colspan="2">9238</td>
-<td>16519</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2">Ақсу ауылдық округі әкімі аппараты</td>
-<td colspan="2">16052</td>
-<td colspan="2">870</td>
-<td colspan="2">1000</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>925</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">Аққыр ауылдық округі әкімі аппараты</td>
-<td colspan="2">13676</td>
-<td colspan="2">806</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">31</td>
-<td colspan="2">769</td>
-<td>925</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2">Аламесек ауылдық округі әкімі аппараты</td>
-<td colspan="2">15030</td>
-<td colspan="2">362</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">9806</td>
-<td colspan="2"></td>
-<td colspan="2">818</td>
-<td>925</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2">Аққұм ауылдық округі әкімі аппараты</td>
-<td colspan="2">13966</td>
-<td colspan="2">2200</td>
-<td colspan="2">1500</td>
-<td colspan="3">31503</td>
-<td colspan="2">6129</td>
-<td colspan="2"></td>
-<td colspan="2">856</td>
-<td>728</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="2">Бұхарбай батыр ауылдық округі әкімі аппараты</td>
-<td colspan="2">13498</td>
-<td colspan="2">400</td>
-<td colspan="2"></td>
-<td colspan="3">40068</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">767</td>
-<td>925</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2">Еңбек ауылдық округі әкімі аппараты</td>
-<td colspan="2">16204</td>
-<td colspan="2">750</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">9806</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>925</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2">Шәменов атындағы ауылдық округі әкімі аппараты</td>
-<td colspan="2">11553</td>
-<td colspan="2">400</td>
-<td colspan="2"></td>
-<td colspan="3">31447</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>925</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="2">Қаракеткен ауылдық округі әкімі аппараты</td>
-<td colspan="2">14456</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">6625</td>
-<td colspan="2">31</td>
-<td colspan="2"></td>
-<td>925</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="2">Таң ауылдық округі әкімі аппараты</td>
-<td colspan="2">14998</td>
-<td colspan="2">400</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">31</td>
-<td colspan="2"></td>
-<td>728</td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="2">Мәдениет ауылдық округі әкімі аппараты</td>
-<td colspan="2">13812</td>
-<td colspan="2">2480</td>
-<td colspan="2"></td>
-<td colspan="3">21446</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>925</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2">Мақпалкөл ауылдық округі әкімі аппараты</td>
-<td colspan="2">14975</td>
-<td colspan="2">250</td>
-<td colspan="2"></td>
-<td colspan="3">30543</td>
-<td colspan="2">6129</td>
-<td colspan="2"></td>
-<td colspan="2">793</td>
-<td>925</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2">Жаңадария ауылдық округі әкімі аппараты</td>
-<td colspan="2">10877</td>
-<td colspan="2">250</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">31</td>
-<td colspan="2"></td>
-<td>725</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="2">Мырзабай ахун ауылдық округі әкімі аппараты</td>
-<td colspan="2">11970</td>
-<td colspan="2">250</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">850</td>
-<td>925</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="2">Жаңаталап ауылдық округі әкімі аппараты</td>
-<td colspan="2">12803</td>
-<td colspan="2">673</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">9806</td>
-<td colspan="2">31</td>
-<td colspan="2"></td>
-<td>837</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Барлығы</td>
-<td colspan="2">227764</td>
-<td colspan="2">10241</td>
-<td colspan="2">5860</td>
-<td colspan="3">348489</td>
-<td colspan="2">147025</td>
-<td colspan="2">155</td>
-<td colspan="2">14091</td>
-<td>28787</td>
-</tr>
-<tr>
-<td>Рет саны</td>
-<td>
-Бюджеттік бағдарлама
-әкімшісі
-</td>
-<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">Елдi мекендердiң санитариясын қамтамасыз ету</td>
-<td colspan="2">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>
-Жергілікті деңгейде мәдени- демалыс жұмысын
-қолдау
-</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">
-Елді-мекендердің автомобиль жолдарын,
-көшелерін күрделі және орташа жөндеу
-</td>
-<td colspan="2">“Өңірлерді дамыту” Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="2">Аудандық маңызы бар қаланың, кенттің, ауылдың , ауылдық округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдастыру</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th colspan="2">10</th>
-<th colspan="2">11</th>
-<th colspan="2">12</th>
-<th colspan="2">13</th>
-<th>14</th>
-<th colspan="2">15</th>
-<th colspan="2">16</th>
-<th colspan="2">17</th>
-<th colspan="2">18</th>
-</tr>
-<tr>
-<td>1</td>
-<td>
-Жалағаш кенті
-әкімі аппараты
-</td>
-<td colspan="2">20022</td>
-<td colspan="2">19287</td>
-<td colspan="2"></td>
-<td colspan="2">27684</td>
-<td></td>
-<td colspan="2">5000</td>
-<td colspan="2">4200</td>
-<td colspan="2">11305</td>
-<td colspan="2">300</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ақсу ауылдық округі әкімі аппараты</td>
-<td colspan="2">1364</td>
-<td colspan="2">294</td>
-<td colspan="2"></td>
-<td colspan="2">2696</td>
-<td>5045</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1202</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Аққыр ауылдық округі әкімі аппараты</td>
-<td colspan="2">468</td>
-<td colspan="2">192</td>
-<td colspan="2"></td>
-<td colspan="2">3069</td>
-<td>4860</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">819</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Аламесек ауылдық округі әкімі аппараты</td>
-<td colspan="2">398</td>
-<td colspan="2">420</td>
-<td colspan="2"></td>
-<td colspan="2">378</td>
-<td>10813</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1208</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Аққұм ауылдық округі әкімі аппараты</td>
-<td colspan="2">438</td>
-<td colspan="2">387</td>
-<td colspan="2"></td>
-<td colspan="2">967</td>
-<td>8262</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1424</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6</td>
-<td>
-Бұхарбай батыр ауылдық округі
-әкімі аппараты
-</td>
-<td colspan="2">698</td>
-<td colspan="2">384</td>
-<td colspan="2"></td>
-<td colspan="2">89</td>
-<td>7814</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">44</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Еңбек ауылдық округі әкімі аппараты</td>
-<td colspan="2">442</td>
-<td colspan="2">354</td>
-<td colspan="2"></td>
-<td colspan="2">395</td>
-<td>7258</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">895</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>8</td>
-<td>
-Шәменов атындағы
-ауылдық округі
-әкімі аппараты
-</td>
-<td colspan="2">668</td>
-<td colspan="2">205</td>
-<td colspan="2">615</td>
-<td colspan="2">520</td>
-<td>8036</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">630</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Қаракеткен ауылдық округі әкімі аппараты</td>
-<td colspan="2">398</td>
-<td colspan="2">326</td>
-<td colspan="2"></td>
-<td colspan="2">662</td>
-<td>9120</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1227</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Таң ауылдық округі әкімі аппараты</td>
-<td colspan="2">502</td>
-<td colspan="2">260</td>
-<td colspan="2"></td>
-<td colspan="2">1600</td>
-<td>6154</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">750</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Мәдениет ауылдық округі әкімі аппараты</td>
-<td colspan="2">398</td>
-<td colspan="2">454</td>
-<td colspan="2"></td>
-<td colspan="2">2176</td>
-<td>6194</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">3829</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12</td>
-<td>Мақпалкөл ауылдық округі әкімі аппараты</td>
-<td colspan="2">698</td>
-<td colspan="2">348</td>
-<td colspan="2"></td>
-<td colspan="2">3596</td>
-<td>7509</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1200</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13</td>
-<td>Жаңадария ауылдық округі әкімі аппараты</td>
-<td colspan="2">398</td>
-<td colspan="2">166</td>
-<td colspan="2"></td>
-<td colspan="2">402</td>
-<td>3915</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">498</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>14</td>
-<td>
-Мырзабай ахун ауылдық округі
-әкімі аппараты
-</td>
-<td colspan="2">398</td>
-<td colspan="2">240</td>
-<td colspan="2"></td>
-<td colspan="2">1644</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">700</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Жаңаталап ауылдық округі әкімі аппараты</td>
-<td colspan="2">398</td>
-<td colspan="2">170</td>
-<td colspan="2"></td>
-<td colspan="2">1052</td>
-<td>4897</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">499</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td>Барлығы</td>
-<td colspan="2">27688</td>
-<td colspan="2">23487</td>
-<td colspan="2">615</td>
-<td colspan="2">46930</td>
-<td>89967</td>
-<td colspan="2">5000</td>
-<td colspan="2">4200</td>
-<td colspan="2">26230</td>
-<td colspan="2">300</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының шешіміне
-6-қосымша
-</td>
-</tr>
-</table>
 
 ## 2014 жылға арналған аудан бюджетіне облыстық бюджеттің қаражаты есебінен ағымдағы нысаналы трансферттер
 
@@ -508,7 +10,6 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td>Атауы</td>
-<td></td>
 <td>
 Сомасы,
 мың теңге
@@ -516,67 +17,54 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 </tr>
 <tr>
 <td>Барлығы</td>
-<td></td>
 <td>335018</td>
 </tr>
 <tr>
 <td>Білім беру ұйымдарын материалдық-техникалық жарақтандыру</td>
-<td></td>
 <td>14641</td>
 </tr>
 <tr>
 <td>Мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек төлеу</td>
-<td></td>
 <td>12465</td>
 </tr>
 <tr>
 <td>Өңірге қажет мамандықтар бойынша әлеуметтік тұрғыдан халықтың осал тобы қатарынан білім алушы студенттерге әлеуметтік көмек көрсетуге</td>
-<td></td>
 <td>8824</td>
 </tr>
 <tr>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыру</td>
-<td></td>
 <td>10535</td>
 </tr>
 <tr>
 <td>Білім беру ұйымдарында стомотологиялық кабинеттерді жарақтандыру</td>
-<td></td>
 <td>1690</td>
 </tr>
 <tr>
 <td>Туберкулезбен тұрақты емделіп жүрген науқастарға әлеуметтік көмек</td>
-<td></td>
 <td>606</td>
 </tr>
 <tr>
 <td>Мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі іс-шаралар жоспарын іске асыру</td>
-<td></td>
 <td>903</td>
 </tr>
 <tr>
 <td>Әлеуметтік нысандарды күрделі жөндеу</td>
-<td></td>
 <td>141236</td>
 </tr>
 <tr>
 <td>Ветеринарлық ұйымдардың материалдық-техникалық базасын нығайту</td>
-<td></td>
 <td>30317</td>
 </tr>
 <tr>
 <td>Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td></td>
 <td>99525</td>
 </tr>
 <tr>
 <td>Жалпы білім беру мектептеріне электрондық оқу жүйесін енгізу</td>
-<td></td>
 <td>5739</td>
 </tr>
 <tr>
 <td>Қазіргі заман талабына сай жоғарғы сападағы ауыз су тазарту қондырғысын мектептерге орнату</td>
-<td></td>
 <td>8537</td>
 </tr>
 </table>
@@ -584,11 +72,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының шешіміне
-7-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының шешіміне</td>
+</tr>
+<tr>
+<td></td>
+<td>7-қосымша</td>
 </tr>
 </table>
 
@@ -629,11 +125,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының шешіміне
-8-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының шешіміне</td>
+</tr>
+<tr>
+<td></td>
+<td>8-қосымша</td>
 </tr>
 </table>
 
@@ -650,8 +154,8 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 </td>
 </tr>
 <tr>
-<th>Барлығы</th>
-<th>371248</th>
+<td>Барлығы</td>
+<td>371248</td>
 </tr>
 <tr>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыру</td>
@@ -686,11 +190,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының шешіміне
-9-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының шешіміне</td>
+</tr>
+<tr>
+<td></td>
+<td>9-қосымша</td>
 </tr>
 </table>
 
@@ -727,11 +239,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының шешіміне
-10-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының шешіміне</td>
+</tr>
+<tr>
+<td></td>
+<td>10-қосымша</td>
 </tr>
 </table>
 
@@ -764,11 +284,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының
-шешіміне 11-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының</td>
+</tr>
+<tr>
+<td></td>
+<td>шешіміне 11-қосымша</td>
 </tr>
 </table>
 
@@ -1236,11 +764,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының
-шешіміне 12-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының</td>
+</tr>
+<tr>
+<td></td>
+<td>шешіміне 12-қосымша</td>
 </tr>
 </table>
 
@@ -1620,11 +1156,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының
-шешіміне 13-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының</td>
+</tr>
+<tr>
+<td></td>
+<td>шешіміне 13-қосымша</td>
 </tr>
 </table>
 
@@ -1794,11 +1338,19 @@ source: https://zan.gov.kz/client/#!/doc/76671/kaz/27.11.2014
 <table>
 <tr>
 <td></td>
-<td>
-2013 жылғы &quot;25&quot; желтоқсандағы N 27-2
-Жалағаш аудандық мәслихатының
-шешіміне 14-қосымша
-</td>
+<td>2013 жылғы &quot;25&quot; желтоқсандағы</td>
+</tr>
+<tr>
+<td></td>
+<td>N 27-2</td>
+</tr>
+<tr>
+<td></td>
+<td>Жалағаш аудандық мәслихатының</td>
+</tr>
+<tr>
+<td></td>
+<td>шешіміне 14-қосымша</td>
 </tr>
 </table>
 

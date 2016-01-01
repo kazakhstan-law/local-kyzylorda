@@ -1,14 +1,9 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
+source: https://zan.gov.kz/client/#!/doc/85260/rus/01.01.2016
 ---
 
-> *Приложение 2*  
-> *к решению 33 сессии*  
-> *Кызылординского областного маслихата*  
-> *от «12» декабря 2014 года № 236*
-
-# Областной бюджет на 2016 год
+## Областной бюджет на 2016 год
 
 <table>
 <tr>
@@ -16,25 +11,25 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -42,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>Наименование</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -60,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 540 417</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -69,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 404 652</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -78,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 404 652</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>03</td>
 <td></td>
@@ -87,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 734 702</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -96,7 +91,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 734 702</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>05</td>
 <td></td>
@@ -105,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 401 063</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -123,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>420 785</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -132,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>220 497</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -141,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>16 932</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -150,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 775</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -159,7 +154,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>13 445</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -168,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>174 345</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>04</td>
 <td></td>
@@ -177,7 +172,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>288</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -186,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>288</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>06</td>
 <td></td>
@@ -195,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>200 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -213,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 926</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -222,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 926</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -240,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>84 777 124</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -249,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 058 020</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -258,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 058 020</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>02</td>
 <td></td>
@@ -267,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>80 719 104</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -280,29 +275,29 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td rowspan="6"></td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Бюджетная программа</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -310,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>Наименование</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 164 602</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>110</td>
 <td></td>
@@ -337,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>34 531</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -346,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>34 531</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -355,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 471 318</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -364,16 +359,16 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 369 508</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td></td>
-<td>Аппарат специального представителя Президента Республики Казахстан на комплексе «Байконур»</td>
+<td>Аппарат специального представителя Президента Республики Казахстан на комплексе &quot;Байконур&quot;</td>
 <td>41 398</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -382,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 876</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -391,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>44 536</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -400,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>104 823</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -409,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>102 738</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -418,7 +413,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 085</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -427,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>108 890</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -436,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>108 890</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>269</td>
 <td></td>
@@ -445,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>81 367</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -454,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>23 681</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -463,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>57 686</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>282</td>
 <td></td>
@@ -472,7 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>155 486</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -481,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>155 486</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>289</td>
 <td></td>
@@ -490,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>56 902</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -499,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>56 902</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>290</td>
 <td></td>
@@ -508,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>116 361</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -517,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>116 361</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>718</td>
 <td></td>
@@ -526,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>34 924</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -544,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>541 473</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -553,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>541 473</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -562,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>19 559</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -571,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>72 685</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -580,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>61 916</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -598,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 403 670</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -607,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 273 316</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -616,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 163 099</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -625,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 449</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -634,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>43 996</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -643,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>51 807</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -652,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 965</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -661,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 130 354</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -679,7 +674,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>14 934 640</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -688,7 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 766</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -697,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 766</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -706,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>393 063</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -715,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>65 088</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>043</td>
@@ -724,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>327 975</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -733,7 +728,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7 613 457</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -742,7 +737,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>127 200</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -751,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>729 329</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -760,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>10 770</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -769,7 +764,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>12 566</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -778,7 +773,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>539 254</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -787,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>156 285</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -796,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>199 404</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -805,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>40 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -814,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 484 165</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -823,7 +818,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 490 611</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -832,7 +827,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>43 663</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -841,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>478 953</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -850,7 +845,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 301 257</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -859,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 544 051</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -868,7 +863,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 318 723</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -877,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>225 328</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -886,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 314 303</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -904,7 +899,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 339 142</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -913,7 +908,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>9 676 699</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -922,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>108 881</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -931,7 +926,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>377 385</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -940,7 +935,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>115 150</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -949,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>161 380</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -958,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 627</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -967,7 +962,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 093 414</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -976,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>950 472</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -985,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>24 676</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -994,7 +989,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>734 820</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1003,7 +998,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>36 340</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1012,7 +1007,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 338</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1021,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 973</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -1030,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>132 822</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -1039,7 +1034,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>98 739</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1048,7 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>25 851</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>039</td>
@@ -1057,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 556 797</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1066,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>146 373</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -1075,7 +1070,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>75 661</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1084,7 +1079,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 662 443</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>038</td>
@@ -1102,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 934 258</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1111,7 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 689 216</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1120,7 +1115,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>84 396</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1129,7 +1124,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>217 254</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1138,7 +1133,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>272 883</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1147,7 +1142,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1156,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>471 809</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1165,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>517 844</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1174,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>340 912</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1183,7 +1178,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>73 401</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -1192,7 +1187,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 515</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1201,7 +1196,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7 596</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -1210,7 +1205,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 294</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1219,7 +1214,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>694 305</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -1228,7 +1223,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>176 746</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1237,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>136 364</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -1246,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>40 382</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -1255,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>12 562</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>077</td>
@@ -1264,7 +1259,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>12 562</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -1273,7 +1268,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 894</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1282,7 +1277,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 894</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>295</td>
 <td></td>
@@ -1291,7 +1286,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>50 840</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1309,7 +1304,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>955 044</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1318,7 +1313,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>233 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1327,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>233 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1336,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>722 044</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1345,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>63 981</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1354,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>341 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>038</td>
@@ -1372,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7 065 029</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>259</td>
 <td></td>
@@ -1381,7 +1376,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>215 050</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1390,7 +1385,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 802</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1399,7 +1394,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>186 248</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>262</td>
 <td></td>
@@ -1408,7 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>752 899</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1417,7 +1412,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 026</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1426,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>53 105</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1435,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>86 681</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1444,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>374 645</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1453,7 +1448,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>117 829</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -1462,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>81 487</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1471,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>126</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -1480,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>639 897</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1489,7 +1484,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>81 722</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1498,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>558 175</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>264</td>
 <td></td>
@@ -1507,7 +1502,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>43 662</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1516,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>24 697</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1525,7 +1520,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>18 965</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>283</td>
 <td></td>
@@ -1534,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>214 912</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1543,7 +1538,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>31 483</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1552,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>105 522</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1561,7 +1556,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>77 907</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -1570,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>991 138</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1579,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>150 915</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1588,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>76 368</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1597,7 +1592,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>407 697</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1606,7 +1601,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>356 158</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>289</td>
 <td></td>
@@ -1615,7 +1610,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 703</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1624,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 703</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1633,7 +1628,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 186 768</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1642,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 196 987</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1651,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 532 500</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1669,7 +1664,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>455 589</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1678,7 +1673,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>455 589</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>071</td>
@@ -1696,7 +1691,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 276 647</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>251</td>
 <td></td>
@@ -1705,7 +1700,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>31 725</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1714,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>31 725</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>254</td>
 <td></td>
@@ -1723,7 +1718,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 038 327</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1732,7 +1727,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>59 196</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1741,7 +1736,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>24 197</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1750,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>521 340</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1759,7 +1754,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 053</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1768,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>372 541</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1777,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>50 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -1786,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>8 293 393</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1795,7 +1790,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>90 651</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1804,7 +1799,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>486 775</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1813,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 158 733</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1822,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 249 469</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1831,7 +1826,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>413 452</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1840,7 +1835,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>114 109</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1849,7 +1844,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 899</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -1858,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 783 887</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -1867,7 +1862,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 381</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1876,7 +1871,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 153</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1885,7 +1880,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>158 833</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -1894,7 +1889,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>159 128</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1903,7 +1898,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>17 631</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -1912,7 +1907,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>382</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -1921,7 +1916,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 630 041</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -1930,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 869</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1939,7 +1934,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 700</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -1948,7 +1943,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 700</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1957,7 +1952,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 908 502</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1975,7 +1970,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>263 159</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1984,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 553</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1993,7 +1988,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 553</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>272</td>
 <td></td>
@@ -2002,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>193 606</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2011,7 +2006,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>193 396</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -2029,7 +2024,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 076 894</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -2038,7 +2033,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 076 894</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2047,7 +2042,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>48 385</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2056,7 +2051,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>135 527</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2065,7 +2060,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>18 919</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -2074,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>92 088</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -2092,7 +2087,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>541 231</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -2101,16 +2096,16 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>322 577</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td></td>
-<td>Обеспечение деятельности государственного учреждения «Центр информационных технологий»</td>
+<td>Обеспечение деятельности государственного учреждения &quot;Центр информационных технологий&quot;</td>
 <td>322 577</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2119,7 +2114,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>128 969</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -2128,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>128 969</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -2137,7 +2132,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 956</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -2146,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 956</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>280</td>
 <td></td>
@@ -2155,7 +2150,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>49 729</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2173,7 +2168,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>3 872</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2182,7 +2177,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>3 872</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -2200,7 +2195,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2209,7 +2204,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -2218,7 +2213,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2227,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>-235 124</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2263,7 +2258,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>199 250</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2290,7 +2285,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2299,7 +2294,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>0</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2308,7 +2303,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2317,7 +2312,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>-434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2326,7 +2321,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>0</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2335,7 +2330,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2344,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2353,7 +2348,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>434 374</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -2363,12 +2358,19 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 </tr>
 </table>
 
-> *Приложение 3*  
-> *к решению 33 сессии*  
-> *Кызылординского областного маслихата*  
-> *от «12» декабря 2014 года № 236*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 3
+к решению 33 сессии
+Кызылординского областного маслихата
+от &quot;12&quot; декабря 2014 года № 236
+</td>
+</tr>
+</table>
 
-# Областной бюджет на 2017 год
+## Областной бюджет на 2017 год
 
 <table>
 <tr>
@@ -2376,25 +2378,25 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2402,7 +2404,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>Наименование</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2420,7 +2422,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 120 376</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -2429,7 +2431,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 105 783</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2438,7 +2440,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 105 783</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>03</td>
 <td></td>
@@ -2447,7 +2449,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 499 334</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2456,7 +2458,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 499 334</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>05</td>
 <td></td>
@@ -2465,7 +2467,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 515 259</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -2483,7 +2485,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>406 473</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -2492,7 +2494,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>206 185</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2501,7 +2503,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>16 932</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -2510,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 775</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>6</td>
@@ -2519,7 +2521,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>13 445</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -2528,7 +2530,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>160 033</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>04</td>
 <td></td>
@@ -2537,7 +2539,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>288</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2546,7 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>288</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>06</td>
 <td></td>
@@ -2555,7 +2557,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>200 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2573,7 +2575,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 926</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -2582,7 +2584,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 926</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2600,7 +2602,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>80 758 979</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -2609,7 +2611,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 875</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -2618,7 +2620,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 875</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>02</td>
 <td></td>
@@ -2627,7 +2629,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>80 719 104</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -2640,29 +2642,29 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td rowspan="6"></td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Бюджетная программа</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2670,7 +2672,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>Наименование</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2688,7 +2690,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 238 523</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>110</td>
 <td></td>
@@ -2697,7 +2699,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>34 837</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2706,7 +2708,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>34 837</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -2715,7 +2717,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 528 457</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2724,16 +2726,16 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 424 617</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td></td>
-<td>Аппарат специального представителя Президента Республики Казахстан на комплексе «Байконур»</td>
+<td>Аппарат специального представителя Президента Республики Казахстан на комплексе &quot;Байконур&quot;</td>
 <td>42 044</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -2742,7 +2744,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>16 988</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -2751,7 +2753,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>44 808</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2760,7 +2762,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>106 398</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2769,7 +2771,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>104 313</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -2778,7 +2780,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 085</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -2787,7 +2789,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>110 279</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2796,7 +2798,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>110 279</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>269</td>
 <td></td>
@@ -2805,7 +2807,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>83 680</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2814,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>23 775</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2823,7 +2825,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>59 905</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>282</td>
 <td></td>
@@ -2832,7 +2834,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>157 971</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2841,7 +2843,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>157 971</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>289</td>
 <td></td>
@@ -2850,7 +2852,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>58 134</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2859,7 +2861,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>58 134</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>290</td>
 <td></td>
@@ -2868,7 +2870,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>122 790</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2877,7 +2879,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>122 790</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>718</td>
 <td></td>
@@ -2886,7 +2888,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>35 977</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2904,7 +2906,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>543 865</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -2913,7 +2915,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>543 865</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -2922,7 +2924,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 856</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -2931,7 +2933,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>72 685</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -2940,7 +2942,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>61 911</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -2958,7 +2960,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 570 194</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -2967,7 +2969,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 279 143</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2976,7 +2978,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 168 089</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2985,7 +2987,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 449</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -2994,7 +2996,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>43 996</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -3003,7 +3005,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>51 807</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -3012,7 +3014,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>12 802</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -3021,7 +3023,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>291 051</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -3039,7 +3041,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>15 633 002</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -3048,7 +3050,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 766</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3057,7 +3059,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 766</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -3066,7 +3068,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>409 400</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3075,7 +3077,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>69 644</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>043</td>
@@ -3084,7 +3086,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>339 756</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -3093,7 +3095,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 994 484</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3102,7 +3104,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>128 841</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3111,7 +3113,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>743 862</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -3120,7 +3122,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 524</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -3129,7 +3131,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>13 445</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -3138,7 +3140,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>555 810</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3147,7 +3149,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>118 165</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -3156,7 +3158,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>202 757</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -3165,7 +3167,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>40 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -3174,7 +3176,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 571 059</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -3183,7 +3185,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 253 334</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -3192,7 +3194,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>44 361</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -3201,7 +3203,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 311 326</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -3210,7 +3212,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 592 534</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -3219,7 +3221,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 358 629</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3228,7 +3230,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>233 905</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -3237,7 +3239,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 566 818</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -3255,7 +3257,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 330 935</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -3264,7 +3266,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>9 970 935</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3273,7 +3275,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>110 462</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -3282,7 +3284,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>397 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -3291,7 +3293,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>116 645</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3300,7 +3302,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>166 642</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -3309,7 +3311,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>16 227</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -3318,7 +3320,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 226 206</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -3327,7 +3329,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>961 410</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -3336,7 +3338,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>24 810</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -3345,7 +3347,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>786 258</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -3354,7 +3356,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>38 884</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -3363,7 +3365,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 431</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -3372,7 +3374,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>21 082</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -3381,7 +3383,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>142 120</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -3390,7 +3392,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>105 651</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -3399,7 +3401,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>26 422</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>039</td>
@@ -3408,7 +3410,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 592 799</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -3417,7 +3419,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>156 619</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -3426,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>79 998</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -3435,7 +3437,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 360 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>038</td>
@@ -3453,7 +3455,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>3 070 446</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -3462,7 +3464,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 819 254</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3471,7 +3473,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>86 125</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -3480,7 +3482,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>223 850</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3489,7 +3491,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>291 984</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -3498,7 +3500,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -3507,7 +3509,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>486 366</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -3516,7 +3518,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>543 503</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -3525,7 +3527,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>348 419</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -3534,7 +3536,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>78 539</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -3543,7 +3545,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 831</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -3552,7 +3554,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>8 128</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -3561,7 +3563,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 595</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -3570,7 +3572,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>742 907</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -3579,7 +3581,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>181 506</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -3588,7 +3590,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>140 167</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -3597,7 +3599,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>41 339</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -3606,7 +3608,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>13 442</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>077</td>
@@ -3615,7 +3617,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>13 442</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -3624,7 +3626,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 236</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -3633,7 +3635,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>5 236</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>295</td>
 <td></td>
@@ -3642,7 +3644,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>51 008</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3660,7 +3662,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>787 995</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -3669,7 +3671,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>251 750</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -3678,7 +3680,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>251 750</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -3687,7 +3689,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>536 245</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3696,7 +3698,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>64 688</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -3714,7 +3716,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 475 795</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>259</td>
 <td></td>
@@ -3723,7 +3725,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>217 106</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3732,7 +3734,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>29 626</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -3741,7 +3743,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>187 480</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>262</td>
 <td></td>
@@ -3750,7 +3752,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>766 898</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3759,7 +3761,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>39 317</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3768,7 +3770,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>53 082</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -3777,7 +3779,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>89 024</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3786,7 +3788,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>378 690</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -3795,7 +3797,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>119 459</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -3804,7 +3806,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>87 191</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -3813,7 +3815,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>135</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>263</td>
 <td></td>
@@ -3822,7 +3824,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>681 957</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3831,7 +3833,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>84 710</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3840,7 +3842,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>597 247</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>264</td>
 <td></td>
@@ -3849,7 +3851,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>45 143</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3858,7 +3860,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>24 850</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -3867,7 +3869,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 293</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>283</td>
 <td></td>
@@ -3876,7 +3878,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>216 218</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3885,7 +3887,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>32 105</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -3894,7 +3896,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>106 206</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -3903,7 +3905,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>77 907</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -3912,7 +3914,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 041 026</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -3921,7 +3923,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>152 356</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -3930,7 +3932,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>81 714</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3939,7 +3941,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>436 236</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -3948,7 +3950,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>370 720</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>289</td>
 <td></td>
@@ -3957,7 +3959,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>21 002</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -3966,7 +3968,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>21 002</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -3975,7 +3977,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 486 445</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -3984,7 +3986,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>869 857</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -4002,7 +4004,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>411 708</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -4011,7 +4013,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>411 708</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>071</td>
@@ -4029,7 +4031,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>9 987 277</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>251</td>
 <td></td>
@@ -4038,7 +4040,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>31 992</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4047,7 +4049,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>31 992</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>254</td>
 <td></td>
@@ -4056,7 +4058,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 073 661</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4065,7 +4067,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>59 325</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -4074,7 +4076,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>26 132</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -4083,7 +4085,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>528 452</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -4092,7 +4094,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>11 133</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -4101,7 +4103,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>398 619</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -4110,7 +4112,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>50 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -4119,7 +4121,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>8 831 624</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4128,7 +4130,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>91 576</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -4137,7 +4139,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>520 849</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -4146,7 +4148,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 239 887</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -4155,7 +4157,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 336 932</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -4164,7 +4166,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>413 452</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -4173,7 +4175,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>114 109</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -4182,7 +4184,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 032</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>020</td>
@@ -4191,7 +4193,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>2 978 760</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -4200,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>6 827</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -4209,7 +4211,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>16 213</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -4218,7 +4220,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>169 951</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -4227,7 +4229,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>170 267</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -4236,7 +4238,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>18 866</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -4245,7 +4247,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>409</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -4254,7 +4256,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 744 144</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -4263,7 +4265,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>7 350</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -4272,7 +4274,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>50 000</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -4290,7 +4292,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>153 881</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -4299,7 +4301,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>70 250</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4308,7 +4310,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>70 250</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>272</td>
 <td></td>
@@ -4317,7 +4319,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>83 631</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4326,7 +4328,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>83 421</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -4344,7 +4346,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 777 500</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -4353,7 +4355,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>4 777 500</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4362,7 +4364,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>48 385</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -4371,7 +4373,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>143 466</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -4380,7 +4382,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>20 243</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -4398,7 +4400,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>505 463</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -4407,16 +4409,16 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>323 579</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td></td>
-<td>Обеспечение деятельности государственного учреждения «Центр информационных технологий»</td>
+<td>Обеспечение деятельности государственного учреждения &quot;Центр информационных технологий&quot;</td>
 <td>323 579</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -4425,7 +4427,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>131 500</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -4434,7 +4436,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>131 500</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>280</td>
 <td></td>
@@ -4443,7 +4445,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>50 384</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4461,7 +4463,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>3 668</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -4470,7 +4472,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>3 668</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -4488,7 +4490,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -4497,7 +4499,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -4506,7 +4508,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>28 599 752</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4515,7 +4517,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>-955 519</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4551,7 +4553,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>211 750</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4578,7 +4580,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4587,7 +4589,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>0</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4596,7 +4598,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4605,7 +4607,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>-1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4614,7 +4616,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>0</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4623,7 +4625,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4632,7 +4634,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -4641,7 +4643,7 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 <td>1 167 269</td>
 </tr>
 <tr>
-<td>�</td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -4651,12 +4653,19 @@ source: https://zan.gov.kz/client/#!/doc/85260/rus/23.11.2015
 </tr>
 </table>
 
-> *Приложение 4*  
-> *к решению 33 сессии*  
-> *Кызылординского областного маслихата*  
-> *от «12» декабря 2014 года № 236*
+<table>
+<tr>
+<td></td>
+<td>
+Приложение 4
+к решению 33 сессии
+Кызылординского областного маслихата
+от &quot;12&quot; декабря 2014 года № 236
+</td>
+</tr>
+</table>
 
-# Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2015 год
+## Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2015 год
 
 <table>
 <tr>

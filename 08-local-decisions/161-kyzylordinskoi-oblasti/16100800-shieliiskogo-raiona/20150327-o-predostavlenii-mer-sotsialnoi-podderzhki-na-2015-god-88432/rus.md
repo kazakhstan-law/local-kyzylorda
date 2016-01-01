@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/88432/rus/27.03.2015
+source: https://zan.gov.kz/client/#!/doc/88432/rus/01.01.2016
 ---
 
 # О предоставлении мер социальной поддержки на 2015 год
