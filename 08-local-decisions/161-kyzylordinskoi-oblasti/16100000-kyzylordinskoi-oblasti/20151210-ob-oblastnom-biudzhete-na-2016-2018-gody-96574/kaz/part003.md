@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96574/kaz/01.04.2016
+source: https://zan.gov.kz/client/#!/doc/96574/kaz/01.06.2016
 ---
 
 > *Қызылорда облыстық мәслихатының 2015 жылғы «10» желтоқсандағы*  
