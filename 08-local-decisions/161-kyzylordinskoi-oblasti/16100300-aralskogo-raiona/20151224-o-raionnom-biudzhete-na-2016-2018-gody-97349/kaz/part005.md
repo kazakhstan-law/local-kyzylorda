@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97349/kaz/12.04.2016
+source: https://zan.gov.kz/client/#!/doc/97349/kaz/10.06.2016
 ---
 
 > *2015 жылғы «24» желтоқсандағы №266*  
