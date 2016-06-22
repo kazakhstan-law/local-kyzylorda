@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
+source: https://zan.gov.kz/client/#!/doc/97154/kaz/22.06.2016
 ---
 
 > *Қармақшы аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 
 # Кент, ауылдық округ әкімі аппараттарының 2016 жылға арналған бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Қызылорда облысы Қармақшы аудандық мәслихатының 12.04.2016 № 9 шешiмiмен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 01.01.2016 бастап туындаған қатынастарға таралады).*
+> *Ескерту. 7-қосымша жаңа редакцияда - Қызылорда облысы Қармақшы аудандық мәслихатының 22.06.2016 № 19 шешiмiмен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі және 01.01.2016 бастап туындаған қатынастарға таралады).*
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>1764262</td>
+<td>1783955</td>
 </tr>
 <tr>
 <td>01</td>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>300409</td>
+<td>310619</td>
 </tr>
 <tr>
 <td></td>
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>300409</td>
+<td>310619</td>
 </tr>
 <tr>
 <td></td>
@@ -68,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">001</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>300340</td>
+<td>306350</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>239017</td>
+<td>245027</td>
 </tr>
 <tr>
 <td></td>
@@ -204,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>47351</td>
+<td>51127</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>23201</td>
+<td>23394</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
-<td>12033</td>
+<td>12226</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
-<td>13349</td>
+<td>13542</td>
 </tr>
 <tr>
 <td></td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Иіркөл ауылдық округ әкімінің аппараты</td>
-<td>11096</td>
+<td>11289</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жаңажол ауылдық округ әкімінің аппараты</td>
-<td>15027</td>
+<td>15220</td>
 </tr>
 <tr>
 <td></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>ІІІ-Интернационал ауылдық округ әкімінің аппараты</td>
-<td>13229</td>
+<td>13422</td>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>15251</td>
+<td>15444</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақжар ауылдық округ әкімінің аппараты</td>
-<td>17127</td>
+<td>17624</td>
 </tr>
 <tr>
 <td></td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Дауылкөл ауылдық округ әкімінің аппараты</td>
-<td>14683</td>
+<td>14876</td>
 </tr>
 <tr>
 <td></td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>16755</td>
+<td>16948</td>
 </tr>
 <tr>
 <td></td>
@@ -327,12 +327,36 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td>69</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2">032</td>
+<td></td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>4200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>4200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>4200</td>
+</tr>
+<tr>
 <td>04</td>
 <td></td>
 <td colspan="2"></td>
 <td></td>
 <td>Білім беру</td>
-<td>896175</td>
+<td>904932</td>
 </tr>
 <tr>
 <td></td>
@@ -340,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>896175</td>
+<td>904932</td>
 </tr>
 <tr>
 <td></td>
@@ -348,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">004</td>
 <td></td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td>671590</td>
+<td>680347</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>011</td>
 <td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
-<td>142421</td>
+<td>144379</td>
 </tr>
 <tr>
 <td></td>
@@ -468,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>12717</td>
+<td>14675</td>
 </tr>
 <tr>
 <td></td>
@@ -476,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>529169</td>
+<td>535968</td>
 </tr>
 <tr>
 <td></td>
@@ -492,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Төретам кенті әкімінің аппараты</td>
-<td>37662</td>
+<td>38392</td>
 </tr>
 <tr>
 <td></td>
@@ -508,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
-<td>12007</td>
+<td>12039</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақай ауылдық округ әкімінің аппараты</td>
-<td>71843</td>
+<td>77880</td>
 </tr>
 <tr>
 <td></td>
@@ -988,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>128295</td>
+<td>129053</td>
 </tr>
 <tr>
 <td></td>
@@ -996,7 +1020,23 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>128295</td>
+<td>129053</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">007</td>
+<td></td>
+<td>Аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдастыру</td>
+<td>1474</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>1474</td>
 </tr>
 <tr>
 <td></td>
@@ -1004,7 +1044,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">008</td>
 <td></td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>14594</td>
+<td>5107</td>
 </tr>
 <tr>
 <td></td>
@@ -1012,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>14594</td>
+<td>5107</td>
 </tr>
 <tr>
 <td></td>
@@ -1037,14 +1077,6 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
 <td>511</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>9487</td>
 </tr>
 <tr>
 <td></td>
@@ -1108,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">011</td>
 <td></td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>94324</td>
+<td>103011</td>
 </tr>
 <tr>
 <td></td>
@@ -1116,7 +1148,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>94324</td>
+<td>103011</td>
 </tr>
 <tr>
 <td></td>
@@ -1124,7 +1156,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>57599</td>
+<td>57837</td>
 </tr>
 <tr>
 <td></td>
@@ -1163,6 +1195,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td></td>
 <td colspan="2"></td>
 <td></td>
+<td>Ақтөбе ауылдық округ әкімінің аппараты</td>
+<td>9487</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td>Алдашбай Ахун ауылдық округ әкімінің аппараты</td>
 <td>17897</td>
 </tr>
@@ -1172,7 +1212,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қуандария ауылдық округ әкімінің аппараты</td>
-<td>2686</td>
+<td>1648</td>
 </tr>
 <tr>
 <td></td>
@@ -1196,7 +1236,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">014</td>
 <td></td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>960</td>
+<td>1610</td>
 </tr>
 <tr>
 <td></td>
@@ -1204,7 +1244,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>960</td>
+<td>1610</td>
 </tr>
 <tr>
 <td></td>
@@ -1217,10 +1257,18 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Ақай ауылдық округ әкімінің аппараты</td>
+<td>650</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">027</td>
 <td></td>
 <td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>10416</td>
+<td>9850</td>
 </tr>
 <tr>
 <td></td>
@@ -1228,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>10416</td>
+<td>9850</td>
 </tr>
 <tr>
 <td></td>
@@ -1244,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Ақтөбе ауылдық округ әкімінің аппараты</td>
-<td>2572</td>
+<td>2006</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1252,7 +1300,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1260,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1268,7 +1316,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">006</td>
 <td></td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1388,7 +1436,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>122512</td>
+<td>122480</td>
 </tr>
 <tr>
 <td></td>
@@ -1412,7 +1460,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жосалы ауылдық округ әкімінің аппараты</td>
-<td>6236</td>
+<td>6204</td>
 </tr>
 <tr>
 <td></td>
@@ -1522,6 +1570,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>18223</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Қармақшы ауылдық округ әкімінің аппараты</td>
 <td>5629</td>
@@ -1546,9 +1602,33 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td>011</td>
+<td>Республикалық бюджеттен берілетін трансферттер есебiнен</td>
+<td>26314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жосалы кенті әкімінің аппараты</td>
-<td>167462</td>
+<td>26314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>149705</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жосалы кенті әкімінің аппараты</td>
+<td>141148</td>
 </tr>
 <tr>
 <td></td>
@@ -1580,6 +1660,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/kaz/12.04.2016
 <td colspan="2">040</td>
 <td></td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>48242</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
 <td>48242</td>
 </tr>
 <tr>

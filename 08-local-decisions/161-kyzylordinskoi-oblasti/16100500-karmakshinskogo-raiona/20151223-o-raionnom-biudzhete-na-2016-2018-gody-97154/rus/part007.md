@@ -1,15 +1,15 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
+source: https://zan.gov.kz/client/#!/doc/97154/rus/22.06.2016
 ---
 
 > *Приложение 7*  
-> *Кармакшинского районного маслихата*  
+> *к решению Кармакшинского районного маслихата*  
 > *от «23» декабря 2015 года №308*
 
-# Список бюджетных программ на 2016 год аппаратов акимов поселков, сельских округов.
+# Список бюджетных программ на 2016 год аппаратов акимов поселков, сельских округов
 
-> *Сноска. Приложение 7 - в редакции решения Кармакшинского районного маслихата Кызылординской области от 12.04.2016 N 9 (вводится в действие со дня первого официального опубликования и распространяется на отношения, возникшие с 01.01.2016).*
+> *Сноска. Приложение 7 - в редакции решения Кармакшинского районного маслихата Кызылординской области от 22.06.2016 N 19 (вводится в действие со дня первого официального опубликования и распространяется на отношения, возникшие с 01.01.2016).*
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>1764262</td>
+<td>1783955</td>
 </tr>
 <tr>
 <td>01</td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>300409</td>
+<td>310619</td>
 </tr>
 <tr>
 <td></td>
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>300409</td>
+<td>310619</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3">001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>300340</td>
+<td>306350</td>
 </tr>
 <tr>
 <td></td>
@@ -195,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2">015</td>
 <td>За счет средств местного бюджета</td>
-<td>239017</td>
+<td>245027</td>
 </tr>
 <tr>
 <td></td>
@@ -203,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>47351</td>
+<td>51127</td>
 </tr>
 <tr>
 <td></td>
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима поселка Торетам</td>
-<td>23201</td>
+<td>23394</td>
 </tr>
 <tr>
 <td></td>
@@ -219,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
-<td>12033</td>
+<td>12226</td>
 </tr>
 <tr>
 <td></td>
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>13349</td>
+<td>13542</td>
 </tr>
 <tr>
 <td></td>
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
-<td>11096</td>
+<td>11289</td>
 </tr>
 <tr>
 <td></td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Жанажол</td>
-<td>15027</td>
+<td>15220</td>
 </tr>
 <tr>
 <td></td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа ІІІ-Интернационал</td>
-<td>13229</td>
+<td>13422</td>
 </tr>
 <tr>
 <td></td>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Актобе</td>
-<td>15251</td>
+<td>15444</td>
 </tr>
 <tr>
 <td></td>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Акжар</td>
-<td>17127</td>
+<td>17624</td>
 </tr>
 <tr>
 <td></td>
@@ -275,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
-<td>14683</td>
+<td>14876</td>
 </tr>
 <tr>
 <td></td>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
-<td>16755</td>
+<td>16948</td>
 </tr>
 <tr>
 <td></td>
@@ -326,12 +326,36 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td>69</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2">032</td>
+<td colspan="3"></td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>4200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">015</td>
+<td>За счет средств местного бюджета</td>
+<td>4200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Аппарат акима поселка Жосалы</td>
+<td>4200</td>
+</tr>
+<tr>
 <td>04</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Образование</td>
-<td>896175</td>
+<td>904932</td>
 </tr>
 <tr>
 <td></td>
@@ -339,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>896175</td>
+<td>904932</td>
 </tr>
 <tr>
 <td></td>
@@ -347,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2">004</td>
 <td colspan="3"></td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>671590</td>
+<td>680347</td>
 </tr>
 <tr>
 <td></td>
@@ -355,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>142421</td>
+<td>144379</td>
 </tr>
 <tr>
 <td></td>
@@ -467,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
-<td>12717</td>
+<td>14675</td>
 </tr>
 <tr>
 <td></td>
@@ -475,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>529169</td>
+<td>535968</td>
 </tr>
 <tr>
 <td></td>
@@ -491,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Торетам</td>
-<td>37662</td>
+<td>38392</td>
 </tr>
 <tr>
 <td></td>
@@ -507,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>12007</td>
+<td>12039</td>
 </tr>
 <tr>
 <td></td>
@@ -587,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
-<td>71843</td>
+<td>77880</td>
 </tr>
 <tr>
 <td></td>
@@ -987,7 +1011,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>128295</td>
+<td>129053</td>
 </tr>
 <tr>
 <td></td>
@@ -995,7 +1019,23 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>128295</td>
+<td>129053</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">007</td>
+<td colspan="3"></td>
+<td>Организация сохранения государственного жилищного фонда города районного значения, поселка, села, сельского округа</td>
+<td>1474</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Аппарат акима поселка Жосалы</td>
+<td>1474</td>
 </tr>
 <tr>
 <td></td>
@@ -1003,7 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2">008</td>
 <td colspan="3"></td>
 <td>Освещение улиц населенных пунктов</td>
-<td>14594</td>
+<td>5107</td>
 </tr>
 <tr>
 <td></td>
@@ -1011,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>14594</td>
+<td>5107</td>
 </tr>
 <tr>
 <td></td>
@@ -1036,14 +1076,6 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
 <td>511</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>Аппарат акима сельского округа Актобе</td>
-<td>9487</td>
 </tr>
 <tr>
 <td></td>
@@ -1107,7 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2">011</td>
 <td colspan="3"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>94324</td>
+<td>103011</td>
 </tr>
 <tr>
 <td></td>
@@ -1115,7 +1147,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td>За счет средств местного бюджета</td>
-<td>94324</td>
+<td>103011</td>
 </tr>
 <tr>
 <td></td>
@@ -1123,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>57599</td>
+<td>57837</td>
 </tr>
 <tr>
 <td></td>
@@ -1160,6 +1192,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Аппарат акима сельского округа Актобе</td>
+<td>9487</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
@@ -1171,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Куандария</td>
-<td>2686</td>
+<td>1648</td>
 </tr>
 <tr>
 <td></td>
@@ -1195,7 +1235,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td>014</td>
 <td colspan="4"></td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>960</td>
+<td>1610</td>
 </tr>
 <tr>
 <td></td>
@@ -1203,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4">015</td>
 <td>За счет средств местного бюджета</td>
-<td>960</td>
+<td>1610</td>
 </tr>
 <tr>
 <td></td>
@@ -1216,10 +1256,18 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
+<td>Аппарат акима сельского округа Акай</td>
+<td>650</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>027</td>
 <td colspan="4"></td>
 <td>Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>10416</td>
+<td>9850</td>
 </tr>
 <tr>
 <td></td>
@@ -1227,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4">015</td>
 <td>За счет средств местного бюджета</td>
-<td>10416</td>
+<td>9850</td>
 </tr>
 <tr>
 <td></td>
@@ -1243,7 +1291,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Актобе</td>
-<td>2572</td>
+<td>2006</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1251,7 +1299,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1259,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1267,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td>006</td>
 <td colspan="4"></td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>151466</td>
+<td>151434</td>
 </tr>
 <tr>
 <td></td>
@@ -1387,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4">015</td>
 <td>За счет средств местного бюджета</td>
-<td>122512</td>
+<td>122480</td>
 </tr>
 <tr>
 <td></td>
@@ -1411,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>6236</td>
+<td>6204</td>
 </tr>
 <tr>
 <td></td>
@@ -1521,6 +1569,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="4">015</td>
+<td>За счет средств местного бюджета</td>
+<td>18223</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
 <td>5629</td>
@@ -1545,9 +1601,33 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td></td>
 <td></td>
 <td></td>
+<td colspan="4">011</td>
+<td>За счет трансфертов из республиканского бюджета</td>
+<td>26314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>167462</td>
+<td>26314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">015</td>
+<td>За счет средств местного бюджета</td>
+<td>149705</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td>Аппарат акима поселка Жосалы</td>
+<td>141148</td>
 </tr>
 <tr>
 <td></td>
@@ -1579,6 +1659,14 @@ source: https://zan.gov.kz/client/#!/doc/97154/rus/12.04.2016
 <td>040</td>
 <td colspan="4"></td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развития регионов»</td>
+<td>48242</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">015</td>
+<td>За счет средств местного бюджета</td>
 <td>48242</td>
 </tr>
 <tr>
