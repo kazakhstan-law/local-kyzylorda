@@ -1,0 +1,24 @@
+key: V16LFM05667
+akn: /akn/kz/act/2016-11-23/V16LFM05667
+act_code: '108190'
+requisite: Решение акима сельского округа Аксу Жалагашского района Кызылординской области от 23 ноября 2016 года № 21. Зарегистрировано Департаментом юстиции Кызылординской области 14 декабря 2016 года № 5667
+title:
+  rus: О переименовании улицы
+  kaz: Көшені қайта атау туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2016-11-23
+approved_by:
+- '161006013002'
+versions:
+- date: 2016-11-23
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-11-23
+  rus: 2016-11-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/108190/kaz/23.11.2016
+  rus: https://zan.gov.kz/client/#!/doc/108190/rus/23.11.2016
