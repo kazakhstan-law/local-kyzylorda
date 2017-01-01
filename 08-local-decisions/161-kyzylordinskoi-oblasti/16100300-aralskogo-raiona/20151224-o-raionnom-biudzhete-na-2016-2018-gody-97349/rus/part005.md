@@ -1,35 +1,43 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
+source: https://zan.gov.kz/client/#!/doc/97349/rus/01.01.2017
 ---
 
-> *Приложение 5*  
-> *к решению очередной сорок четвертой сессии*  
-> *Аральского районного маслихата*  
-> *от «24» декабря 2015 года №266*
-
-# Бюджет расходов на 2017 год аппаратов акима города районного значения, поселка, села и аульного округа
+## Бюджет расходов на 2017 год аппаратов акима города районного значения, поселка, села и аульного округа
 
 <table>
-<tr>
-</tr>
 <tr>
 <td>№</td>
 <td>Наименование</td>
 <td>Код бюджетной классификаций - (123001000) Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>Код бюджетной классификаций -(123002000) Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td>Код бюджетной классификаций -(123003000) Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td>
+Код бюджетной классификаций -(123003000) Оказание социальной помощи нуждающимся
+гражданам на дому
+</td>
 <td>Код бюджетной классификаций - (123004000) Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
 <td>Код бюджетной классификаций -(123006000) Поддержка культурно-досуговой работы на местном уровне</td>
+<td>Код бюджетной классификаций -(123008000) Освещение улиц населенных пунктов</td>
+<td>Код бюджетной классификаций -(123009000) Обеспечение санитарии населенных пунктов</td>
+<td>Код бюджетной классификаций -(123011000) Благоустройство и озеленение населенных пунктов</td>
+<td>Код бюджетной классификаций -(123026000) Обеспечение занятости населения на местном уровне</td>
+<td>Код бюджетной классификаций -(123040000) Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
+<td>Итого:</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
 </tr>
 <tr>
 <td>1</td>
@@ -39,6 +47,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>25 407</td>
 <td>286 918</td>
 <td>9 356</td>
+<td>24 396</td>
+<td>59 383</td>
+<td>30 196</td>
+<td>34 733</td>
+<td>39 574</td>
+<td>587 138</td>
 </tr>
 <tr>
 <td>2</td>
@@ -48,6 +62,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>4 548</td>
 <td>48 666</td>
 <td>4 778</td>
+<td></td>
+<td>916</td>
+<td></td>
+<td>1 928</td>
+<td></td>
+<td>96 357</td>
 </tr>
 <tr>
 <td>3</td>
@@ -57,6 +77,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>2 088</td>
 <td>15 020</td>
 <td></td>
+<td>749</td>
+<td>572</td>
+<td></td>
+<td>964</td>
+<td></td>
+<td>38 661</td>
 </tr>
 <tr>
 <td>4</td>
@@ -66,6 +92,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>916</td>
 <td></td>
 <td>4 612</td>
+<td></td>
+<td>172</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>18 676</td>
 </tr>
 <tr>
 <td>5</td>
@@ -75,6 +107,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 199</td>
 <td></td>
 <td>14 599</td>
+<td>337</td>
+<td>229</td>
+<td>831</td>
+<td>964</td>
+<td></td>
+<td>33 974</td>
 </tr>
 <tr>
 <td>6</td>
@@ -84,6 +122,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>14 889</td>
 <td>9 384</td>
+<td>224</td>
+<td>172</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>36 892</td>
 </tr>
 <tr>
 <td>7</td>
@@ -93,6 +137,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 041</td>
 <td>22 859</td>
 <td>9 441</td>
+<td>224</td>
+<td>229</td>
+<td></td>
+<td>964</td>
+<td></td>
+<td>49 571</td>
 </tr>
 <tr>
 <td>8</td>
@@ -102,6 +152,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>16 788</td>
 <td>4 308</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>33 980</td>
 </tr>
 <tr>
 <td>9</td>
@@ -111,6 +167,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>959</td>
 <td></td>
 <td>4 787</td>
+<td>224</td>
+<td>172</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>20 516</td>
 </tr>
 <tr>
 <td>10</td>
@@ -120,6 +182,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 628</td>
+<td>224</td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>17 073</td>
 </tr>
 <tr>
 <td>11</td>
@@ -129,6 +197,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 283</td>
 <td>16 501</td>
 <td>8 986</td>
+<td>337</td>
+<td>229</td>
+<td></td>
+<td>964</td>
+<td></td>
+<td>41 282</td>
 </tr>
 <tr>
 <td>12</td>
@@ -138,6 +212,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 734</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>644</td>
+<td></td>
+<td>20 386</td>
 </tr>
 <tr>
 <td>13</td>
@@ -147,6 +227,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 041</td>
 <td></td>
 <td>5 042</td>
+<td>224</td>
+<td>236</td>
+<td></td>
+<td>1 292</td>
+<td></td>
+<td>22 642</td>
 </tr>
 <tr>
 <td>14</td>
@@ -156,6 +242,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>32 658</td>
 <td>15 548</td>
+<td></td>
+<td>172</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>61 627</td>
 </tr>
 <tr>
 <td>15</td>
@@ -165,6 +257,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>565</td>
 <td>38 553</td>
 <td>4 624</td>
+<td>115</td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>56 236</td>
 </tr>
 <tr>
 <td>16</td>
@@ -174,6 +272,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>9 185</td>
+<td></td>
+<td>161</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>22 931</td>
 </tr>
 <tr>
 <td>17</td>
@@ -183,6 +287,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>9 095</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>20 527</td>
 </tr>
 <tr>
 <td>18</td>
@@ -192,6 +302,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>973</td>
 <td></td>
 <td>4 581</td>
+<td>224</td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>17 771</td>
 </tr>
 <tr>
 <td>19</td>
@@ -201,6 +317,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 565</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>14 881</td>
 </tr>
 <tr>
 <td>20</td>
@@ -210,6 +332,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 586</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>15 996</td>
 </tr>
 <tr>
 <td>21</td>
@@ -219,6 +347,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 239</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>16 542</td>
 </tr>
 <tr>
 <td>22</td>
@@ -228,6 +362,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td></td>
+<td>160</td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>11 534</td>
 </tr>
 <tr>
 <td>23</td>
@@ -237,6 +377,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 754</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>653</td>
+<td></td>
+<td>16 880</td>
 </tr>
 <tr>
 <td>24</td>
@@ -246,6 +392,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 760</td>
+<td></td>
+<td>114</td>
+<td></td>
+<td>449</td>
+<td></td>
+<td>18 638</td>
 </tr>
 <tr>
 <td></td>
@@ -255,311 +407,69 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>40 020</td>
 <td>492 852</td>
 <td>150 592</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td>№</td>
-<td colspan="2">Наименование</td>
-<td>Код бюджетной классификаций -(123008000) Освещение улиц населенных пунктов</td>
-<td colspan="2">Код бюджетной классификаций -(123009000) Обеспечение санитарии населенных пунктов</td>
-<td>Код бюджетной классификаций -(123011000) Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">Код бюджетной классификаций -(123026000) Обеспечение занятости населения на местном уровне</td>
-<td colspan="2">Код бюджетной классификаций -(123040000) Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td colspan="2">Итого:</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>8</td>
-<td colspan="2">9</td>
-<td>10</td>
-<td colspan="2">11</td>
-<td colspan="2">12</td>
-<td colspan="2">13</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">Аппарат акима города Аральск</td>
-<td>24 396</td>
-<td colspan="2">59 383</td>
-<td>30 196</td>
-<td colspan="2">34 733</td>
-<td colspan="2">39 574</td>
-<td colspan="2">587 138</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2">Аппарат акима поселка Саксаульск</td>
-<td></td>
-<td colspan="2">916</td>
-<td></td>
-<td colspan="2">1 928</td>
-<td colspan="2"></td>
-<td colspan="2">96 357</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">Аппарат акима поселка Жаксыкылыш</td>
-<td>749</td>
-<td colspan="2">572</td>
-<td></td>
-<td colspan="2">964</td>
-<td colspan="2"></td>
-<td colspan="2">38 661</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2">Аппарат акима аульного округа Аралкум</td>
-<td></td>
-<td colspan="2">172</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">18 676</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2">Аппарат акима аульного округа Амануткел</td>
-<td>337</td>
-<td colspan="2">229</td>
-<td>831</td>
-<td colspan="2">964</td>
-<td colspan="2"></td>
-<td colspan="2">33 974</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="2">Аппарат акима аульного округа Буген</td>
-<td>224</td>
-<td colspan="2">172</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">36 892</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2">Аппарат акима аульного округа Октябрь</td>
-<td>224</td>
-<td colspan="2">229</td>
-<td></td>
-<td colspan="2">964</td>
-<td colspan="2"></td>
-<td colspan="2">49 571</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2">Аппарат акима аульного округа Жанакурлыс</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">33 980</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="2">Аппарат акима аульного округа Каратерен</td>
-<td>224</td>
-<td colspan="2">172</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">20 516</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="2">Аппарат акима аульного округа Жинишкекум</td>
-<td>224</td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">17 073</td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="2">Аппарат акима аульного округа Каракум</td>
-<td>337</td>
-<td colspan="2">229</td>
-<td></td>
-<td colspan="2">964</td>
-<td colspan="2"></td>
-<td colspan="2">41 282</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2">Аппарат акима аульного округа Куланды</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">644</td>
-<td colspan="2"></td>
-<td colspan="2">20 386</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2">Аппарат акима аульного округа Камыстыбас</td>
-<td>224</td>
-<td colspan="2">236</td>
-<td></td>
-<td colspan="2">1 292</td>
-<td colspan="2"></td>
-<td colspan="2">22 642</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="2">Аппарат акима аульного округа Райым</td>
-<td></td>
-<td colspan="2">172</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">61 627</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="2">Аппарат акима аульного округа Мергенсай</td>
-<td>115</td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">56 236</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="2">Аппарат акима аульного округа Бекбауыл</td>
-<td></td>
-<td colspan="2">161</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">22 931</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="2">Аппарат акима аульного округа Косаман</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">20 527</td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="2">Аппарат акима аульного округа Акирек</td>
-<td>224</td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">17 771</td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="2">Аппарат акима аульного округа Косжар</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">14 881</td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="2">Аппарат акима аульного округа Сазды</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">15 996</td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="2">Аппарат акима аульного округа Атанши</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">16 542</td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="2">Аппарат акима аульного округа Сапак</td>
-<td>160</td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">11 534</td>
-</tr>
-<tr>
-<td>23</td>
-<td colspan="2">Аппарат акима аульного округа Жетес би</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">653</td>
-<td colspan="2"></td>
-<td colspan="2">16 880</td>
-</tr>
-<tr>
-<td>24</td>
-<td colspan="2">Аппарат акима аульнъого округа Беларан</td>
-<td></td>
-<td colspan="2">114</td>
-<td></td>
-<td colspan="2">449</td>
-<td colspan="2"></td>
-<td colspan="2">18 638</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">итого:</td>
 <td>27 438</td>
-<td colspan="2">64 011</td>
+<td>64 011</td>
 <td>31 027</td>
-<td colspan="2">49 841</td>
-<td colspan="2">39 574</td>
-<td colspan="2">1 290 711</td>
+<td>49 841</td>
+<td>39 574</td>
+<td>1 290 711</td>
 </tr>
 </table>
 
-> *Приложение 6*  
-> *к решению очередной сорок четвертой сессии*  
-> *Аральского районного маслихата*  
-> *от «24» декабря 2015 года №266*
-
-# Бюджет расходов на 2018 год аппаратов акима города районного значения, поселка, села и сельского округа
-
 <table>
 <tr>
+<td></td>
+<td>Приложение 6</td>
 </tr>
+<tr>
+<td></td>
+<td>к решению очередной сорок четвертой сессии</td>
+</tr>
+<tr>
+<td></td>
+<td>Аральского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от &quot;24&quot; декабря 2015 года №266</td>
+</tr>
+</table>
+
+## Бюджет расходов на 2018 год аппаратов акима города районного значения, поселка, села и сельского округа
+
+<table>
 <tr>
 <td>№</td>
 <td>Наименование</td>
 <td>Код бюджетной классификаций - (123001000) Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>Код бюджетной классификаций -(123002000) Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td>Код бюджетной классификаций -(123003000) Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td>
+Код бюджетной классификаций -(123003000) Оказание социальной помощи нуждающимся
+гражданам на дому
+</td>
 <td>Код бюджетной классификаций - (123004000) Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
 <td>Код бюджетной классификаций -(123006000) Поддержка культурно-досуговой работы на местном уровне</td>
+<td>Код бюджетной классификаций -(123008000) Освещение улиц населенных пунктов</td>
+<td>Код бюджетной классификаций -(123009000) Обеспечение санитарии населенных пунктов</td>
+<td>Код бюджетной классификаций -(123011000) Благоустройство и озеленение населенных пунктов</td>
+<td>Код бюджетной классификаций -(123026000) Обеспечение занятости населения на местном уровне</td>
+<td>Код бюджетной классификаций -(123040000) Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
+<td>Итого:</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
 </tr>
 <tr>
 <td>1</td>
@@ -569,6 +479,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>25 441</td>
 <td>291 438</td>
 <td>9 416</td>
+<td>26 104</td>
+<td>63 540</td>
+<td>32 310</td>
+<td>37 164</td>
+<td>39 574</td>
+<td>604 804</td>
 </tr>
 <tr>
 <td>2</td>
@@ -578,6 +494,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>4 574</td>
 <td>49 058</td>
 <td>4 813</td>
+<td></td>
+<td>980</td>
+<td></td>
+<td>2 063</td>
+<td></td>
+<td>97 587</td>
 </tr>
 <tr>
 <td>3</td>
@@ -587,6 +509,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>2 110</td>
 <td>15 144</td>
 <td></td>
+<td>801</td>
+<td>612</td>
+<td></td>
+<td>1 031</td>
+<td></td>
+<td>39 144</td>
 </tr>
 <tr>
 <td>4</td>
@@ -596,6 +524,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>922</td>
 <td></td>
 <td>4 633</td>
+<td></td>
+<td>184</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>18 904</td>
 </tr>
 <tr>
 <td>5</td>
@@ -605,6 +539,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 207</td>
 <td></td>
 <td>14 693</td>
+<td>361</td>
+<td>245</td>
+<td>889</td>
+<td>1 031</td>
+<td></td>
+<td>34 424</td>
 </tr>
 <tr>
 <td>6</td>
@@ -614,6 +554,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>15 009</td>
 <td>9 434</td>
+<td>240</td>
+<td>184</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>37 293</td>
 </tr>
 <tr>
 <td>7</td>
@@ -623,6 +569,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 049</td>
 <td>22 951</td>
 <td>9 590</td>
+<td>240</td>
+<td>245</td>
+<td></td>
+<td>1 031</td>
+<td></td>
+<td>50 061</td>
 </tr>
 <tr>
 <td>8</td>
@@ -632,6 +584,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>16 950</td>
 <td>4 329</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>34 408</td>
 </tr>
 <tr>
 <td>9</td>
@@ -641,6 +599,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>967</td>
 <td></td>
 <td>4 814</td>
+<td>240</td>
+<td>184</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>20 807</td>
 </tr>
 <tr>
 <td>10</td>
@@ -650,6 +614,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 670</td>
+<td>240</td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>17 305</td>
 </tr>
 <tr>
 <td>11</td>
@@ -659,6 +629,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 373</td>
 <td>16 673</td>
 <td>9 030</td>
+<td>361</td>
+<td>245</td>
+<td></td>
+<td>1 031</td>
+<td></td>
+<td>41 872</td>
 </tr>
 <tr>
 <td>12</td>
@@ -668,6 +644,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 761</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>689</td>
+<td></td>
+<td>20 835</td>
 </tr>
 <tr>
 <td>13</td>
@@ -677,6 +659,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>1 049</td>
 <td></td>
 <td>5 067</td>
+<td>240</td>
+<td>253</td>
+<td></td>
+<td>1 390</td>
+<td></td>
+<td>22 955</td>
 </tr>
 <tr>
 <td>14</td>
@@ -686,6 +674,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td>32 959</td>
 <td>15 636</td>
+<td></td>
+<td>184</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>62 196</td>
 </tr>
 <tr>
 <td>15</td>
@@ -695,6 +689,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>571</td>
 <td>39 115</td>
 <td>4 650</td>
+<td>123</td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>57 033</td>
 </tr>
 <tr>
 <td>16</td>
@@ -704,6 +704,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>9 229</td>
+<td></td>
+<td>172</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>23 182</td>
 </tr>
 <tr>
 <td>17</td>
@@ -713,6 +719,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>9 146</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>20 790</td>
 </tr>
 <tr>
 <td>18</td>
@@ -722,6 +734,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>981</td>
 <td></td>
 <td>4 604</td>
+<td>238</td>
+<td>121</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>17 999</td>
 </tr>
 <tr>
 <td>19</td>
@@ -731,6 +749,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 600</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>15 076</td>
 </tr>
 <tr>
 <td>20</td>
@@ -740,6 +764,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 607</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>16 236</td>
 </tr>
 <tr>
 <td>21</td>
@@ -749,6 +779,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 261</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>16 790</td>
 </tr>
 <tr>
 <td>22</td>
@@ -758,6 +794,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td></td>
+<td>171</td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>11 707</td>
 </tr>
 <tr>
 <td>23</td>
@@ -767,6 +809,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 790</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>699</td>
+<td></td>
+<td>17 122</td>
 </tr>
 <tr>
 <td>24</td>
@@ -776,6 +824,12 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td></td>
 <td></td>
 <td>4 785</td>
+<td></td>
+<td>122</td>
+<td></td>
+<td>480</td>
+<td></td>
+<td>19 045</td>
 </tr>
 <tr>
 <td></td>
@@ -785,292 +839,35 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 <td>40 244</td>
 <td>499 297</td>
 <td>151 558</td>
+<td>29 359</td>
+<td>68 491</td>
+<td>33 199</td>
+<td>53 329</td>
+<td>39 574</td>
+<td>1 317 575</td>
 </tr>
 </table>
-
-Продолжение таблицы
 
 <table>
 <tr>
-</tr>
-<tr>
-<td>№</td>
-<td>Наименование</td>
-<td>Код бюджетной классификаций -(123008000) Освещение улиц населенных пунктов</td>
-<td colspan="2">Код бюджетной классификаций -(123009000) Обеспечение санитарии населенных пунктов</td>
-<td>Код бюджетной классификаций -(123011000) Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">Код бюджетной классификаций -(123026000) Обеспечение занятости населения на местном уровне</td>
-<td colspan="2">Код бюджетной классификаций -(123040000) Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td colspan="2">Итого:</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>8</td>
-<td colspan="2">9</td>
-<td>10</td>
-<td colspan="2">11</td>
-<td colspan="2">12</td>
-<td colspan="2">13</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Аппарат акима города Аральск</td>
-<td>26 104</td>
-<td colspan="2">63 540</td>
-<td>32 310</td>
-<td colspan="2">37 164</td>
-<td colspan="2">39 574</td>
-<td colspan="2">604 804</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Аппарат акима поселка Саксаульск</td>
 <td></td>
-<td colspan="2">980</td>
-<td></td>
-<td colspan="2">2 063</td>
-<td colspan="2"></td>
-<td colspan="2">97 587</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Аппарат акима поселка Жаксыкылыш</td>
-<td>801</td>
-<td colspan="2">612</td>
-<td></td>
-<td colspan="2">1 031</td>
-<td colspan="2"></td>
-<td colspan="2">39 144</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Аппарат акима аульного округа Аралкум</td>
-<td></td>
-<td colspan="2">184</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">18 904</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Аппарат акима аульного округа Амануткел</td>
-<td>361</td>
-<td colspan="2">245</td>
-<td>889</td>
-<td colspan="2">1 031</td>
-<td colspan="2"></td>
-<td colspan="2">34 424</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Аппарат акима аульного округа Буген</td>
-<td>240</td>
-<td colspan="2">184</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">37 293</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Аппарат акима аульного округа Октябрь</td>
-<td>240</td>
-<td colspan="2">245</td>
-<td></td>
-<td colspan="2">1 031</td>
-<td colspan="2"></td>
-<td colspan="2">50 061</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Аппарат акима аульного округа Жанакурлыс</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">34 408</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Аппарат акима аульного округа Каратерен</td>
-<td>240</td>
-<td colspan="2">184</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">20 807</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Аппарат акима аульного округа Жинишкекум</td>
-<td>240</td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">17 305</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Аппарат акима аульного округа Каракум</td>
-<td>361</td>
-<td colspan="2">245</td>
-<td></td>
-<td colspan="2">1 031</td>
-<td colspan="2"></td>
-<td colspan="2">41 872</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Аппарат акима аульного округа Куланды</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">689</td>
-<td colspan="2"></td>
-<td colspan="2">20 835</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Аппарат акима аульного округа Камыстыбас</td>
-<td>240</td>
-<td colspan="2">253</td>
-<td></td>
-<td colspan="2">1 390</td>
-<td colspan="2"></td>
-<td colspan="2">22 955</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Аппарат акима аульного округа Райым</td>
-<td></td>
-<td colspan="2">184</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">62 196</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Аппарат акима аульного округа Мергенсай</td>
-<td>123</td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">57 033</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Аппарат акима аульного округа Бекбауыл</td>
-<td></td>
-<td colspan="2">172</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">23 182</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Аппарат акима аульного округа Косаман</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">20 790</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Аппарат акима аульного округа Акирек</td>
-<td>238</td>
-<td colspan="2">121</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">17 999</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Аппарат акима аульного округа Косжар</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">15 076</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Аппарат акима аульного округа Сазды</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">16 236</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Аппарат акима аульного округа Атанши</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">16 790</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Аппарат акима аульного округа Сапак</td>
-<td>171</td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">11 707</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Аппарат акима аульного округа Жетес би</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">699</td>
-<td colspan="2"></td>
-<td colspan="2">17 122</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Аппарат акима аульнъого округа Беларан</td>
-<td></td>
-<td colspan="2">122</td>
-<td></td>
-<td colspan="2">480</td>
-<td colspan="2"></td>
-<td colspan="2">19 045</td>
+<td>Приложение 7</td>
 </tr>
 <tr>
 <td></td>
-<td>итого:</td>
-<td>29 359</td>
-<td colspan="2">68 491</td>
-<td>33 199</td>
-<td colspan="2">53 329</td>
-<td colspan="2">39 574</td>
-<td colspan="2">1 317 575</td>
+<td>к решению очередной сорок четвертой</td>
+</tr>
+<tr>
+<td></td>
+<td>сессии Аральского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от &quot;24&quot; декабря 2015 года №266</td>
 </tr>
 </table>
 
-> *Приложение 7*  
-> *к решению очередной сорок четвертой*  
-> *сессии Аральского районного маслихата*  
-> *от «24» декабря 2015 года №266*
-
-# Перечень районных бюджетных программ, не подлежащих секвестру в процессе исполнения районных бюджетов на 2016 год
+## Перечень районных бюджетных программ, не подлежащих секвестру в процессе исполнения районных бюджетов на 2016 год
 
 <table>
 <tr>
@@ -1090,12 +887,26 @@ source: https://zan.gov.kz/client/#!/doc/97349/rus/18.11.2016
 </tr>
 </table>
 
-> *Приложение 8*  
-> *к решению очередной сорок четвертой сессии*  
-> *Аральского районного маслихата*  
-> *от «24» декабря 2015 года №266*
+<table>
+<tr>
+<td></td>
+<td>Приложение 8</td>
+</tr>
+<tr>
+<td></td>
+<td>к решению очередной сорок четвертой сессии</td>
+</tr>
+<tr>
+<td></td>
+<td>Аральского районного маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td>от &quot;24&quot; декабря 2015 года №266</td>
+</tr>
+</table>
 
-# Суммы трансфертов, передаваемые органам местного самоуправления из бюджета района на 2016 год
+## Суммы трансфертов, передаваемые органам местного самоуправления из бюджета района на 2016 год
 
 <table>
 <tr>
