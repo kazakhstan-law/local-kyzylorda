@@ -1,679 +1,886 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
+source: https://zan.gov.kz/client/#!/doc/108927/rus/15.06.2017
 ---
 
-> *Приложение 9 к решению*  
+> *Приложение 8 к решению*  
 > *Кармакшинского районного маслихата*  
+> *от «23» декабря 2016 года №52*
+
+# Распределение между поселками, сельскими округами трансфертов, передаваемые органам местного самоуправления из районного бюджета на 2019 год
+
+<table>
+<tr>
+<td rowspan="2">П/н</td>
+<td rowspan="2">Наименование</td>
+<td colspan="6">Виды налогов</td>
+<td rowspan="2">Всего</td>
+</tr>
+<tr>
+<td>Индивидуальный подоходный налог по доходам, не облагаемым у источника выплаты (101202)</td>
+<td>Налог на имущество физических лиц (104102)</td>
+<td>Земельный налог на земли населенных пунктов с физических лиц (104302)</td>
+<td>Налог на транспортные средства с физических лиц (104402)</td>
+<td>Налог на транспортные средства с юридических лиц (104401)</td>
+<td>Земельный налог, за исключением земельного налога с физических лиц на земли населенных пунктов (104309)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Поселок Жосалы</td>
+<td>29000</td>
+<td>290</td>
+<td>530</td>
+<td>22627</td>
+<td>1225</td>
+<td>1282</td>
+<td>54954</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Поселок Торетам</td>
+<td>8160</td>
+<td>310</td>
+<td>295</td>
+<td>4996</td>
+<td>1614</td>
+<td>448</td>
+<td>15823</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Сельский округ Т. Комекбаева</td>
+<td>35</td>
+<td>8</td>
+<td>22</td>
+<td>470</td>
+<td>0</td>
+<td>4</td>
+<td>539</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Сельский округ Куандария</td>
+<td>75</td>
+<td>2</td>
+<td>23</td>
+<td>503</td>
+<td>0</td>
+<td>2</td>
+<td>605</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Сельский округ Алдашбай Ахун</td>
+<td>40</td>
+<td>5</td>
+<td>81</td>
+<td>350</td>
+<td>0</td>
+<td>38</td>
+<td>514</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Сельский округ Дауылколь</td>
+<td>80</td>
+<td>10</td>
+<td>115</td>
+<td>844</td>
+<td>75</td>
+<td>246</td>
+<td>1370</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Сельский округ Акжар</td>
+<td>72</td>
+<td>19</td>
+<td>84</td>
+<td>822</td>
+<td>0</td>
+<td>176</td>
+<td>1173</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Сельский округ Актобе</td>
+<td>102</td>
+<td>13</td>
+<td>80</td>
+<td>1700</td>
+<td>0</td>
+<td>22</td>
+<td>1917</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Сельский округ III-Интернационал</td>
+<td>450</td>
+<td>26</td>
+<td>163</td>
+<td>2514</td>
+<td>135</td>
+<td>137</td>
+<td>3425</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Сельский округ Жанажол</td>
+<td>80</td>
+<td>39</td>
+<td>98</td>
+<td>1350</td>
+<td>560</td>
+<td>205</td>
+<td>2332</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Сельский округ Ирколь</td>
+<td>9</td>
+<td>3</td>
+<td>38</td>
+<td>528</td>
+<td>0</td>
+<td>21</td>
+<td>599</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Сельский округ Жосалы</td>
+<td>250</td>
+<td>2</td>
+<td>28</td>
+<td>470</td>
+<td>0</td>
+<td>6</td>
+<td>756</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Сельский округ Кармакшы</td>
+<td>57</td>
+<td>10</td>
+<td>65</td>
+<td>854</td>
+<td>2</td>
+<td>8</td>
+<td>996</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Сельский округ Акай</td>
+<td>1749</td>
+<td>64</td>
+<td>220</td>
+<td>5423</td>
+<td>137</td>
+<td>103</td>
+<td>7696</td>
+</tr>
+<tr>
+<td></td>
+<td>Всего:</td>
+<td>40159</td>
+<td>801</td>
+<td>1842</td>
+<td>43451</td>
+<td>3748</td>
+<td>2698</td>
+<td>92699</td>
+</tr>
+</table>
+
+> *Приложение 9*  
+> *к решению Кармакшинского районного маслихата*  
 > *от «23» декабря 2016 года №52*
 
 # Список бюджетных программ на 2017 год аппаратов акимов поселков, сельских округов
 
-> *Сноска. Приложение 9 в редакции решения Кармакшинского районного маслихата Кызылординской области от 03.03.2017 № 66 (вводится в действие с 1 января 2017 года и подлежитофициальному опубликованию).*
+> *Сноска. Приложение 9 в редакции решения Кармакшинского районного маслихата Кызылординской области от 15.06.2017 № 88 (вводится в действие с 1 января 2017 года и подлежитофициальному опубликованию).*
 
 <table>
 <tr>
-<td colspan="8">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="7">Администратор бюджетных программ</td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="6">Программа</td>
+<td colspan="4">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="6">Подпрограмма</td>
+<td colspan="4">Подпрограмма</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>1746423</td>
+<td>1740933</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>310200</td>
+<td>322353</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>310200</td>
+<td>322353</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">001</td>
+<td>001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>302870</td>
+<td>315171</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>62760</td>
+<td>63180</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима поселка Торетам</td>
-<td>30759</td>
+<td>30306</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
-<td>15105</td>
+<td>17234</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>17343</td>
+<td>17763</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
-<td>14867</td>
+<td>14572</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Жанажол</td>
-<td>19513</td>
+<td>20381</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Аппарат акима сельского округа ІІІ-Интернационал</td>
+<td>17471</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Аппарат акима сельского округа ІІІ-Интернационал</td>
-<td>17051</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Актобе</td>
-<td>17484</td>
+<td>19689</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акжар</td>
-<td>20655</td>
+<td>21195</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
-<td>20072</td>
+<td>20573</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
-<td>14158</td>
+<td>15687</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Куандария</td>
-<td>13319</td>
+<td>15400</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
-<td>18460</td>
+<td>19976</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
-<td>21324</td>
+<td>21744</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">022</td>
-<td colspan="3"></td>
+<td>022</td>
+<td colspan="2"></td>
 <td>Капитальные расходы государственного органа</td>
-<td>7330</td>
+<td>7182</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Торетам</td>
 <td>3578</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жанажол</td>
 <td>1100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
-<td>1100</td>
+<td>952</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>452</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>1100</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Образование</td>
-<td>1049720</td>
+<td>1065784</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1049720</td>
+<td>1065784</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">004</td>
-<td colspan="3"></td>
+<td>004</td>
+<td colspan="2"></td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>700191</td>
+<td>708556</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>286289</td>
+<td>294654</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Торетам</td>
 <td>51406</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
 <td>27192</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
 <td>16035</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
 <td>19451</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жанажол</td>
 <td>37710</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа ІІІ-Интернационал</td>
 <td>21081</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Актобе</td>
 <td>27493</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акжар</td>
 <td>29056</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
 <td>26438</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
 <td>19946</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>15916</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>21036</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
 <td>101142</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">005</td>
-<td colspan="3"></td>
+<td>005</td>
+<td colspan="2"></td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td>9179</td>
+<td>7368</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
 <td>1397</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Торетам</td>
-<td>4010</td>
+<td>2199</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>1841</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
 <td>1931</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">041</td>
-<td colspan="3"></td>
+<td>041</td>
+<td colspan="2"></td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>340350</td>
+<td>349860</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>119280</td>
+<td>114246</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Торетам</td>
-<td>98900</td>
+<td>103263</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акай</td>
-<td>93082</td>
+<td>103263</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа ІІІ-Интернационал</td>
 <td>29088</td>
 </tr>
 <tr>
 <td>05</td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Здравоохранение</td>
 <td>188</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>188</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">002</td>
-<td colspan="3"></td>
+<td>002</td>
+<td colspan="2"></td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
 <td>188</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
 <td>19</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
 <td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
 <td>29</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
 <td>29</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Акжар</td>
 <td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
 <td>12</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>92</td>
 </tr>
 <tr>
 <td>06</td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Социальная помощь и социальное обеспечение</td>
 <td>27178</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>27178</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">003</td>
-<td colspan="3"></td>
+<td>003</td>
+<td colspan="2"></td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 <td>27178</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима поселка Жосалы</td>
 <td>27178</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>50320</td>
+<td>44280</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>50320</td>
+<td>44280</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">008</td>
-<td colspan="3"></td>
+<td>008</td>
+<td colspan="2"></td>
 <td>Освещение улиц населенных пунктов</td>
-<td>39837</td>
+<td>18881</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
-<td>13515</td>
+<td>10048</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
 <td>547</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
 <td>136</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>Аппарат акима сельского округа ІІІ-Интернационал</td>
-<td>5750</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
-<td>7071</td>
+<td>324</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
-<td>7899</td>
+<td>6430</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>440</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
-<td>4479</td>
+<td>956</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">011</td>
-<td colspan="3"></td>
+<td>011</td>
+<td colspan="2"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>10483</td>
+<td>25399</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
 <td>2363</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>2579</td>
+<td>2325</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
+<td>Аппарат акима сельского округа ІІІ-Интернационал</td>
+<td>5750</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Аппарат акима сельского округа Дауылколь</td>
+<td>6747</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>2762</td>
 </tr>
@@ -681,15 +888,15 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
-<td>2779</td>
+<td>5452</td>
 </tr>
 <tr>
 <td>08</td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>173723</td>
 </tr>
@@ -697,7 +904,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>173723</td>
 </tr>
@@ -705,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td>006</td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>173723</td>
 </tr>
@@ -713,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима поселка Торетам</td>
 <td>14636</td>
 </tr>
@@ -721,7 +928,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
 <td>15903</td>
 </tr>
@@ -729,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
 <td>8499</td>
 </tr>
@@ -737,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
 <td>9046</td>
 </tr>
@@ -745,7 +952,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Жанажол</td>
 <td>14359</td>
 </tr>
@@ -753,7 +960,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа ІІІ-Интернационал</td>
 <td>15990</td>
 </tr>
@@ -761,7 +968,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Актобе</td>
 <td>13698</td>
 </tr>
@@ -769,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Акжар</td>
 <td>18275</td>
 </tr>
@@ -777,7 +984,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
 <td>17638</td>
 </tr>
@@ -785,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
 <td>9222</td>
 </tr>
@@ -793,7 +1000,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>8776</td>
 </tr>
@@ -801,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>8227</td>
 </tr>
@@ -809,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Акай</td>
 <td>19454</td>
 </tr>
@@ -817,7 +1024,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td>12</td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
 <td>37566</td>
 </tr>
@@ -825,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>37566</td>
 </tr>
@@ -833,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td>013</td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 <td>37566</td>
 </tr>
@@ -841,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
 <td>7000</td>
 </tr>
@@ -849,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Акжар</td>
 <td>5950</td>
 </tr>
@@ -857,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Дауылколь</td>
 <td>5600</td>
 </tr>
@@ -865,7 +1072,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Алдашбай Ахун</td>
 <td>6300</td>
 </tr>
@@ -873,7 +1080,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Куандария</td>
 <td>7700</td>
 </tr>
@@ -881,7 +1088,7 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>5016</td>
 </tr>
@@ -889,33 +1096,33 @@ source: https://zan.gov.kz/client/#!/doc/108927/rus/03.03.2017
 <td>13</td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Прочие</td>
-<td>97528</td>
+<td>69861</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>97528</td>
+<td>69861</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>040</td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td>97528</td>
+<td>69861</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td>Аппарат акима поселка Жосалы</td>
-<td>97528</td>
+<td>69861</td>
 </tr>
 </table>
 
