@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
+source: https://zan.gov.kz/client/#!/doc/108802/rus/02.08.2017
 ---
 
 > *Приложение 4*  
@@ -10,314 +10,288 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 
 # Бюджет расходов на 2017 год аппаратов акима города районного значения, поселка, села и сельского округа
 
-> *Сноска. Приложение 4 – в редакции решения Аральского районного маслихата Кызылординской области от 06.03.2017 № 68 (вводится в действие с 01.01.2017)*
+> *Сноска. Приложение 4 – в редакции решения Аральского районного маслихата Кызылординской области от 02.08.2017 № 91 (вводится в действие с 01.01.2017)*
 
 <table>
 <tr>
 <td>№</td>
 <td colspan="2">Наименование</td>
-<td colspan="2">Код бюджетной классификаций - (12300-1000) Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>Код бюджетной классификаций -(12300-2000) Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td colspan="2">Код бюджетной классификаций -(12300-3000) Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="3">Код бюджетной классификаций - (12300-4000) Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td colspan="2">Код бюджетной классификаций -(12300-6000) Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="3">Код бюджетной классификаций -(1230-08000) Освещение улиц населенных пунктов</td>
-<td colspan="2">Код бюджетной классификаций -(12300-9000) Обеспечение санитарии населенных пунктов</td>
+<td>Код бюджетной классификаций - (123001000) Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2">Код бюджетной классификаций -(123002000) Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
+<td colspan="2">Код бюджетной классификаций -(123003000) Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td colspan="3">Код бюджетной классификаций - (123004000) Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
+<td colspan="2">Код бюджетной классификаций -(123006000) Поддержка культурно-досуговой работы на местном уровне</td>
+<td colspan="2">Код бюджетной классификаций -(123008000) Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">2</td>
-<td colspan="2">3</td>
-<td>4</td>
+<td>3</td>
+<td colspan="2">4</td>
 <td colspan="2">5</td>
 <td colspan="3">6</td>
 <td colspan="2">7</td>
-<td colspan="3">8</td>
-<td colspan="2">9</td>
+<td colspan="2">8</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">Аппарат акима города Аральск</td>
-<td colspan="2">100 575,4</td>
-<td></td>
+<td>93 374,4</td>
+<td colspan="2"></td>
 <td colspan="2">37 762</td>
 <td colspan="3">351 578</td>
-<td colspan="2">16 306</td>
-<td colspan="3">17 374</td>
-<td colspan="2"></td>
+<td colspan="2">16 794</td>
+<td colspan="2">17 374</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">Аппарат акима поселка Саксаульск</td>
-<td colspan="2">44 476</td>
-<td></td>
+<td>45 076</td>
+<td colspan="2"></td>
 <td colspan="2">6 774</td>
 <td colspan="3">66 654</td>
 <td colspan="2">10 422</td>
-<td colspan="3">307</td>
-<td colspan="2">2 500</td>
+<td colspan="2">307</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">Аппарат акима поселка Жаксыкылыш</td>
-<td colspan="2">24 900</td>
-<td></td>
+<td>24 900</td>
+<td colspan="2"></td>
 <td colspan="2">3 210</td>
 <td colspan="3">19 793</td>
 <td colspan="2"></td>
-<td colspan="3">1 286</td>
-<td colspan="2">1 072</td>
+<td colspan="2">1 286</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">Аппарат акима сельского округа Аралкум</td>
-<td colspan="2">15 939</td>
-<td></td>
+<td>16 754</td>
+<td colspan="2"></td>
 <td colspan="2">1 188</td>
 <td colspan="3"></td>
 <td colspan="2">7 324</td>
-<td colspan="3">210</td>
-<td colspan="2">300</td>
+<td colspan="2">210</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">Аппарат акима сельского округа Амануткел</td>
-<td colspan="2">17 937</td>
-<td>80</td>
-<td colspan="2">1 734</td>
+<td>18 095</td>
+<td colspan="2">80</td>
+<td colspan="2">1 537</td>
 <td colspan="3"></td>
-<td colspan="2">21 796</td>
-<td colspan="3">792</td>
-<td colspan="2">350</td>
+<td colspan="2">21 955</td>
+<td colspan="2">792</td>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="2">Аппарат акима сельского округа Буген</td>
-<td colspan="2">15 205</td>
-<td>81</td>
+<td>15 205</td>
+<td colspan="2">81</td>
 <td colspan="2">1 407</td>
 <td colspan="3">19 790</td>
 <td colspan="2">13 453</td>
-<td colspan="3">451</td>
-<td colspan="2">300</td>
+<td colspan="2">451</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">Аппарат акима сельского округа Октябрь</td>
-<td colspan="2">19 325</td>
-<td>44</td>
+<td>19 325</td>
+<td colspan="2">44</td>
 <td colspan="2">2 956</td>
-<td colspan="3">30 801</td>
+<td colspan="3">32 001</td>
 <td colspan="2">12 304</td>
-<td colspan="3">451</td>
-<td colspan="2">350</td>
+<td colspan="2">451</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">Аппарат акима сельского округа Жанакурлыс</td>
-<td colspan="2">15 935</td>
-<td>164</td>
+<td>15 935</td>
+<td colspan="2">164</td>
 <td colspan="2"></td>
 <td colspan="3">21 387</td>
 <td colspan="2">6 555</td>
-<td colspan="3">761</td>
-<td colspan="2">200</td>
+<td colspan="2">761</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">Аппарат акима сельского округа Каратерен</td>
-<td colspan="2">17 168</td>
-<td>112</td>
+<td>17 737</td>
+<td colspan="2">112</td>
 <td colspan="2">1 493</td>
 <td colspan="3"></td>
 <td colspan="2">6 611</td>
-<td colspan="3">321</td>
-<td colspan="2">300</td>
+<td colspan="2">321</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="2">Аппарат акима сельского округа Жинишкекум</td>
-<td colspan="2">15 528</td>
-<td>46</td>
+<td>15 528</td>
+<td colspan="2">46</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6 920</td>
-<td colspan="3">170</td>
-<td colspan="2">200</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td>11</td>
 <td colspan="2">Аппарат акима сельского округа Каракум</td>
-<td colspan="2">16 781</td>
-<td></td>
+<td>16 781</td>
+<td colspan="2"></td>
 <td colspan="2">1 899</td>
 <td colspan="3">21 528</td>
 <td colspan="2">13 762</td>
-<td colspan="3">672</td>
-<td colspan="2">350</td>
+<td colspan="2">672</td>
 </tr>
 <tr>
 <td>12</td>
 <td colspan="2">Аппарат акима сельского округа Куланды</td>
-<td colspan="2">17 072</td>
-<td>229</td>
+<td>17 072</td>
+<td colspan="2">229</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">7 551</td>
-<td colspan="3">210</td>
-<td colspan="2">200</td>
+<td colspan="2">210</td>
 </tr>
 <tr>
 <td>13</td>
 <td colspan="2">Аппарат акима сельского округа Камыстыбас</td>
-<td colspan="2">19 203</td>
-<td></td>
+<td>19 203</td>
+<td colspan="2"></td>
 <td colspan="2">1 595</td>
 <td colspan="3"></td>
 <td colspan="2">12 765</td>
-<td colspan="3">351</td>
-<td colspan="2">350</td>
+<td colspan="2">351</td>
 </tr>
 <tr>
 <td>14</td>
 <td colspan="2">Аппарат акима сельского округа Райым</td>
-<td colspan="2">16 439</td>
-<td></td>
+<td>16 439</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">41 606</td>
 <td colspan="2">22 665</td>
-<td colspan="3">160</td>
-<td colspan="2">300</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td>15</td>
 <td colspan="2">Аппарат акима сельского округа Мергенсай</td>
-<td colspan="2">16 625</td>
-<td>60</td>
+<td>16 625</td>
+<td colspan="2">60</td>
 <td colspan="2">831</td>
 <td colspan="3">46 563</td>
 <td colspan="2">6 860</td>
-<td colspan="3">115</td>
-<td colspan="2">200</td>
+<td colspan="2">115</td>
 </tr>
 <tr>
 <td>16</td>
 <td colspan="2">Аппарат акима сельского округа Бекбауыл</td>
-<td colspan="2">15 392</td>
-<td>94</td>
+<td>15 392</td>
+<td colspan="2">94</td>
 <td colspan="2">1 055</td>
 <td colspan="3"></td>
 <td colspan="2">14 340</td>
-<td colspan="3">291</td>
-<td colspan="2">300</td>
+<td colspan="2">291</td>
 </tr>
 <tr>
 <td>17</td>
 <td colspan="2">Аппарат акима сельского округа Косаман</td>
-<td colspan="2">13 690</td>
-<td>64</td>
+<td>13 690</td>
+<td colspan="2">64</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">14 143</td>
-<td colspan="3">180</td>
-<td colspan="2">200</td>
+<td colspan="2">180</td>
 </tr>
 <tr>
 <td>18</td>
 <td colspan="2">Аппарат акима сельского округа Акирек</td>
-<td colspan="2">17 198</td>
-<td>77</td>
+<td>36 267</td>
+<td colspan="2">77</td>
 <td colspan="2">1 151</td>
 <td colspan="3"></td>
 <td colspan="2">7 797</td>
-<td colspan="3">341</td>
-<td colspan="2">200</td>
+<td colspan="2">341</td>
 </tr>
 <tr>
 <td>19</td>
 <td colspan="2">Аппарат акима сельского округа Косжар</td>
-<td colspan="2">12 445</td>
-<td>71</td>
+<td>12 445</td>
+<td colspan="2">71</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6 902</td>
-<td colspan="3">321</td>
-<td colspan="2">200</td>
+<td colspan="2">321</td>
 </tr>
 <tr>
 <td>20</td>
 <td colspan="2">Аппарат акима сельского округа Сазды</td>
-<td colspan="2">13 682</td>
-<td>64</td>
+<td>13 682</td>
+<td colspan="2">64</td>
 <td colspan="2"></td>
-<td colspan="3">11 226</td>
+<td colspan="3">5 203</td>
 <td colspan="2">6 718</td>
-<td colspan="3"></td>
-<td colspan="2">200</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>21</td>
 <td colspan="2">Аппарат акима сельского округа Атанши</td>
-<td colspan="2">14 535</td>
-<td>112</td>
+<td>14 535</td>
+<td colspan="2">112</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6 479</td>
-<td colspan="3">110</td>
-<td colspan="2">200</td>
+<td colspan="2">110</td>
 </tr>
 <tr>
 <td>22</td>
 <td colspan="2">Аппарат акима сельского округа Сапак</td>
-<td colspan="2">14 137</td>
-<td>21</td>
+<td>14 137</td>
+<td colspan="2">21</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">291</td>
-<td colspan="2">200</td>
+<td colspan="2">291</td>
 </tr>
 <tr>
 <td>23</td>
 <td colspan="2">Аппарат акима сельского округа Жетес би</td>
-<td colspan="2">15 631</td>
-<td>68</td>
+<td>15 631</td>
+<td colspan="2">68</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">7 454</td>
-<td colspan="3">781</td>
-<td colspan="2">200</td>
+<td colspan="2">781</td>
 </tr>
 <tr>
 <td>24</td>
 <td colspan="2">Аппарат акима сельского округа Беларан</td>
-<td colspan="2">16 641</td>
-<td>129</td>
+<td>16 641</td>
+<td colspan="2">129</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">7 428</td>
-<td colspan="3">170</td>
-<td colspan="2">200</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">итого:</td>
-<td colspan="2">506 459,4</td>
-<td>1 516</td>
-<td colspan="2">63 055</td>
-<td colspan="3">630 926</td>
-<td colspan="2">236 555</td>
-<td colspan="3">26 116</td>
-<td colspan="2">8 872</td>
+<td>520 469,4</td>
+<td colspan="2">1 516</td>
+<td colspan="2">62 858</td>
+<td colspan="3">626 103</td>
+<td colspan="2">237 202</td>
+<td colspan="2">26 116</td>
 </tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
 <td>№</td>
 <td>Наименование</td>
+<td>Код бюджетной классификаций -(123009000) Обеспечение санитарии населенных пунктов</td>
 <td>Код бюджетной классификаций -(123011000) Благоустройство и озеленение населенных пунктов</td>
 <td>Код бюджетной классификаций -(123014000) Организация водоснабжения населенных пунктов</td>
 <td>Код бюджетной классификаций -(123022000) Капитальные расходы государственных органов</td>
@@ -328,6 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>1</td>
 <td>2</td>
+<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -338,56 +313,62 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>1</td>
 <td>Аппарат акима города Аральск</td>
+<td></td>
 <td>8 400</td>
 <td></td>
-<td>70 193</td>
+<td>73 003</td>
 <td></td>
 <td>152 490</td>
-<td>754 678</td>
+<td>750 775</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Аппарат акима поселка Саксаульск</td>
+<td>2 500</td>
 <td></td>
 <td></td>
-<td>2 032</td>
+<td>2 142</td>
 <td>7 106</td>
 <td></td>
-<td>140 271</td>
+<td>140 981</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Аппарат акима поселка Жаксыкылыш</td>
+<td>700</td>
 <td></td>
 <td></td>
-<td>840</td>
+<td>950</td>
 <td></td>
 <td></td>
-<td>51 101</td>
+<td>50 839</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Аппарат акима сельского округа Аралкум</td>
+<td>300</td>
 <td></td>
 <td></td>
+<td>300</td>
 <td></td>
 <td></td>
-<td></td>
-<td>24 961</td>
+<td>26 076</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Аппарат акима сельского округа Амануткел</td>
+<td>350</td>
 <td>830</td>
 <td></td>
-<td></td>
+<td>110</td>
 <td>2 000</td>
 <td></td>
-<td>45 519</td>
+<td>45 749</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Аппарат акима сельского округа Буген</td>
+<td>300</td>
 <td></td>
 <td></td>
 <td></td>
@@ -398,16 +379,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>7</td>
 <td>Аппарат акима сельского округа Октябрь</td>
+<td>350</td>
 <td></td>
 <td></td>
-<td></td>
+<td>110</td>
 <td>2 500</td>
 <td></td>
-<td>68 731</td>
+<td>70 041</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Аппарат акима сельского округа Жанакурлыс</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -418,16 +401,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>9</td>
 <td>Аппарат акима сельского округа Каратерен</td>
+<td>300</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>26 005</td>
+<td>26 574</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Аппарат акима сельского округа Жинишкекум</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -438,16 +423,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>11</td>
 <td>Аппарат акима сельского округа Каракум</td>
+<td>350</td>
 <td></td>
 <td></td>
-<td></td>
+<td>110</td>
 <td>2 000</td>
 <td></td>
-<td>56 992</td>
+<td>57 102</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Аппарат акима сельского округа Куланды</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -458,16 +445,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>13</td>
 <td>Аппарат акима сельского округа Камыстыбас</td>
+<td>350</td>
 <td></td>
 <td></td>
-<td></td>
+<td>110</td>
 <td>2 500</td>
 <td></td>
-<td>36 764</td>
+<td>36 874</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Аппарат акима сельского округа Райым</td>
+<td>300</td>
 <td></td>
 <td></td>
 <td>1 250</td>
@@ -478,6 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>15</td>
 <td>Аппарат акима сельского округа Мергенсай</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -488,6 +478,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>16</td>
 <td>Аппарат акима сельского округа Бекбауыл</td>
+<td>300</td>
 <td></td>
 <td></td>
 <td></td>
@@ -498,6 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>17</td>
 <td>Аппарат акима сельского округа Косаман</td>
+<td>200</td>
 <td></td>
 <td>3 700</td>
 <td></td>
@@ -508,16 +500,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>18</td>
 <td>Аппарат акима сельского округа Акирек</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>19 505</td>
-<td>46 269</td>
+<td>65 338</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Аппарат акима сельского округа Косжар</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -528,16 +522,18 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>20</td>
 <td>Аппарат акима сельского округа Сазды</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
 <td>2 200</td>
 <td>19 506</td>
-<td>53 596</td>
+<td>47 573</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Аппарат акима сельского округа Атанши</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -548,6 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>22</td>
 <td>Аппарат акима сельского округа Сапак</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,6 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>23</td>
 <td>Аппарат акима сельского округа Жетес би</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -568,6 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td>24</td>
 <td>Аппарат акима сельского округа Беларан</td>
+<td>200</td>
 <td></td>
 <td></td>
 <td></td>
@@ -578,12 +577,13 @@ source: https://zan.gov.kz/client/#!/doc/108802/rus/02.06.2017
 <tr>
 <td></td>
 <td>итого:</td>
+<td>8 500</td>
 <td>9 230</td>
 <td>3 700</td>
-<td>74 315</td>
+<td>78 085</td>
 <td>36 306</td>
 <td>196 947</td>
-<td>1 793 997</td>
+<td>1 807 032</td>
 </tr>
 </table>
 
