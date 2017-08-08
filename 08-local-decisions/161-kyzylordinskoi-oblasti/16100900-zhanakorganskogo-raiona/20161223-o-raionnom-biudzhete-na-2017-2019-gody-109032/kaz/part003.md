@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
+source: https://zan.gov.kz/client/#!/doc/109032/kaz/08.08.2017
 ---
 
 > *Жаңақорған аудандық мәслихатының*  
@@ -1800,13 +1800,13 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 </table>
 
 > *Жаңақорған аудандық мәслихатаның*  
-> *2016 жылғы 23 желтоқсандағы*  
-> *кезекті Х сессиясының №01-01-03/83*  
-> *шешіміне №4 қосымша*
+> *2016 жылғы 23 желтоқсандағы кезекті*  
+> *Х сессиясының №01-01-03/83 шешіміне*  
+> *№4 қосымша*
 
 # 2017 жылға кент, ауылдық округтерге қаралған қаржы бөлінісі
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Қызылорда облысы Жалағаш аудандық мәслихатының 18.04.2017 № 05-16/109 шешімімен (2017 жылдың 1 қантарынанбастап қолданысқа енгізіледі және ресми жариялауға жатады).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Қызылорда облысы Жаңақорған аудандық мәслихатының 08.08.2017 № 05-16/145 шешімімен (2017 жылдың 1 қантарынан бастап қолданысқа енгізіледі және ресми жариялауға жатады).*
 
 <table>
 <tr>
@@ -1819,17 +1819,21 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Жаңақорған кенті</td>
-<td>47838</td>
+<td>48249</td>
 <td>7490</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>21084</td>
+<td>23155</td>
 <td>0</td>
+<td>0</td>
+<td>27753</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1837,10 +1841,12 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>21266</td>
 <td>0</td>
 <td>4</td>
-<td>0</td>
+<td>3719</td>
 <td>0</td>
 <td>1927</td>
 <td>0</td>
+<td>0</td>
+<td>2217,7</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1852,17 +1858,21 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1352</td>
 <td>0</td>
+<td>0</td>
+<td>832</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаратобе а/о</td>
-<td>19095</td>
+<td>22063</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>485</td>
 <td>0</td>
+<td>0</td>
+<td>1675</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1874,50 +1884,60 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>4334</td>
 <td>0</td>
+<td>0</td>
+<td>3779</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Аққорған а/о</td>
-<td>24880</td>
+<td>24938</td>
 <td>2230</td>
 <td>0</td>
 <td>17083</td>
 <td>0</td>
 <td>1445</td>
 <td>0</td>
+<td>0</td>
+<td>4275</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Қожакент а/о</td>
-<td>21041</td>
+<td>21200</td>
 <td>0</td>
 <td>0</td>
 <td>5311,3</td>
 <td>0</td>
 <td>1710</td>
 <td>0</td>
+<td>0</td>
+<td>3035</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Өзгент а/о</td>
-<td>17465</td>
+<td>17814</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>1858</td>
+<td>3810</td>
 <td>0</td>
+<td>0</td>
+<td>1692</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Қыркеңсе а/о</td>
-<td>18058</td>
+<td>18210</td>
 <td>220185,6</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1812</td>
 <td>0</td>
+<td>0</td>
+<td>8312</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1929,17 +1949,21 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1908</td>
 <td>0</td>
+<td>0</td>
+<td>2307</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Төменарық а/о</td>
-<td>22354</td>
+<td>22863</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1858</td>
 <td>0</td>
+<td>1077</td>
+<td>4073</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1951,6 +1975,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1561</td>
 <td>0</td>
+<td>0</td>
+<td>2119</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1962,6 +1988,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>2400</td>
 <td>0</td>
+<td>0</td>
+<td>2372</td>
 </tr>
 <tr>
 <td>14</td>
@@ -1973,61 +2001,73 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>2904</td>
 <td>0</td>
+<td>0</td>
+<td>3236</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Байкенже а/о</td>
-<td>17910</td>
+<td>17980</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1200</td>
 <td>0</td>
+<td>0</td>
+<td>1251</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Кейден а/о</td>
-<td>17840</td>
+<td>18721</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1264</td>
 <td>0</td>
+<td>0</td>
+<td>1515</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Жаңарық а/о</td>
-<td>16470</td>
+<td>16622</td>
 <td>0</td>
 <td>0</td>
 <td>10208</td>
 <td>0</td>
 <td>923</td>
 <td>0</td>
+<td>0</td>
+<td>1925</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Жайылма а/о</td>
-<td>17065</td>
+<td>18057</td>
 <td>3980</td>
 <td>24</td>
-<td>5569</td>
+<td>4765</td>
 <td>0</td>
 <td>1462</td>
 <td>0</td>
+<td>0</td>
+<td>1330</td>
 </tr>
 <tr>
 <td>19</td>
 <td>М.Нәлібаева/о</td>
-<td>15204</td>
+<td>15330,1</td>
 <td>780</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>1432</td>
 <td>0</td>
+<td>0</td>
+<td>17324,4</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2039,6 +2079,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>100</td>
 <td>0</td>
+<td>0</td>
+<td>555</td>
 </tr>
 <tr>
 <td>21</td>
@@ -2050,6 +2092,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1540</td>
 <td>0</td>
+<td>0</td>
+<td>944</td>
 </tr>
 <tr>
 <td>22</td>
@@ -2061,6 +2105,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>818</td>
 <td>0</td>
+<td>0</td>
+<td>1144</td>
 </tr>
 <tr>
 <td>23</td>
@@ -2072,6 +2118,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1084</td>
 <td>0</td>
+<td>0</td>
+<td>1068</td>
 </tr>
 <tr>
 <td>24</td>
@@ -2083,6 +2131,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>1244</td>
 <td>0</td>
+<td>0</td>
+<td>901</td>
 </tr>
 <tr>
 <td>25</td>
@@ -2090,10 +2140,12 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>17389</td>
 <td>3070</td>
 <td>4</td>
-<td>0</td>
+<td>7782</td>
 <td>0</td>
 <td>856</td>
 <td>0</td>
+<td>0</td>
+<td>849</td>
 </tr>
 <tr>
 <td>26</td>
@@ -2105,27 +2157,30 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <td>0</td>
 <td>980</td>
 <td>0</td>
+<td>0</td>
+<td>871</td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>510496,6</td>
+<td>517323,7</td>
 <td>242666,4</td>
 <td>142</td>
-<td>38171,3</td>
+<td>48868,3</td>
 <td>0</td>
-<td>59541</td>
+<td>63564</td>
 <td>0</td>
+<td>1077</td>
+<td>97355,1</td>
 </tr>
 </table>
 
-Кестенің жалғасы
+таблицаның жалғасы
 
 <table>
 <tr>
 <td>/с</td>
 <td>Кент, ауылдық округтердің атауы</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
 <td>Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу</td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
@@ -2136,10 +2191,9 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>1</td>
 <td>Жаңақорған кенті</td>
-<td>27753</td>
 <td>0</td>
-<td>75026</td>
-<td>239200</td>
+<td>64384</td>
+<td>240564</td>
 <td>504192</td>
 <td>13736</td>
 <td>0</td>
@@ -2147,7 +2201,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>2</td>
 <td>Шалқия кенті</td>
-<td>2217,7</td>
 <td>0</td>
 <td>0</td>
 <td>23943</td>
@@ -2158,7 +2211,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>3</td>
 <td>Қандоз а/о</td>
-<td>1410</td>
 <td>0</td>
 <td>0</td>
 <td>23296</td>
@@ -2169,7 +2221,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>4</td>
 <td>Қаратобе а/о</td>
-<td>1675</td>
 <td>0</td>
 <td>0</td>
 <td>25569</td>
@@ -2180,10 +2231,9 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>5</td>
 <td>Келінтөбе а/о</td>
-<td>3779</td>
 <td>0</td>
 <td>0</td>
-<td>42044</td>
+<td>43942</td>
 <td>12120</td>
 <td>0</td>
 <td>0</td>
@@ -2191,7 +2241,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>6</td>
 <td>Аққорған а/о</td>
-<td>4275</td>
 <td>0</td>
 <td>0</td>
 <td>52205</td>
@@ -2202,7 +2251,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>7</td>
 <td>Қожакент а/о</td>
-<td>3035</td>
 <td>0</td>
 <td>0</td>
 <td>41004</td>
@@ -2213,7 +2261,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>8</td>
 <td>Өзгент а/о</td>
-<td>1692</td>
 <td>0</td>
 <td>0</td>
 <td>27233</td>
@@ -2224,7 +2271,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>9</td>
 <td>Қыркеңсе а/о</td>
-<td>9878</td>
 <td>0</td>
 <td>0</td>
 <td>23855</td>
@@ -2235,7 +2281,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>10</td>
 <td>Сунақата а/о</td>
-<td>2313</td>
 <td>0</td>
 <td>0</td>
 <td>18331</td>
@@ -2246,7 +2291,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>11</td>
 <td>Төменарық а/о</td>
-<td>4073</td>
 <td>0</td>
 <td>0</td>
 <td>48189</td>
@@ -2257,7 +2301,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>12</td>
 <td>Сүттіқұдық а/о</td>
-<td>2119</td>
 <td>0</td>
 <td>0</td>
 <td>47477</td>
@@ -2268,7 +2311,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>13</td>
 <td>Ақүйық а/о</td>
-<td>2372</td>
 <td>0</td>
 <td>0</td>
 <td>25130</td>
@@ -2279,18 +2321,16 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>14</td>
 <td>Бесарық а/о</td>
-<td>3310</td>
 <td>0</td>
 <td>0</td>
 <td>22567</td>
 <td>32966</td>
-<td>0</td>
+<td>245</td>
 <td>0</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Байкенже а/о</td>
-<td>1251</td>
 <td>0</td>
 <td>0</td>
 <td>19713</td>
@@ -2301,7 +2341,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>16</td>
 <td>Кейден а/о</td>
-<td>1515</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2312,10 +2351,9 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>17</td>
 <td>Жаңарық а/о</td>
-<td>1925</td>
 <td>0</td>
 <td>0</td>
-<td>19980</td>
+<td>22236</td>
 <td>12120</td>
 <td>0</td>
 <td>0</td>
@@ -2323,7 +2361,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>18</td>
 <td>Жайылма а/о</td>
-<td>1330</td>
 <td>0</td>
 <td>0</td>
 <td>13753</td>
@@ -2334,7 +2371,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>19</td>
 <td>М.Нәлібаева/о</td>
-<td>1658</td>
 <td>0</td>
 <td>0</td>
 <td>20179</td>
@@ -2345,7 +2381,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>20</td>
 <td>Көктөбе а/о</td>
-<td>555</td>
 <td>0</td>
 <td>0</td>
 <td>15102</td>
@@ -2356,7 +2391,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>21</td>
 <td>Екпінді а/о</td>
-<td>944</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2367,7 +2401,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>22</td>
 <td>Талап а/о</td>
-<td>1144</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2378,7 +2411,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>23</td>
 <td>Манап а/о</td>
-<td>1068</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2389,7 +2421,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>24</td>
 <td>Қосүйеңкі а/о</td>
-<td>901</td>
 <td>0</td>
 <td>0</td>
 <td>15163</td>
@@ -2400,9 +2431,8 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>25</td>
 <td>Қыраш а/о</td>
-<td>849</td>
 <td>0</td>
-<td>10083</td>
+<td>6568</td>
 <td>0</td>
 <td>6060</td>
 <td>0</td>
@@ -2411,7 +2441,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>26</td>
 <td>Қожамберді а/о</td>
-<td>871</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2422,23 +2451,21 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>83912,7</td>
 <td>0</td>
-<td>85109</td>
-<td>763933</td>
+<td>70952</td>
+<td>769451</td>
 <td>864398</td>
-<td>19386</td>
+<td>19631</td>
 <td>0</td>
 </tr>
 </table>
 
-Кестенің жалғасы
+таблицаның жалғасы
 
 <table>
 <tr>
 <td>/с</td>
 <td>Кент, ауылдық округтердің атауы</td>
-<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
 <td>Жергілікті деңгейде дене шынықтыру – сауықтыру және спорттық іс-шараларды іске асыру</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
@@ -2450,139 +2477,127 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>1</td>
 <td>Жаңақорған кенті</td>
-<td>0</td>
-<td>18509</td>
+<td>18426</td>
 <td>0</td>
 <td>8073</td>
 <td>30105</td>
 <td>0</td>
 <td>0</td>
-<td>993006,0</td>
+<td>986127,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Шалқия кенті</td>
-<td>0</td>
 <td>6238</td>
 <td>214</td>
 <td>0</td>
 <td>2019</td>
 <td>0</td>
 <td>0</td>
-<td>79644,7</td>
+<td>83363,7</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Қандоз а/о</td>
-<td>0</td>
 <td>7859</td>
 <td>214</td>
 <td>0</td>
 <td>2042</td>
 <td>0</td>
 <td>0</td>
-<td>53129,0</td>
+<td>52551,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаратобе а/о</td>
-<td>0</td>
 <td>7073</td>
 <td>214</td>
 <td>0</td>
 <td>515</td>
 <td>0</td>
 <td>0</td>
-<td>59474,0</td>
+<td>62442,0</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Келінтөбе а/о</td>
-<td>0</td>
 <td>10754</td>
 <td>214</td>
 <td>0</td>
-<td>2979</td>
+<td>3513</td>
 <td>0</td>
 <td>0</td>
-<td>97205,0</td>
+<td>99637,0</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Аққорған а/о</td>
-<td>0</td>
 <td>9379</td>
 <td>214</td>
 <td>0</td>
 <td>3190</td>
 <td>0</td>
 <td>0</td>
-<td>169441,0</td>
+<td>169499,0</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Қожакент а/о</td>
-<td>0</td>
 <td>8897</td>
 <td>214</td>
 <td>0</td>
 <td>1572</td>
 <td>0</td>
 <td>0</td>
-<td>94904,3</td>
+<td>95063,3</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Өзгент а/о</td>
-<td>0</td>
 <td>7156</td>
 <td>214</td>
 <td>0</td>
 <td>1163</td>
 <td>0</td>
 <td>0</td>
-<td>66477,0</td>
+<td>68778,0</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Қыркеңсе а/о</td>
-<td>0</td>
 <td>8115</td>
 <td>214</td>
 <td>0</td>
 <td>1316</td>
 <td>0</td>
 <td>0</td>
-<td>295553,6</td>
+<td>294139,6</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Сунақата а/о</td>
-<td>0</td>
-<td>8106</td>
+<td>8023</td>
 <td>214</td>
 <td>0</td>
 <td>3365</td>
 <td>0</td>
 <td>0</td>
-<td>76867,6</td>
+<td>76778,6</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Төменарық а/о</td>
-<td>1077</td>
 <td>9341</td>
 <td>214</td>
 <td>0</td>
 <td>4732</td>
 <td>0</td>
 <td>0</td>
-<td>129410,0</td>
+<td>129919,0</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Сүттіқұдық а/о</td>
-<td>0</td>
 <td>7610</td>
 <td>214</td>
 <td>0</td>
@@ -2594,7 +2609,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>13</td>
 <td>Ақүйық а/о</td>
-<td>0</td>
 <td>13514</td>
 <td>214</td>
 <td>0</td>
@@ -2606,91 +2620,83 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>14</td>
 <td>Бесарық а/о</td>
-<td>0</td>
 <td>17797</td>
 <td>214</td>
 <td>0</td>
 <td>3574</td>
 <td>0</td>
 <td>0</td>
-<td>103142,0</td>
+<td>103313,0</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Байкенже а/о</td>
-<td>0</td>
 <td>10075</td>
 <td>214</td>
 <td>0</td>
 <td>836</td>
 <td>0</td>
 <td>0</td>
-<td>56849,0</td>
+<td>56919,0</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Кейден а/о</td>
-<td>0</td>
 <td>7518</td>
 <td>214</td>
 <td>890</td>
 <td>1526</td>
 <td>0</td>
 <td>0</td>
-<td>46523,0</td>
+<td>47404,0</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Жаңарық а/о</td>
-<td>0</td>
 <td>8470</td>
 <td>214</td>
 <td>0</td>
 <td>2860</td>
 <td>0</td>
 <td>0</td>
-<td>73170,0</td>
+<td>75578,0</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Жайылма а/о</td>
-<td>0</td>
 <td>7482</td>
 <td>214</td>
 <td>0</td>
 <td>1652</td>
 <td>0</td>
 <td>0</td>
-<td>64651,0</td>
+<td>64839,0</td>
 </tr>
 <tr>
 <td>19</td>
 <td>М.Нәлібаева/о</td>
-<td>0</td>
 <td>9041</td>
 <td>214</td>
 <td>0</td>
 <td>1137</td>
 <td>0</td>
 <td>0</td>
-<td>49645,0</td>
+<td>65437,5</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Көктөбе а/о</td>
-<td>0</td>
-<td>7141</td>
+<td>7224</td>
 <td>214</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>38656,0</td>
+<td>38739,0</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Екпінді а/о</td>
-<td>0</td>
 <td>5094</td>
 <td>214</td>
 <td>0</td>
@@ -2702,7 +2708,6 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>22</td>
 <td>Талап а/о</td>
-<td>0</td>
 <td>7697</td>
 <td>214</td>
 <td>0</td>
@@ -2714,43 +2719,39 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td>23</td>
 <td>Манап а/о</td>
-<td>0</td>
-<td>10671</td>
+<td>10897</td>
 <td>214</td>
 <td>0</td>
 <td>1747</td>
 <td>0</td>
 <td>0</td>
-<td>44528,8</td>
+<td>44754,8</td>
 </tr>
 <tr>
 <td>24</td>
 <td>Қосүйеңкі а/о</td>
-<td>0</td>
-<td>7496</td>
+<td>7579</td>
 <td>214</td>
 <td>0</td>
 <td>718</td>
 <td>0</td>
 <td>0</td>
-<td>43138,0</td>
+<td>43221,0</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Қыраш а/о</td>
-<td>0</td>
 <td>6651</td>
 <td>214</td>
 <td>0</td>
 <td>745</td>
 <td>0</td>
 <td>0</td>
-<td>45921,0</td>
+<td>50188,0</td>
 </tr>
 <tr>
 <td>26</td>
 <td>Қожамберді а/о</td>
-<td>0</td>
 <td>7447</td>
 <td>214</td>
 <td>0</td>
@@ -2762,20 +2763,19 @@ source: https://zan.gov.kz/client/#!/doc/109032/kaz/18.04.2017
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>1077</td>
-<td>235131</td>
+<td>235357</td>
 <td>5350</td>
 <td>8963</td>
-<td>76699</td>
+<td>77233</td>
 <td>0</td>
 <td>0</td>
-<td>2994976,0</td>
+<td>3022331,5</td>
 </tr>
 </table>
 
-Аббревиатура толық жазылуы:
+Аббревиатураның толық жазылуы:
 
-а/о- ауылдық округі
+а/о – ауылдық округі
 
 > *Жаңақорған аудандық мәслихатының*  
 > *2016 жылғы 23 желтоқсандағы*  
