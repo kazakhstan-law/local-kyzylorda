@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
+source: https://zan.gov.kz/client/#!/doc/108923/rus/22.12.2017
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 
 # Районный бюджет на 2017 год
 
-> *Сноска. Приложение 1 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 08.12.2017 № 148 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 1 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 22.12.2017 № 155 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -37,14 +37,14 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">7054946,6</td>
+<td colspan="2">7086635,6</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">4678853,7</td>
+<td colspan="2">4398853,7</td>
 </tr>
 <tr>
 <td></td>
@@ -79,14 +79,14 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">4367248,7</td>
+<td colspan="2">4087248,7</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">4314628,7</td>
+<td colspan="2">4034628,7</td>
 </tr>
 <tr>
 <td></td>
@@ -219,21 +219,21 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">2343666,9</td>
+<td colspan="2">2655355,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">2343666,9</td>
+<td colspan="2">2655355,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td colspan="2">2343666,9</td>
+<td colspan="2">2655355,9</td>
 </tr>
 <tr>
 <td colspan="7">Функциональная группа</td>
@@ -262,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">7898651,1</td>
+<td colspan="2">7930340,1</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -822,7 +822,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">930779</td>
+<td colspan="2">962468</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -850,7 +850,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td colspan="2">708864,4</td>
+<td colspan="2">740553,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -871,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/rus/08.12.2017
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td colspan="2">388055</td>
+<td colspan="2">419744</td>
 </tr>
 <tr>
 <td colspan="2"></td>

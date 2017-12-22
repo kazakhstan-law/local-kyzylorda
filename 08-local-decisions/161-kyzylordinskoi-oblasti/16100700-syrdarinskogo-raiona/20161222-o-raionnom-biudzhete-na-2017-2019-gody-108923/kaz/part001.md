@@ -1,16 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
+source: https://zan.gov.kz/client/#!/doc/108923/kaz/22.12.2017
 ---
 
 > *Сырдария аудандық мәслихаттың*  
 > *2016 жылғы 22 желтоқсандағы*  
-> *№79 шешіміне*  
-> *1 - қосымша*
+> *№79 шешіміне 1 - қосымша*
 
 # 2017 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 08.12.2017 № 148 шешімімен (01.01.2017 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 22.12.2017 № 155 шешімімен (01.01.2017 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -37,14 +36,14 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>7054946,6</td>
+<td>7086635,6</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>4678853,7</td>
+<td>4398853,7</td>
 </tr>
 <tr>
 <td></td>
@@ -79,14 +78,14 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>4367248,7</td>
+<td>4087248,7</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
-<td>4314628,7</td>
+<td>4034628,7</td>
 </tr>
 <tr>
 <td></td>
@@ -219,21 +218,21 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>2343666,9</td>
+<td>2655355,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2343666,9</td>
+<td>2655355,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>2343666,9</td>
+<td>2655355,9</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -262,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>7898651,1</td>
+<td>7930340,1</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -822,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>930779</td>
+<td>962468</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -850,7 +849,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>708864,4</td>
+<td>740553,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -871,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/108923/kaz/08.12.2017
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td>388055</td>
+<td>419744</td>
 </tr>
 <tr>
 <td colspan="2"></td>
