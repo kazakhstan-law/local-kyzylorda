@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/118085/kaz/30.03.2018
 ---
 
 > *Қармақшы аудандық мәслихатының*  
@@ -338,6 +338,8 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 
 # 2018 жылға арналған Ақжар ауылдық округінің бюджеті
 
+> *Ескерту. 19-қосымша жаңа редакцияда - Қызылорда облысы Қармақшы аудандық мәслихатының 30.03.2018 № 159 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -487,14 +489,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>20002</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -515,14 +509,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>27326</td>
-</tr>
-<tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
 <td>27326</td>
 </tr>
 <tr>
@@ -551,14 +537,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>4</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -579,14 +557,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1250</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
 <td>1250</td>
 </tr>
 <tr>
@@ -623,14 +593,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мәдениет саласындағы қызмет</td>
-<td>15511</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -648,14 +610,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 <tr>
 <td>13</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>68203</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
@@ -1411,6 +1365,8 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 
 # 2018 жылға арналған Дауылкөл ауылдық округінің бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда - Қызылорда облысы Қармақшы аудандық мәслихатының 30.03.2018 № 159 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -1560,14 +1516,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>19735</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -1592,14 +1540,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>25977</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -1620,14 +1560,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1326</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Елді-мекендерді көркейту</td>
 <td>1326</td>
 </tr>
 <tr>
@@ -1664,14 +1596,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Мәдениет саласындағы қызмет</td>
-<td>16260</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -1689,14 +1613,6 @@ source: https://zan.gov.kz/client/#!/doc/118085/kaz/26.12.2017
 <tr>
 <td>13</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>8990</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
