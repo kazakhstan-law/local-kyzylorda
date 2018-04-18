@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/118103/rus/18.04.2018
 ---
 
 > *Приложение 15*  
@@ -355,6 +355,8 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 
 # Бюджет сельского округа Когалыколь на 2018 год
 
+> *Сноска. Приложение 16 – в редакции решения Сырдарьинского районного маслихата Кызылординской области от 18.04.2018 № 189 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -633,14 +635,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>326</td>
+<td>291</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>746</td>
+<td>781</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -2257,6 +2259,8 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 
 # Бюджет сельского округа Амангельды на 2018 год
 
+> *Сноска. Приложение 22 – в редакции решения Сырдарьинского районного маслихата Кызылординской области от 18.04.2018 № 189 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -2437,14 +2441,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>28956</td>
+<td>29277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28956</td>
+<td>29277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2454,11 +2458,18 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td>28956</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>321</td>
+</tr>
+<tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>54299</td>
+<td>53578</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2479,14 +2490,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1719</td>
+<td>998</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td>1719</td>
+<td>998</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -2514,14 +2525,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2376</td>
+<td>2776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2376</td>
+<td>2776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2542,7 +2553,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/rus/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>250</td>
+<td>650</td>
 </tr>
 <tr>
 <td colspan="2">08</td>

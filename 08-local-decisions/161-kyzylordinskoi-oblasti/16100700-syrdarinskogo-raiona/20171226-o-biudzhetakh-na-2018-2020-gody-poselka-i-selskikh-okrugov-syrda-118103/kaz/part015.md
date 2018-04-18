@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/118103/kaz/18.04.2018
 ---
 
 > *Сырдария аудандық мәслихаттың*  
@@ -355,6 +355,8 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 
 # Қоғалыкөл ауылдық округінің 2018 жылға арналған бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 18.04.2018 № 189 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
+
 <table>
 <tr>
 <td colspan="7">Санаты</td>
@@ -633,14 +635,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>326</td>
+<td>291</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>746</td>
+<td>781</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -2257,6 +2259,8 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 
 # Аманкелді ауылдық округінің 2018 жылға арналған бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 18.04.2018 № 189 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
+
 <table>
 <tr>
 <td colspan="7">Санаты</td>
@@ -2437,14 +2441,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>28956</td>
+<td>29277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28956</td>
+<td>29277</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2454,11 +2458,18 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td>28956</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>321</td>
+</tr>
+<tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td>54299</td>
+<td>53578</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2479,14 +2490,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1719</td>
+<td>998</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td>1719</td>
+<td>998</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -2514,14 +2525,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>2376</td>
+<td>2776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2376</td>
+<td>2776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2542,7 +2553,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>250</td>
+<td>650</td>
 </tr>
 <tr>
 <td colspan="2">08</td>

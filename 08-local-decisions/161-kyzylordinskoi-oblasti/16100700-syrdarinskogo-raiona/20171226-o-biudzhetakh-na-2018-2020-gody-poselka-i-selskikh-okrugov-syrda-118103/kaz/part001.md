@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/118103/kaz/18.04.2018
 ---
 
 > *Сырдария аудандық мәслихаттың*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 > *1 - қосымша*
 
 # Тереңөзек кентінің 2018 жылға арналған бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 18.04.2018 № 189 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>399926</td>
+<td>408725</td>
 </tr>
 <tr>
 <td>1</td>
@@ -154,21 +156,21 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>371795</td>
+<td>380594</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>371795</td>
+<td>380594</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>371795</td>
+<td>380594</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -197,70 +199,70 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>399926</td>
+<td>408725</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>103237</td>
+<td>114128</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>103237</td>
+<td>114128</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>62679</td>
+<td>72930</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>40558</td>
+<td>41198</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td>157854</td>
+<td>156850</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>156639</td>
+<td>155900</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>156639</td>
+<td>155900</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1215</td>
+<td>950</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td>1215</td>
+<td>950</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -288,35 +290,35 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>82480</td>
+<td>81392</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>82480</td>
+<td>81392</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>26143</td>
+<td>26439</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>27673</td>
+<td>23357</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>28664</td>
+<td>31596</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
