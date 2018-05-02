@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
+source: https://zan.gov.kz/client/#!/doc/117776/rus/02.05.2018
 ---
 
 > *Приложение 9*  
@@ -9,10 +9,12 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 
 # Список бюджетных программ на 2018 год аппаратов акимов поселков, сельских округов
 
+> *Сноска. Приложение 9 - в редакции решения Кармакшинского районного маслихата Кызылординской области от 02.05.2018 № 165 (вводится в действие с 1 января 2018 года и подлежит официальному опубликованию).*
+
 <table>
 <tr>
 <td colspan="8">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -26,14 +28,8 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <tr>
 <td></td>
 <td></td>
-<td colspan="6">Подпрограмма</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
-<td>Наименование</td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -41,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>331056</td>
+<td>328168</td>
 </tr>
 <tr>
 <td>01</td>
@@ -49,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>99204</td>
+<td>98464</td>
 </tr>
 <tr>
 <td></td>
@@ -57,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>99204</td>
+<td>98464</td>
 </tr>
 <tr>
 <td></td>
@@ -65,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3">001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>99204</td>
+<td>98464</td>
 </tr>
 <tr>
 <td></td>
@@ -73,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Кармакшы</td>
-<td>17042</td>
+<td>16302</td>
 </tr>
 <tr>
 <td></td>
@@ -129,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>120329</td>
+<td>118181</td>
 </tr>
 <tr>
 <td></td>
@@ -186,6 +182,14 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
 <td>20650</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>2148</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/26.02.2018
 <td colspan="2">008</td>
 <td colspan="3"></td>
 <td>Освещение улиц населенных пунктов</td>
-<td>3531</td>
+<td>3351</td>
 </tr>
 <tr>
 <td></td>
