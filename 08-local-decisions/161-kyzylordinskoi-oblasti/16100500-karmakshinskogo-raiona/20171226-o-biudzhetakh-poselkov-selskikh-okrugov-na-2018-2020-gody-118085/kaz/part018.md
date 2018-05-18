@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118085/kaz/30.03.2018
+source: https://zan.gov.kz/client/#!/doc/118085/kaz/18.05.2018
 ---
 
 > *Қармақшы аудандық мәслихатының*  
