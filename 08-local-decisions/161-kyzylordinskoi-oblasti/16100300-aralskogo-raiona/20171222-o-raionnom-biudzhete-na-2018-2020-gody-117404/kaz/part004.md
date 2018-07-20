@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
+source: https://zan.gov.kz/client/#!/doc/117404/kaz/20.07.2018
 ---
 
+> *2017 жылғы "22" желтоқсандағы № 121*  
 > *Арал аудандық мәслихатының*  
-> *2017 жылғы "22" желтоқсандағы № 121 шешіміне*  
-> *4-қосымша*
+> *шешіміне 4-қосымша*
 
 # Аудандағы ауылдық округтердің бюджеттік бағдарламалары бойынша 2018 жылға арналған шығындар көлемі
 
-> *Ескерту. 4 - қосымша жаңа редакцияда - Қызылорда облысы Арал аудандық мәслихатының 16.04.2018 № 145 шешімімен (01.01.2018 бастап қолданысқа енгізіледі және ресми жариялауға жатады).*
+> *Ескерту. 4 - қосымша жаңа редакцияда - Қызылорда облысы Арал аудандық мәслихатының 20.07.2018 № 168 шешімімен (01.01.2018 бастап қолданысқа енгізіледі және ресми жариялауға жатады).*
 
 <table>
 <tr>
@@ -18,7 +18,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>КБК-(123001000) Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">КБК-(123002000) Ерекше жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
 <td colspan="2">КБК-(123003000) Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>КБК-(123004000) Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td colspan="2">КБК-(123004000) Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td colspan="2">КБК-(123006000) Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
 </tr>
 <tr>
 <td>1</td>
@@ -26,7 +27,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>3</td>
 <td colspan="2">4</td>
 <td colspan="2">5</td>
-<td>6</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
 </tr>
 <tr>
 <td>1</td>
@@ -34,7 +36,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>16 412</td>
 <td colspan="2"></td>
 <td colspan="2">1 215</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 314</td>
 </tr>
 <tr>
 <td>2</td>
@@ -42,7 +45,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>14 944</td>
 <td colspan="2">119</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 896</td>
 </tr>
 <tr>
 <td>3</td>
@@ -50,7 +54,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>14 696</td>
 <td colspan="2">82</td>
 <td colspan="2">1 176</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 563</td>
 </tr>
 <tr>
 <td>4</td>
@@ -58,15 +63,17 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>16 230</td>
 <td colspan="2">86</td>
 <td colspan="2">1 813</td>
-<td>20 759</td>
+<td colspan="2">20 759</td>
+<td colspan="2">15 471</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">Беларан ауылдық округі әкімінің аппараты</td>
-<td>16 509</td>
+<td>16 266</td>
 <td colspan="2">134</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 429</td>
 </tr>
 <tr>
 <td>6</td>
@@ -74,7 +81,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>15 623</td>
 <td colspan="2">100</td>
 <td colspan="2">1 194</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">15 500</td>
 </tr>
 <tr>
 <td>7</td>
@@ -82,7 +90,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>16 087</td>
 <td colspan="2">174</td>
 <td colspan="2"></td>
-<td>23 581</td>
+<td colspan="2">23 581</td>
+<td colspan="2">7 168</td>
 </tr>
 <tr>
 <td>8</td>
@@ -90,7 +99,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>15 431</td>
 <td colspan="2">49</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 482</td>
 </tr>
 <tr>
 <td>9</td>
@@ -98,15 +108,17 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>15 671</td>
 <td colspan="2">72</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 668</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="2">Қаратерең ауылдық округі әкімінің аппараты</td>
-<td>15 639</td>
+<td>16 123</td>
 <td colspan="2">119</td>
 <td colspan="2">1 774</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 225</td>
 </tr>
 <tr>
 <td>11</td>
@@ -114,7 +126,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>17 691</td>
 <td colspan="2">243</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 580</td>
 </tr>
 <tr>
 <td>12</td>
@@ -122,7 +135,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>14 903</td>
 <td colspan="2">68</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">14 748</td>
 </tr>
 <tr>
 <td>13</td>
@@ -130,7 +144,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>12 677</td>
 <td colspan="2">75</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 662</td>
 </tr>
 <tr>
 <td>14</td>
@@ -138,7 +153,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>16 784</td>
 <td colspan="2">64</td>
 <td colspan="2">787</td>
-<td>48 406</td>
+<td colspan="2">48 406</td>
+<td colspan="2">7 752</td>
 </tr>
 <tr>
 <td>15</td>
@@ -146,7 +162,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>15 196</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>42 006</td>
+<td colspan="2">42 006</td>
+<td colspan="2">26 162</td>
 </tr>
 <tr>
 <td>16</td>
@@ -154,7 +171,8 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>13 779</td>
 <td colspan="2">68</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">7 543</td>
 </tr>
 <tr>
 <td>17</td>
@@ -162,178 +180,202 @@ source: https://zan.gov.kz/client/#!/doc/117404/kaz/21.06.2018
 <td>14 469</td>
 <td colspan="2">22</td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Қала, кент, ауыл әкімінің аппараты жинағы:</td>
-<td>262 741</td>
+<td>262 982</td>
 <td colspan="2">1 475</td>
 <td colspan="2">7 959</td>
-<td>134 752</td>
+<td colspan="2">134 752</td>
+<td colspan="2">162 163</td>
 </tr>
 </table>
 
+Кестенің жалғасы
+
 <table>
 <tr>
-<td>КБК-(123006000) Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>№</td>
+<td colspan="2">Атауы</td>
 <td>КБК-(123008000) Елді мекендердің көшелерін жарықтандыру</td>
-<td>КБК-(123009000) Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>КБК-(123040000) Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>КБК-(123041000) Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>Жинағы</td>
+<td colspan="3">КБК-(123009000) Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="3">КБК-(123040000) Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2">КБК-(123041000) Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td colspan="2">Жинағы</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td>8</td>
+<td colspan="3">9</td>
+<td colspan="3">10</td>
+<td colspan="2">11</td>
+<td colspan="2">13</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Аралқұм ауылдық округі әкімінің аппараты</td>
+<td>368</td>
+<td colspan="3">300</td>
+<td colspan="3">6 500</td>
+<td colspan="2"></td>
+<td colspan="2">32 109</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Атанши ауылдық округі әкімінің аппараты</td>
+<td>113</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">23 272</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Ақирек ауылдық округі әкімінің аппараты</td>
+<td>595</td>
+<td colspan="3">200</td>
+<td colspan="3">1 700</td>
+<td colspan="2">17 959</td>
+<td colspan="2">43 971</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Бөген ауылдық округі әкімінің аппараты</td>
+<td>577</td>
+<td colspan="3">300</td>
+<td colspan="3"></td>
+<td colspan="2">6 797</td>
+<td colspan="2">62 033</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Беларан ауылдық округі әкімінің аппараты</td>
+<td>175</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">24 204</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Бекбауыл ауылдық округі әкімінің аппараты</td>
+<td>535</td>
+<td colspan="3">300</td>
+<td colspan="3">3 000</td>
+<td colspan="2"></td>
+<td colspan="2">36 252</td>
 </tr>
 <tr>
 <td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-</tr>
-<tr>
-<td>7 314</td>
-<td>368</td>
-<td>300</td>
-<td>6 500</td>
-<td></td>
-<td>32 109</td>
-</tr>
-<tr>
-<td>7 651</td>
-<td>113</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>23 027</td>
-</tr>
-<tr>
-<td>7 563</td>
-<td>595</td>
-<td>200</td>
-<td>1 700</td>
-<td>17 959</td>
-<td>43 971</td>
-</tr>
-<tr>
-<td>15 471</td>
-<td>577</td>
-<td>300</td>
-<td></td>
-<td>6 311</td>
-<td>61 547</td>
-</tr>
-<tr>
-<td>7 429</td>
-<td>175</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>24 447</td>
-</tr>
-<tr>
-<td>15 500</td>
-<td>535</td>
-<td>300</td>
-<td>3 000</td>
-<td></td>
-<td>36 252</td>
-</tr>
-<tr>
-<td>7 168</td>
+<td colspan="2">Жаңақұрылыс ауылдық округі әкімінің аппараты</td>
 <td>783</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>47 993</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">47 993</td>
 </tr>
 <tr>
-<td>7 482</td>
+<td>8</td>
+<td colspan="2">Жіңішкеқұм а/о әкімінің аппараты</td>
 <td>247</td>
-<td>200</td>
-<td>12 700</td>
-<td></td>
-<td>36 109</td>
+<td colspan="3">200</td>
+<td colspan="3">12 700</td>
+<td colspan="2"></td>
+<td colspan="2">36 109</td>
 </tr>
 <tr>
-<td>7 668</td>
+<td>9</td>
+<td colspan="2">Жетес би ауылдық округі әкімінің аппараты</td>
 <td>804</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>24 415</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">24 415</td>
 </tr>
 <tr>
-<td>7 225</td>
+<td>10</td>
+<td colspan="2">Қаратерең ауылдық округі әкімінің аппараты</td>
 <td>330</td>
-<td>300</td>
-<td></td>
-<td></td>
-<td>25 387</td>
+<td colspan="3">300</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">25 871</td>
 </tr>
 <tr>
-<td>7 580</td>
+<td>11</td>
+<td colspan="2">Құланды ауылдық округі әкімінің аппараты</td>
 <td>217</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>25 931</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">25 931</td>
 </tr>
 <tr>
-<td>14 993</td>
+<td>12</td>
+<td colspan="2">Қосаман ауылдық округі әкімінің аппараты</td>
 <td>350</td>
-<td>200</td>
-<td>1 300</td>
-<td></td>
-<td>31 814</td>
+<td colspan="3">200</td>
+<td colspan="3">1 300</td>
+<td colspan="2"></td>
+<td colspan="2">31 569</td>
 </tr>
 <tr>
-<td>7 662</td>
+<td>13</td>
+<td colspan="2">Қосжар ауылдық округі әкімінің аппараты</td>
 <td>330</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>20 944</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">20 944</td>
 </tr>
 <tr>
-<td>7 752</td>
+<td>14</td>
+<td colspan="2">Мергенсай ауылдық округі әкімінің аппараты</td>
 <td>195</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td>74 188</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">74 188</td>
 </tr>
 <tr>
-<td>26 162</td>
+<td>15</td>
+<td colspan="2">Райым ауылдық округі әкімінің аппараты</td>
 <td>278</td>
-<td>300</td>
-<td>1 300</td>
-<td></td>
-<td>85 242</td>
+<td colspan="3">300</td>
+<td colspan="3">1 300</td>
+<td colspan="2"></td>
+<td colspan="2">85 242</td>
 </tr>
 <tr>
-<td>7 543</td>
+<td>16</td>
+<td colspan="2">Сазды ауылдық округі әкімінің аппараты</td>
 <td>165</td>
-<td>200</td>
-<td></td>
-<td>17 427</td>
-<td>39 182</td>
+<td colspan="3">200</td>
+<td colspan="3"></td>
+<td colspan="2">17 427</td>
+<td colspan="2">39 182</td>
 </tr>
 <tr>
-<td></td>
+<td>17</td>
+<td colspan="2">Сапақ ауылдық округі әкімінің аппараты</td>
 <td>718</td>
-<td>200</td>
-<td>2 000</td>
-<td></td>
-<td>17 409</td>
+<td colspan="3">200</td>
+<td colspan="3">2 000</td>
+<td colspan="2"></td>
+<td colspan="2">17 409</td>
 </tr>
 <tr>
-<td>162 163</td>
+<td></td>
+<td colspan="2">Қала, кент, ауыл әкімінің аппараты жинағы:</td>
 <td>6 780</td>
-<td>3 900</td>
-<td>28 500</td>
-<td>41 697</td>
-<td>649 967</td>
+<td colspan="3">3 900</td>
+<td colspan="3">28 500</td>
+<td colspan="2">42 183</td>
+<td colspan="2">650 694</td>
 </tr>
 </table>
 
