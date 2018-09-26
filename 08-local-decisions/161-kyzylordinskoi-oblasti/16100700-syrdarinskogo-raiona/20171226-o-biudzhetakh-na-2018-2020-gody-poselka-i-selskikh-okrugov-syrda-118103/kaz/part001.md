@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
+source: https://zan.gov.kz/client/#!/doc/118103/kaz/26.09.2018
 ---
 
 > *Сырдария аудандық мәслихаттың*  
@@ -1057,9 +1057,11 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 > *Сырдария аудандық мәслихаттың*  
 > *2017 жылғы 26 желтоқсандағы*  
 > *№168 шешіміне*  
-> *4 - қосымша*
+> *4- қосымша*
 
 # Шіркейлі ауылдық округінің 2018 жылға арналған бюджеті
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 26.09.2018 № 237 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -1255,14 +1257,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29018</td>
+<td>29282</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29018</td>
+<td>29282</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1270,6 +1272,13 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>29018</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>264</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -1318,35 +1327,35 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>3826</td>
+<td>3562</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3826</td>
+<td>3562</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2826</td>
+<td>3016</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>500</td>
+<td>340</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>500</td>
+<td>206</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -2050,9 +2059,11 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 > *Сырдария аудандық мәслихаттың*  
 > *2017 жылғы 26 желтоқсандағы*  
 > *№168 шешіміне*  
-> *7 - қосымша*
+> *7- қосымша*
 
 # Н.Ілиясов ауылдық округінің 2018 жылға арналған бюджеті
+
+> *Ескерту. 7-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 26.09.2018 № 237 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -2086,7 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>959</td>
+<td>955</td>
 </tr>
 <tr>
 <td></td>
@@ -2107,7 +2118,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>805</td>
+<td>801</td>
 </tr>
 <tr>
 <td></td>
@@ -2128,7 +2139,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлік кұралдарына салынатын салық</td>
-<td>686</td>
+<td>682</td>
 </tr>
 <tr>
 <td></td>
@@ -2149,7 +2160,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>30</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -2170,14 +2181,14 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>9</td>
+<td>13</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>9</td>
+<td>13</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2234,77 +2245,84 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>22172</td>
+<td>22790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>22172</td>
+<td>22790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>22172</td>
+<td>22170</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>620</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td>32740</td>
+<td>32819</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>32740</td>
+<td>32819</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>32740</td>
+<td>32819</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>2018</td>
+<td>1692</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2018</td>
+<td>1692</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>2018</td>
+<td>1692</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>8912</td>
+<td>8641</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8912</td>
+<td>8641</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2318,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>700</td>
+<td>429</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2332,7 +2350,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>15512</td>
+<td>15412</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2347,20 +2365,6 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
 <td>15412</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="2"></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">028</td>
-<td>Жергілікті деңгейде дене шынықтыру-сауықтыру және спорттық іс-шараларды өткізу</td>
-<td>100</td>
 </tr>
 </table>
 
@@ -3001,11 +3005,11 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 > *Сырдария аудандық мәслихаттың*  
 > *2017 жылғы 26 желтоқсандағы*  
 > *№168 шешіміне*  
-> *10 - қосымша*
+> *10- қосымша*
 
 # Ақжарма ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 22.06.2018 № 216 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 10-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 26.09.2018 № 237 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -3032,42 +3036,42 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>79552</td>
+<td>81395</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>3623</td>
+<td>3881</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>1308</td>
+<td>1546</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>1308</td>
+<td>1546</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td>2315</td>
+<td>2335</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
-<td>55</td>
+<td>75</td>
 </tr>
 <tr>
 <td></td>
@@ -3088,7 +3092,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>86</td>
+<td>1671</td>
 </tr>
 <tr>
 <td></td>
@@ -3103,6 +3107,20 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">5</td>
 <td colspan="2">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>86</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
+<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td>1585</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td>1585</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3152,35 +3170,49 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>79552</td>
+<td>81395</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>19801</td>
+<td>21897</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19801</td>
+<td>21897</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>19801</td>
+<td>19807</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>290</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">032</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td>1800</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td>41624</td>
+<td>41543</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3201,91 +3233,91 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>720</td>
+<td>639</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td>720</td>
+<td>639</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>1431</td>
+<td>1378</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1431</td>
+<td>1378</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>1431</td>
+<td>1378</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>3167</td>
+<td>2491</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3167</td>
+<td>2491</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2126</td>
+<td>1366</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>443</td>
+<td>249</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>598</td>
+<td>876</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>13529</td>
+<td>14086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>13429</td>
+<td>13986</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>13429</td>
+<td>13986</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3912,11 +3944,11 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 > *Сырдария аудандық мәслихаттың*  
 > *2017 жылғы 26 желтоқсандағы*  
 > *№168 шешіміне*  
-> *13 - қосымша*
+> *13- қосымша*
 
 # Шаған ауылдық округінің 2018 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 22.06.2018 № 216 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 13-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 26.09.2018 № 237 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -3943,28 +3975,28 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>135174</td>
+<td>135448</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td>3751</td>
+<td>4002</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td>1000</td>
+<td>1251</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td>1000</td>
+<td>1251</td>
 </tr>
 <tr>
 <td></td>
@@ -4013,7 +4045,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>55</td>
+<td>78</td>
 </tr>
 <tr>
 <td></td>
@@ -4031,31 +4063,17 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>21</td>
+<td>46</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>21</td>
+<td>46</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4105,28 +4123,28 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>135174</td>
+<td>135448</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>24528</td>
+<td>24612</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>24528</td>
+<td>24612</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>24236</td>
+<td>24320</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4175,42 +4193,42 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>5946</td>
+<td>5862</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5946</td>
+<td>5862</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>5946</td>
+<td>5862</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>5507</td>
+<td>5781</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5507</td>
+<td>5781</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>3734</td>
+<td>4288</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4224,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/118103/kaz/22.06.2018
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1328</td>
+<td>1048</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
