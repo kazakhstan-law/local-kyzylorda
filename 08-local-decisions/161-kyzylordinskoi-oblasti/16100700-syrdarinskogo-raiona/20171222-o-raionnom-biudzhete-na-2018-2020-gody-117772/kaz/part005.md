@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117772/kaz/24.09.2018
+source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 ---
 
 > *Сырдария аудандық мәслихаттың*  
