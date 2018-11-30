@@ -1,15 +1,15 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
+source: https://zan.gov.kz/client/#!/doc/117776/rus/30.11.2018
 ---
 
 > *Приложение 9*  
 > *к решению Кармакшинского районного маслихата*  
-> *от «22» декабря 2017 года №141*
+> *от « 22 » декабря 2017 года №141*
 
 # Список бюджетных программ на 2018 год аппаратов акимов поселков, сельских округов
 
-> *Сноска. Приложение 9 - в редакции решения Кармакшинского районного маслихата Кызылординской области от 01.10.2018 № 191 (вводится в действие с 01.01.2018 года и подлежит официальному опубликованию).*
+> *Сноска. Приложение 9 - в редакции решения Кармакшинского районного маслихата Кызылординской области от 30.11.2018 № 207 (вводится в действие с 01.01.2018 года и подлежит официальному опубликованию).*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. Затраты</td>
-<td>316540</td>
+<td>333325</td>
 </tr>
 <tr>
 <td>01</td>
@@ -45,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>97491</td>
+<td>97520</td>
 </tr>
 <tr>
 <td></td>
@@ -53,15 +53,15 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>97491</td>
+<td>97520</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td>467</td>
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>97285</td>
+<td>97213</td>
 </tr>
 <tr>
 <td></td>
@@ -85,7 +85,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
-<td>14773</td>
+<td>14683</td>
 </tr>
 <tr>
 <td></td>
@@ -101,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Куандария</td>
-<td>14572</td>
+<td>14590</td>
 </tr>
 <tr>
 <td></td>
@@ -117,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2">022</td>
 <td colspan="2"></td>
 <td>Капитальные расходы государственного органа</td>
-<td>206</td>
+<td>307</td>
 </tr>
 <tr>
 <td></td>
@@ -128,12 +128,20 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td>206</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Аппарат акима сельского округа Куандария</td>
+<td>101</td>
+</tr>
+<tr>
 <td>04</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>121277</td>
+<td>138162</td>
 </tr>
 <tr>
 <td></td>
@@ -141,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>119129</td>
+<td>136014</td>
 </tr>
 <tr>
 <td></td>
@@ -149,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2">004</td>
 <td colspan="2"></td>
 <td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>119129</td>
+<td>136014</td>
 </tr>
 <tr>
 <td></td>
@@ -165,7 +173,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>15468</td>
+<td>24558</td>
 </tr>
 <tr>
 <td></td>
@@ -173,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Ирколь</td>
-<td>19341</td>
+<td>27343</td>
 </tr>
 <tr>
 <td></td>
@@ -197,7 +205,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
-<td>20559</td>
+<td>20352</td>
 </tr>
 <tr>
 <td></td>
@@ -293,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>12595</td>
+<td>12476</td>
 </tr>
 <tr>
 <td></td>
@@ -301,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>12595</td>
+<td>12476</td>
 </tr>
 <tr>
 <td></td>
@@ -309,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2">008</td>
 <td colspan="2"></td>
 <td>Освещение улиц населенных пунктов</td>
-<td>3351</td>
+<td>3232</td>
 </tr>
 <tr>
 <td></td>
@@ -349,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима сельского округа Куандария</td>
-<td>1099</td>
+<td>980</td>
 </tr>
 <tr>
 <td></td>
@@ -477,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td></td>
 <td colspan="3"></td>
 <td>Прочие</td>
-<td>30416</td>
+<td>30406</td>
 </tr>
 <tr>
 <td></td>
@@ -485,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td></td>
 <td colspan="3"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>30416</td>
+<td>30406</td>
 </tr>
 <tr>
 <td></td>
@@ -493,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td>040</td>
 <td colspan="3"></td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>30416</td>
+<td>30406</td>
 </tr>
 <tr>
 <td></td>
@@ -509,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Жосалы</td>
-<td>4604</td>
+<td>4594</td>
 </tr>
 <tr>
 <td></td>
@@ -525,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Куандария</td>
-<td>9358</td>
+<td>9357,7</td>
 </tr>
 <tr>
 <td></td>
@@ -533,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/117776/rus/01.10.2018
 <td></td>
 <td colspan="3"></td>
 <td>Аппарат акима сельского округа Комекбаев</td>
-<td>8999</td>
+<td>8999,3</td>
 </tr>
 </table>
 
