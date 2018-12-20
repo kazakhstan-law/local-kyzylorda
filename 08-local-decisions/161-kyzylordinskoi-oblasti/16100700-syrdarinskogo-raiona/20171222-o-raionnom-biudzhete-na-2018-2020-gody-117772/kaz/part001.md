@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
+source: https://zan.gov.kz/client/#!/doc/117772/kaz/20.12.2018
 ---
 
 > *Сырдария аудандық мәслихаттың*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 
 # 2018 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 19.11.2018 № 242 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 20.12.2018 № 252 шешімімен (01.01.2018 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>7870558,5</td>
+<td>7858624,8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -212,21 +212,21 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ</td>
@@ -255,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>8002015,3</td>
+<td>7990081,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -703,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>407141,8</td>
+<td>404658,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -752,14 +752,14 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2">801</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту, әлеуметтік бағдарламалар және азаматтық хал актілерін тіркеу бөлімі</td>
-<td>313474,3</td>
+<td>310990,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Жұмыспен қамту бағдарламасы</td>
-<td>150989</td>
+<td>148506</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -843,7 +843,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй - коммуналдық шаруашылық</td>
-<td>699811,5</td>
+<td>690361,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -871,14 +871,14 @@ source: https://zan.gov.kz/client/#!/doc/117772/kaz/19.11.2018
 <td colspan="2">472</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>688580,2</td>
+<td>679129,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
-<td>386742</td>
+<td>377291,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>

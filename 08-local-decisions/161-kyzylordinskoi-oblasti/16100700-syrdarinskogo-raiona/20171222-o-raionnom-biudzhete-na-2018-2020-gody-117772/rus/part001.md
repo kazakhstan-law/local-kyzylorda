@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
+source: https://zan.gov.kz/client/#!/doc/117772/rus/20.12.2018
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 
 # Районный бюджет на 2018 год
 
-> *Сноска. Приложение 1 – в редакции решения Сырдарьинского районного маслихата Кызылординской области от 19.11.2018 № 242 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 – в редакции решения Сырдарьинского районного маслихата Кызылординской области от 20.12.2018 № 252 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td>7870558,5</td>
+<td>7858624,8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -212,21 +212,21 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td>3708155,5</td>
+<td>3696221,8</td>
 </tr>
 <tr>
 <td colspan="7">Функциональная группа</td>
@@ -255,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td>8002015,3</td>
+<td>7990081,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -703,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>407141,8</td>
+<td>404658,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -752,14 +752,14 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2">801</td>
 <td colspan="2"></td>
 <td>Отдел занятости, социальных программ и регистрации актов гражданского состояния района (города областного значения)</td>
-<td>313474,3</td>
+<td>310990,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Программа занятости</td>
-<td>150989</td>
+<td>148506</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -843,7 +843,7 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>699811,5</td>
+<td>690361,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -871,14 +871,14 @@ source: https://zan.gov.kz/client/#!/doc/117772/rus/19.11.2018
 <td colspan="2">472</td>
 <td colspan="2"></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>688580,2</td>
+<td>679129,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td>386742</td>
+<td>377291,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
