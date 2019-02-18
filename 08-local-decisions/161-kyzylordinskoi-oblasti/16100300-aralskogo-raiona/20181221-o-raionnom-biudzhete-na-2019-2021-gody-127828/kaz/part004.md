@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127828/kaz/21.12.2018
+source: https://zan.gov.kz/client/#!/doc/127828/kaz/18.02.2019
 ---
 
 > *2018 жылғы "21" желтоқсандағы №208*  
