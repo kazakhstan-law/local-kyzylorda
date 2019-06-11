@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128408/kaz/13.03.2019
+source: https://zan.gov.kz/client/#!/doc/128408/kaz/11.06.2019
 ---
 
 > *Жалағаш аудандық мәслихатының*  
