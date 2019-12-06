@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127622/kaz/21.10.2019
+source: https://zan.gov.kz/client/#!/doc/127622/kaz/06.12.2019
 ---
 
 > *Қызылорда қалалық мәслихатының*  
