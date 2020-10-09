@@ -1,5 +1,5 @@
 ---
-version_id: '138747_464440'
+version_id: '138747_486124'
 act_code: '138747'
 language: rus
 title: О бюджете сельского округа Томенарык на 2020-2022 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '161009000002'
 approval_date: 2019-12-30
-version_date: 2020-05-20
+version_date: 2020-10-09
 registry_number: '138747'
 caused_by:
-  code: '143507'
+  code: '147511'
   title: О внесении изменений в решение Жанакорганского районного маслихата №399 от 30 декабря 2019 года «О бюджете сельского округа Томенарык на 2020-2022 годы»
-  link: https://zan.gov.kz/client/#!/doc/143507/rus
-source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
+  link: https://zan.gov.kz/client/#!/doc/147511/rus
+source: https://zan.gov.kz/client/#!/doc/138747/rus/09.10.2020
 ---
 
 # О бюджете сельского округа Томенарык на 2020-2022 годы
@@ -27,17 +27,17 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 
 1. Утвердить бюджет сельского округа Томенарык на 2020-2022 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2020 год в следующем объеме:
 
-   1) доходы – 207 816 тысяч тенге, в том числе:
+   1) доходы – 214 569 тысяч тенге, в том числе:
 
-      налоговые поступления – 1 189 тысяч тенге;
+      налоговые поступления – 3 287 тысяч тенге;
 
-      неналоговые поступления – 119 тысяч тенге;
+      неналоговые поступления – 60 тысяч тенге;
 
       поступления от продаж основного капитала – 0;
 
-      поступления трансфертов – 206 508 тысяч тенге;
+      поступления трансфертов – 211 222 тысяч тенге;
 
-   2) затраты – 212 872,2 тысяч тенге;
+   2) затраты – 219 677,1 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0:
 
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 
    7) используемые остатки бюджетных средств – 5056,2 тысяч тенге.
 
-> *Сноска. Пункт 1 – в редакции решения Жанакорганского районного маслихата Кызылординской области от 20.05.2020 № 447 (вводится в действие с 01.01.2020).*
+      > *Сноска. Пункт 1 – в редакции решения Жанакорганского районного маслихата Кызылординской области от 09.10.2020 № 522 (вводится в действие с 01.01.2020).*
 
 2. Объем субвенций за 2020 год, передаваемый из районного бюджета в бюджет сельского округа 191 374 тысяч тенге.
 
@@ -77,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 
 # Бюджет сельского округа Томенарык на 2020 год
 
-> *Сноска. Приложение 1 – в редакции решения Жанакорганского районного маслихата Кызылординской области от 20.05.2020 № 447 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 – в редакции решения Жанакорганского районного маслихата Кызылординской области от 09.10.2020 № 522 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -104,35 +104,35 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1. Доходы</td>
-<td>207 816</td>
+<td>214 569</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Налоговые поступления</td>
-<td>1 189</td>
+<td>3 287</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4">Подоходный налог</td>
-<td>233</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="4">Индивидуальный подоходный налог</td>
-<td>233</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="4">Hалоги на собственность</td>
-<td>956</td>
+<td>2 977</td>
 </tr>
 <tr>
 <td></td>
@@ -146,56 +146,56 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Земельный налог</td>
-<td>426</td>
+<td>240</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Hалог на транспортные средства</td>
-<td>393</td>
+<td>2 600</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Неналоговые поступления</td>
-<td>119</td>
+<td>60</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4">Доходы от государоственной собственности</td>
-<td>119</td>
+<td>60</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>119</td>
+<td>60</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>206 508</td>
+<td>211 222</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>206 508</td>
+<td>211 222</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>206 508</td>
+<td>211 222</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -203,20 +203,20 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
+<td colspan="2"></td>
 <td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="5">Администраторы бюджетных программ</td>
+<td colspan="3"></td>
+<td colspan="6">Администраторы бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="3">Программа</td>
+<td colspan="4"></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Наименование</td>
+<td colspan="5"></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -224,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">II. Расходы</td>
-<td>212 872,2</td>
+<td>219 677,1</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -232,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>26 138</td>
+<td>28 138</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -240,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>26 138</td>
+<td>28 138</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -248,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>26 138</td>
+<td>28 138</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -264,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td>032</td>
 <td colspan="2">Капитальные расходы государственные органи</td>
-<td>300</td>
+<td>2 300</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Образование</td>
-<td>145 885</td>
+<td>145 975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td>145 885</td>
+<td>145 975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>145 885</td>
+<td>145 975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td>004</td>
 <td colspan="2">Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
-<td>79 063</td>
+<td>79 153</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>18 422,2</td>
+<td>20 461,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>18 422,2</td>
+<td>20 461,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>18 422,2</td>
+<td>20 461,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>5 801,2</td>
+<td>6 810,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -384,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>12 356</td>
+<td>13 386</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -448,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Транспорт и коммуникация</td>
-<td>2 033</td>
+<td>4 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -456,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Автомобильный траспорт</td>
-<td>2 033</td>
+<td>4 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -464,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 033</td>
+<td>4 657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -472,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/138747/rus/20.05.2020
 <td colspan="2"></td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>2 033</td>
+<td>4 657</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
