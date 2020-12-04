@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137401/kaz/28.10.2020
+source: https://zan.gov.kz/client/#!/doc/137401/kaz/04.12.2020
 ---
 
 > *Қызылорда облыстық мәслихатының*  
