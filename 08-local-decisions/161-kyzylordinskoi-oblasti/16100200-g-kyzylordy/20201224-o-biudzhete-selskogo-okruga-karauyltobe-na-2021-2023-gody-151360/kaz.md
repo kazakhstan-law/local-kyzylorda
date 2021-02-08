@@ -1,5 +1,5 @@
 ---
-version_id: '151360_502508'
+version_id: '151360_509336'
 act_code: '151360'
 language: kaz
 title: 2021-2023 жылдарға арналған Қарауылтөбе ауылдық округінің бюджеті туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '161002000002'
 approval_date: 2020-12-24
-version_date: 2020-12-24
+version_date: 2021-02-08
 registry_number: '151360'
-source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
+caused_by:
+  code: '152930'
+  title: «2021-2023 жылдарға арналған Қарауылтөбе ауылдық округінің бюджеті туралы» Қызылорда қалалық маслихатының 2020 жылғы 24 желтоқсандағы №423-73/6 шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/152930/kaz
+source: https://zan.gov.kz/client/#!/doc/151360/kaz/08.02.2021
 ---
 
 # 2021-2023 жылдарға арналған Қарауылтөбе ауылдық округінің бюджеті туралы
@@ -21,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 
 «Қазақстан Республикасының Бюджет кодексі» Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы кодексінің 75-бабының 2-тармағына, «Қазақстан Республикасындағы жергілікті мемлекеттік басқару және өзін-өзі басқару туралы» Қазақстан Республикасының 2001 жылғы 23 қаңтардағы Заңының 6-бабының 1-тармағының 1) тармақшасына сәйкес Қызылорда қалалық мәслихаты ШЕШІМ ҚАБЫЛДАДЫ:
 
-1. 2021-2023 жылдарға арналған Қарауылтөбе ауылдық округінің бюджеті 1,2,3-қосымшаларға сәйкес, оның ішінде 2021 жылға мынадай көлемде бекітілсін:
+1. 2021-2023 жылдарға арналған Қарауылтөбе ауылдық округінің бюджеті 1, 2, 3-қосымшаларға сәйкес, оның ішінде 2021 жылға мынадай көлемде бекітілсін:
 
    1) кірістер – 55 597 мың теңге, оның ішінде:
 
@@ -31,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 
       трансферттердің түсімдері – 51 132 мың теңге;
 
-   2) шығындар – 55 597 мың теңге;
+   2) шығындар – 57 192,2 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0, оның ішінде:
 
@@ -45,13 +49,17 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0;
 
-   5) бюджет тапшылығы (профициті) – 0;
+   5) бюджет тапшылығы (профициті) – -1 595,2 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитті пайдалану) – 0;
+   6) бюджет тапшылығын қаржыландыру (профицитті пайдалану) – 1 595,2 мың теңге;
 
       қарыздар түсімі – 0;
 
-      қарыздарды өтеу – 0.
+      қарыздарды өтеу – 0;
+
+      бюджет қаражатының пайдаланылатын қалдықтары – 1595,2 мың теңге.
+
+      > *Ескерту. 1-тармақ жаңа редакцияда – Қызылорда облысы Қызылорда қалалық мәслихатының 08.02.2021 № 16-3/8 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
 
 2. Қалалық бюджеттен Қарауылтөбе ауылдық округі бюджетіне берілетін субвенция көлемі 2021 жылға – 51 132 мың теңге, 2022 жылға – 50 398 мың теңге, 2023 жылға – 51 201 мың теңге сомасында бекітілсін.
 
@@ -68,145 +76,147 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 **Р. БУХАНОВА**
 
 > *Қызылорда қалалық мәслихатының*  
-> *2020 жылғы 24 желтоқсандағы № 423-73/6*  
+> *2020 жылғы 24 желтоқсандағы №423-73/6*  
 > *шешіміне 1-қосымша*
 
 # 2021 жылға арналған Қарауылтөбе ауылдық округінің бюджеті
 
+> *Ескерту. 1-қосымша жаңа редакцияда – Қызылорда облысы Қызылорда қалалық мәслихатының 08.02.2021 № 16-3/8 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="6">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
 <td>5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">1. Кірістер</td>
 <td>55 597,0</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсiмдер</td>
 <td>4 465,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
 <td>1 602,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
 <td>1 602,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
 <td>2 863,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
 <td>158,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
 <td>840,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td>1865,0</td>
+<td>1 865,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
 <td>51 132,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
 <td>51 132,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
 <td>51 132,0</td>
 </tr>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2" rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>55 597, 0</td>
+<td>57 192,2</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -214,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>24 934,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -222,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>24 934,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -230,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>24 934,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -238,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>24 934,0</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -246,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 069,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -254,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 069,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -262,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 069,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -270,39 +280,39 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 069,0</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>13 762,0</td>
+<td>15 336,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>03</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>13 762,0</td>
+<td>15 336,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>13 762,0</td>
+<td>15 336,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 364,0</td>
+<td>13 938,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -310,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>1 131,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -318,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>267,0</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,15 +336,15 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>12 297,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>12 297,0</td>
+<td>12 139,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -342,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>12 139,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -350,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>12 139,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -358,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>158,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -366,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>158,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -374,15 +384,15 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>158,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>2 535,0</td>
+<td>473,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -390,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>473,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -398,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>473,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -406,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>473,0</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -414,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 062,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -422,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 062,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -430,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 062,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -438,8 +448,40 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 <td>2 062,0</td>
 </tr>
 <tr>
+<td>15</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td>Трансферттер</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>3. Таза бюджеттік кредиттеу</td>
@@ -447,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
@@ -455,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 </tr>
 <tr>
 <td>5</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
@@ -463,15 +505,39 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
 <td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>4. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>6</td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
@@ -479,19 +545,75 @@ source: https://zan.gov.kz/client/#!/doc/151360/kaz/24.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1 595,2</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>1 595,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімдері</td>
 <td>0,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімдері</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>1 595,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>1 595,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1 595,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>01</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1 595,2</td>
 </tr>
 </table>
 
