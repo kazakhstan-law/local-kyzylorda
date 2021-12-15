@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
+source: https://zan.gov.kz/client/#!/doc/152027/kaz/15.12.2021
 ---
 
 # Бәйтерек ауылдық округінің 2021-2023 жылдарға арналған бюджеті туралы
@@ -10,13 +10,13 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 
 1. Бәйтерек ауылдық округінің 2021-2023 жылдарға арналған бюджеті 1, 2 және 3-қосымшаларға сәйкес, оның ішінде 2021 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 101 469 мың теңге, оның ішінде:
+   1) кірістер – 101 236 мың теңге, оның ішінде:
 
       салықтық түсімдер – 7 116 мың теңге;
 
-      трансферттер түсімі – 94 353 мың теңге;
+      трансферттер түсімі – 94 120 мың теңге;
 
-   2) шығындар – 104 750 мың теңге;
+   2) шығындар – 104 517 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0;
 
@@ -30,7 +30,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0;
 
-   5) бюджет тапшылығы (профициті) - - 3 281 мың теңге;
+   5) бюджет тапшылығы (профициті) - -3 281 мың теңге;
 
    6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 3 281 мың теңге;
 
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 
       бюджет қаражатының пайдаланылатын қалдықтары – 3 281 мың теңге.
 
-      > *Ескерту. 1-тармақ жаңа редакцияда - Қызылорда облысы Шиелі аудандық мәслихатының 12.11.2021 № 14/9 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
+      > *Ескерту. 1-тармақ жаңа редакцияда - Қызылорда облысы Шиелі аудандық мәслихатының 15.12.2021 № 16/2 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
 
 2. Аудандық бюджеттен Бәйтерек ауылдық округінің бюджетіне берілетін субвенциялар көлемдері 2021 жылға 37 130 мың теңге сомасында белгіленсін.
 
@@ -60,127 +60,127 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 
 # Бәйтерек ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Шиелі аудандық мәслихатының 12.11.2021 № 14/9 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда облысы Шиелі аудандық мәслихатының 15.12.2021 № 16/2 шешімімен (01.01.2021 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="6">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. Кірістер</td>
-<td>101 469</td>
+<td>101 236</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
 <td>7 116</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
 <td>7 116</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
 <td>156</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
 <td>160</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлік кұралдарына салынатын салық</td>
 <td>6 800</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>94 353</td>
+<td>94 120</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>94 353</td>
+<td>94 120</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>94 353</td>
+<td>94 120</td>
 </tr>
 <tr>
-<td colspan="6">Функционалдық топтар</td>
+<td colspan="5">Функционалдық топтар</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">Функционалдық кіші топтар</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшілері</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарламалар (кіші бағдарламалар)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>104 750</td>
+<td>104 517</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -188,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 976,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -196,7 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 976,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -204,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 976,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -212,39 +212,39 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 976,9</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>3 906</td>
+<td>3 673</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>3 906</td>
+<td>3 673</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 906</td>
+<td>3 673</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>3 906</td>
+<td>3 673</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>24 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>24 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>24 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>7 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>17 000</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -292,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>17 106</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -300,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>17 106</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>17 106</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>17 106</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 708</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -332,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 708</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>29 708</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -348,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>3 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>26 708</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -364,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -380,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -388,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -404,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -412,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>- 3 281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>3 281</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -428,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>3 281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -436,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>3 281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -444,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/152027/kaz/12.11.2021
 <td>3 281</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
