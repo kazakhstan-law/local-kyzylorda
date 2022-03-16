@@ -1,13 +1,591 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
+source: https://zan.gov.kz/client/#!/doc/163294/kaz/16.03.2022
 ---
 
 > *Сырдария аудандық мәслихатының*  
 > *2021 жылғы 29 желтоқсандағы*  
-> *№114 шешіміне 37-қосымша*
+> *№114 шешіміне 35-қосымша*
+
+# Сәкен Сейфуллин ауылдық округінің 2023 жылға арналған бюджеті
+
+<table>
+<tr>
+<td colspan="6">Санаты</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кіші сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>1. КІРІСТЕР</td>
+<td>52795</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>2858</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td></td>
+<td>Меншікке салынатын салықтар</td>
+<td>2858</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td>Мүлікке салынатын салықтар</td>
+<td>171</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>4</td>
+<td>Көлік құралдарына салынатын салық</td>
+<td>2687</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td></td>
+<td>Трансферттер түсімдері</td>
+<td>49937</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td></td>
+<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td>49937</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>3</td>
+<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td>49937</td>
+</tr>
+<tr>
+<td colspan="6">Функционалдық топ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">Бағдарлама</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>2. ШЫҒЫНДАР</td>
+<td>52795</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>25429</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>25429</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">001</td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>25429</td>
+</tr>
+<tr>
+<td>06</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>5423</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>5423</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">003</td>
+<td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
+<td>5423</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Тұрғын үй–коммуналдық шаруашылық</td>
+<td>1559</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1559</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>1559</td>
+</tr>
+<tr>
+<td>08</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>20384</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>20384</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">006</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
+<td>20384</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>3. Таза бюджеттік кредиттеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>4. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>5. Бюджет тапшылығы (профициті)</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қарыздар түсімі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қарыздарды өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Сырдария аудандық мәслихатының*  
+> *2021 жылғы 29 желтоқсандағы*  
+> *№114 шешіміне 36-қосымша*
+
+# Сәкен Сейфуллин ауылдық округінің 2024 жылға арналған бюджеті
+
+<table>
+<tr>
+<td colspan="6">Санаты</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кіші сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>1. КІРІСТЕР</td>
+<td>54258</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td></td>
+<td>Салықтық түсімдер</td>
+<td>3057</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td></td>
+<td>Меншікке салынатын салықтар</td>
+<td>3057</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td>Мүлікке салынатын салықтар</td>
+<td>183</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>4</td>
+<td>Көлік құралдарына салынатын салық</td>
+<td>2874</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td></td>
+<td>Трансферттер түсімдері</td>
+<td>51201</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td></td>
+<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td>51201</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>3</td>
+<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td>51201</td>
+</tr>
+<tr>
+<td colspan="6">Функционалдық топ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">Бағдарлама</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>2. ШЫҒЫНДАР</td>
+<td>54258</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>25938</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>25938</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">001</td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>25938</td>
+</tr>
+<tr>
+<td>06</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>5531</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>5531</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">003</td>
+<td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
+<td>5531</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Тұрғын үй–коммуналдық шаруашылық</td>
+<td>1590</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1590</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>1590</td>
+</tr>
+<tr>
+<td>08</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>21199</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>21199</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2">006</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
+<td>21199</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>3. Таза бюджеттік кредиттеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>4. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>5. Бюджет тапшылығы (профициті)</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қарыздар түсімі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Қарыздарды өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Сырдария аудандық мәслихатының*  
+> *2021 жылғы 29 желтоқсандағы*  
+> *№ 114 шешіміне 37-қосымша*
 
 # Шаған ауылдық округінің 2022 жылға арналған бюджеті
+
+> *Ескерту. 37-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 16.03.2022 № 131 шешімімен (01.01.2022 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -112,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>112284</td>
+<td>115084</td>
 </tr>
 <tr>
 <td>01</td>
@@ -130,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>51296</td>
@@ -151,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
 <td>17069</td>
@@ -172,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>5283</td>
@@ -207,10 +785,31 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
 <td>33736</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Трансферттер</td>
+<td>2800</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>2800</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">048</td>
+<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>2800</td>
 </tr>
 <tr>
 <td></td>
@@ -259,14 +858,14 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-2800</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2800</td>
 </tr>
 <tr>
 <td></td>
@@ -287,21 +886,21 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2800</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>2800</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>2800</td>
 </tr>
 </table>
 
@@ -911,9 +1510,11 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 
 > *Сырдария аудандық мәслихатының*  
 > *2021 жылғы 29 желтоқсандағы*  
-> *№114 шешіміне 40-қосымша*
+> *№ 114 шешіміне 40-қосымша*
 
 # Шіркейлі ауылдық округінің 2022 жылға арналған бюджеті
+
+> *Ескерту. 40-қосымша жаңа редакцияда - Қызылорда облысы Сырдария аудандық мәслихатының 16.03.2022 № 131 шешімімен (01.01.2022 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1018,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>101238</td>
+<td>101238,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1036,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>60865</td>
@@ -1057,7 +1658,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
 <td>3779</td>
@@ -1078,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>4542</td>
@@ -1113,10 +1714,31 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 </tr>
 <tr>
 <td></td>
-<td colspan="2">124</td>
+<td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
 <td>30552</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Трансферттер</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">044</td>
+<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1165,14 +1787,14 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-0,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1193,21 +1815,21 @@ source: https://zan.gov.kz/client/#!/doc/163294/kaz/29.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>0,1</td>
 </tr>
 </table>
 
