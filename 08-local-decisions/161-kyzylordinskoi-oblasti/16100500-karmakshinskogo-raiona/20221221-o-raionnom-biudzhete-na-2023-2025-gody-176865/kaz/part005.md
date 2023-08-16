@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176865/kaz/28.04.2023
+source: https://zan.gov.kz/client/#!/doc/176865/kaz/16.08.2023
 ---
 
 > *Қызылорда облысы Қармақшы*  
