@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
+source: https://zan.gov.kz/client/#!/doc/177943/kaz/14.11.2023
 ---
 
 # 2023-2025 жылдарға арналған Ақсуат ауылдық округінің бюджеті туралы
@@ -10,39 +10,39 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 
 1. 2023-2025 жылдарға арналған Ақсуат ауылдық округінің бюджеті 1,2,3- қосымшаға сәйкес, оның ішінде 2023 жылға мынадай көлемде бекітілсін:
 
-   1) кірістер – 1 024 937,8 мың теңге, оның ішінде:
+   1) кірістер –1 096 429,3 мың теңге, оның ішінде:
 
       салықтық түсімдер – 29 771,0 мың теңге;
 
       салықтық емес түсімдер – 981,8 мың теңге;
 
-      трансферттердің түсімдері – 994 185,0 мың теңге;
+      трансферттердің түсімдері – 1 065 676,5 мың теңге;
 
-   2) шығындар – 1 031 922,2 мың теңге;
+   2) шығындар – 1 103 413,7 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0, оның ішінде:
 
-      бюджеттік кредиттер – 0;
+      бюджеттік кредиттер - 0;
 
-      бюджеттік кредиттерді өтеу – 0;
+      бюджеттік кредиттерді өтеу -0;
 
-   4) қаржы активтерімен операциялар бойынша сальдо – 0, оның ішінде;
+   4) қаржы активтерімен операциялар бойынша сальдо-0, оның ішінде:
 
-      қаржы активтерін сатып алу – 0;
+      қаржы активтерін сатып алу - 0;
 
-      мемлекеттік қаржы активтерін сатудан түсетін түсімдер – 0;
+      мемлекеттік қаржы активтерін сатудан түсетін түсімдер - 0;
 
-   5) бюджет тапшылығы (профициті) – -6 984,4 мың теңге;
+   5) бюджет тапшылығы (профициті) – -6984,4 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру(профицитті пайдалану) – 6 984,4 мың теңге ;
+   6) бюджет тапшылығын қаржыландыру(профицитті пайдалану) – 6984,4 мың теңге;
 
-      қарыздар түсімдері – 0;
+      қарыздар түсімдері - 0;
 
-      қарыздарды өтеу – 0;
+      қарыздарды өтеу- 0;
 
       бюджет қаражатының пайдаланылатын қалдықтары – 6 984,4 мың теңге.
 
-      > *Ескерту. 1-тармақ жаңа редакцияда - Қызылорда қалалық мәслихатының 18.08.2023 № 52-7/4 шешімімен (01.01.2023 бастап қолданысқа енгізіледі).*
+      > *Ескерту. 1-тармақ жаңа редакцияда - Қызылорда қалалық мәслихатының 14.11.2023 № 75-10/4 шешімімен (01.01.2023 бастап қолданысқа енгізіледі).*
 
 2. Қалалық бюджеттен Ақсуат ауылдық округі бюджетіне берілетін субвенция көлемі 2023 жылға – 103 270,0 мың теңге, 2024 жылға – 112 266,0 мың теңге, 2025 жылға - 121 244,0 мың теңге сомасында бекітілсін.
 
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 
 # 2023 жылға арналған Ақсуат ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда қалалық мәслихатының 18.08.2023 № 52-7/4 шешімімен (01.01.2023 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қызылорда қалалық мәслихатының 14.11.2023 № 75-10/4 шешімімен (01.01.2023 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td>1 024 937,8</td>
+<td>1 096 429,3</td>
 </tr>
 <tr>
 <td>1</td>
@@ -127,6 +127,14 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>02</td>
+<td colspan="2">Төлем көзінен салық салынбайтын табыстардан ұсталатын жеке табыс салығы</td>
+<td>3500,0</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td></td>
@@ -144,6 +152,14 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <tr>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>02</td>
+<td colspan="2">Жеке тұлғалардың мүлкiне салынатын салық</td>
+<td>2010,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
 <td></td>
 <td colspan="2">Жер салығы</td>
@@ -152,9 +168,25 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <tr>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>02</td>
+<td colspan="2">Елдi мекендер жерлерiне алынатын жер салығы</td>
+<td>850,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2">4</td>
 <td></td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
+<td>23 411,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>02</td>
+<td colspan="2">Жеке тұлғалардан көлiк құралдарына салынатын салық</td>
 <td>23 411,0</td>
 </tr>
 <tr>
@@ -195,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>994 185,0</td>
+<td>1 065 676,5</td>
 </tr>
 <tr>
 <td></td>
@@ -203,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>994 185,0</td>
+<td>1 065 676,5</td>
 </tr>
 <tr>
 <td></td>
@@ -211,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2">3</td>
 <td></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>994 185,0</td>
+<td>1 065 676,5</td>
 </tr>
 <tr>
 <td></td>
@@ -219,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2">Ағымдағы нысаналы трансферттер</td>
-<td>88 903,0</td>
+<td>88 903</td>
 </tr>
 <tr>
 <td></td>
@@ -227,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2"></td>
 <td>02</td>
 <td colspan="2">Нысаналы даму трансферттері</td>
-<td>802 012,0</td>
+<td>873 503,5</td>
 </tr>
 <tr>
 <td></td>
@@ -283,10 +315,10 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td colspan="2">1 031 922,2</td>
+<td colspan="2">1 103 413,7</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -296,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -322,7 +354,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2">52 421,7</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td colspan="2">5</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -332,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td colspan="2">09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -358,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2">63,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td colspan="2">6</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -368,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -394,22 +426,22 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2">5 259,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td colspan="2">7</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">47 056,5</td>
+<td colspan="2">47 055,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">3</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
 <td>'Елді-мекендерді көркейту</td>
-<td colspan="2">47 056,5</td>
+<td colspan="2">47 055,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -418,7 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">47 056,5</td>
+<td colspan="2">47 055,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -427,7 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td>008</td>
 <td></td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
-<td colspan="2">26 528,0</td>
+<td colspan="2">26 527,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -448,7 +480,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td colspan="2">19 829,5</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td colspan="2">8</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -458,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -485,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -517,16 +549,16 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td colspan="2">128 215,0</td>
+<td colspan="2">124 215,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Автомобиль көлігі</td>
-<td colspan="2">128 215,0</td>
+<td colspan="2">124 215,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -535,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">128 215,0</td>
+<td colspan="2">124 215,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -575,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td colspan="2">09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -616,7 +648,52 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td>058</td>
 <td></td>
 <td>«Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамыту</td>
-<td colspan="2">678 012,0</td>
+<td colspan="2">749 504,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.Таза бюджеттік кредиттеу</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттер</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="2">0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -625,6 +702,15 @@ source: https://zan.gov.kz/client/#!/doc/177943/kaz/18.08.2023
 <td></td>
 <td></td>
 <td>4. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="2">0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаржы активтерін сатып алу</td>
 <td colspan="2">0,0</td>
 </tr>
 <tr>
