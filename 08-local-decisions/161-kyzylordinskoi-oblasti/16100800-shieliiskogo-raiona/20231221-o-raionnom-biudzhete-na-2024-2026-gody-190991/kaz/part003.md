@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190991/kaz/21.12.2023
+source: https://zan.gov.kz/client/#!/doc/190991/kaz/22.02.2024
 ---
 
 > *Шиелі аудандық мәслихатының*  
