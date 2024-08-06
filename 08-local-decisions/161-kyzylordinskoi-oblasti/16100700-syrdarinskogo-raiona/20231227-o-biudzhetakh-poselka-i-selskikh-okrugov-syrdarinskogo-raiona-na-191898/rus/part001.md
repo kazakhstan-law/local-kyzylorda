@@ -1,15 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
+source: https://zan.gov.kz/client/#!/doc/191898/rus/06.08.2024
 ---
 
-> *Приложение 1 к решению*  
-> *Сырдарьинского районного маслихата*  
+> *Приложение 1*  
+> *к решению Сырдарьинского*  
+> *районного маслихата*  
 > *от 27 декабря 2023 года № 77*
 
 # Бюджет поселка Теренозек на 2024 год
 
-> *Сноска. Приложение 1 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 15.05.2024 № 103 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 06.08.2024 № 132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -36,35 +37,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">1483645,2</td>
+<td colspan="2">1635190,5</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">68915</td>
+<td colspan="2">74849</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">39364</td>
+<td colspan="2">41364</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">39364</td>
+<td colspan="2">41364</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">29344</td>
+<td colspan="2">33051</td>
 </tr>
 <tr>
 <td></td>
@@ -85,7 +86,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">26353</td>
+<td colspan="2">30060</td>
 </tr>
 <tr>
 <td></td>
@@ -99,28 +100,28 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">207</td>
+<td colspan="2">434</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">54</td>
+<td colspan="2">70</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">153</td>
+<td colspan="2">364</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">4579,3</td>
+<td colspan="2">4583,3</td>
 </tr>
 <tr>
 <td></td>
@@ -155,56 +156,56 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td>06</td>
 <td></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">30,4</td>
+<td colspan="2">34,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td colspan="2">30,4</td>
+<td colspan="2">34,4</td>
 </tr>
 <tr>
 <td>3</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td colspan="2">25,5</td>
+<td colspan="2">50,5</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td colspan="2">25,5</td>
+<td colspan="2">50,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Продажа земли</td>
-<td colspan="2">25,5</td>
+<td colspan="2">50,5</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">1410125,4</td>
+<td colspan="2">1555707,7</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">1410125,4</td>
+<td colspan="2">1555707,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">1410125,4</td>
+<td colspan="2">1555707,7</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -233,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">1504110,6</td>
+<td colspan="2">1655655,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -275,42 +276,42 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">100609</td>
+<td colspan="2">93609</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">100609</td>
+<td colspan="2">93609</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">100609</td>
+<td colspan="2">93609</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">628784,8</td>
+<td colspan="2">653522,8</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">628784,8</td>
+<td colspan="2">653522,8</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">54950</td>
+<td colspan="2">71614</td>
 </tr>
 <tr>
 <td></td>
@@ -324,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">541655,8</td>
+<td colspan="2">549729,8</td>
 </tr>
 <tr>
 <td>08</td>
@@ -352,49 +353,49 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td colspan="2">268954</td>
+<td colspan="2">272179</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">268954</td>
+<td colspan="2">272179</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">21362</td>
+<td colspan="2">30362</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">247592</td>
+<td colspan="2">241817</td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td colspan="2">159394,4</td>
+<td colspan="2">289976,7</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">159394,4</td>
+<td colspan="2">289976,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Государственной программы развития регионов до 2025 года</td>
-<td colspan="2">99090,4</td>
+<td colspan="2">229672,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1261,13 +1262,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 </tr>
 </table>
 
-> *Приложение 4 к решению*  
-> *Сырдарьинского районного маслихата*  
+> *Приложение 4*  
+> *к решению Сырдарьинского*  
+> *районного маслихата*  
 > *от 27 декабря 2023 года № 77*
 
 # Бюджет сельского округа Айдарлы на 2024 год
 
-> *Сноска. Приложение 4 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 15.05.2024 № 103 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 4 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 06.08.2024 № 132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1294,63 +1296,63 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">110245</td>
+<td colspan="2">113330</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">7302</td>
+<td colspan="2">7887</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">3300</td>
+<td colspan="2">3500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">3300</td>
+<td colspan="2">3500</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">4002</td>
+<td colspan="2">4387</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">90</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">14</td>
+<td colspan="2">17</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">3800</td>
+<td colspan="2">4000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">98</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1378,21 +1380,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">102570</td>
+<td colspan="2">105070</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">102570</td>
+<td colspan="2">105070</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">102570</td>
+<td colspan="2">105070</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -1421,7 +1423,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">110535,9</td>
+<td colspan="2">113620,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1477,14 +1479,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">10483,2</td>
+<td colspan="2">11068,2</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">10483,2</td>
+<td colspan="2">11068,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1505,28 +1507,28 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">4713</td>
+<td colspan="2">5298</td>
 </tr>
 <tr>
 <td>08</td>
 <td></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">46968</td>
+<td colspan="2">49468</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">46968</td>
+<td colspan="2">49468</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="2">46968</td>
+<td colspan="2">49468</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2302,13 +2304,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 </tr>
 </table>
 
-> *Приложение 7 к решению*  
-> *Сырдарьинского районного маслихата*  
+> *Приложение 7*  
+> *к решению Сырдарьинского*  
+> *районного маслихата*  
 > *от 27 декабря 2023 года № 77*
 
 # Бюджет сельского округа Акжарма на 2024 год
 
-> *Сноска. Приложение 7 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 15.05.2024 № 103 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 7 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 06.08.2024 № 132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -2335,63 +2338,63 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">127205</td>
+<td colspan="2">178030,2</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">11997</td>
+<td colspan="2">20011</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">4080</td>
+<td colspan="2">9300</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">4080</td>
+<td colspan="2">9300</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">7906</td>
+<td colspan="2">10700</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">200</td>
+<td colspan="2">1500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">151</td>
+<td colspan="2">400</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">7080</td>
+<td colspan="2">7500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">475</td>
+<td colspan="2">1300</td>
 </tr>
 <tr>
 <td></td>
@@ -2412,42 +2415,42 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">330</td>
+<td colspan="2">230</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">330</td>
+<td colspan="2">230</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">330</td>
+<td colspan="2">230</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">114878</td>
+<td colspan="2">157789,2</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">114878</td>
+<td colspan="2">157789,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">114878</td>
+<td colspan="2">157789,2</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -2476,7 +2479,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">127603,4</td>
+<td colspan="2">178428,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2511,35 +2514,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">5392</td>
+<td colspan="2">3492</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">5392</td>
+<td colspan="2">3492</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">5392</td>
+<td colspan="2">3492</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">22663,5</td>
+<td colspan="2">32690,5</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">22663,5</td>
+<td colspan="2">32690,5</td>
 </tr>
 <tr>
 <td></td>
@@ -2553,14 +2556,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">1470</td>
+<td colspan="2">2958</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">11959,1</td>
+<td colspan="2">20498,1</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2588,21 +2591,42 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td colspan="2">2085</td>
+<td colspan="2">1862</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2085</td>
+<td colspan="2">1862</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">2085</td>
+<td colspan="2">1862</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td colspan="2"></td>
+<td>Прочие</td>
+<td colspan="2">42921,2</td>
+</tr>
+<tr>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">42921,2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">057</td>
+<td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
+<td colspan="2">42921,2</td>
 </tr>
 <tr>
 <td>15</td>
@@ -3420,13 +3444,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 </tr>
 </table>
 
-> *Приложение 10 к решению*  
-> *Сырдарьинского районного маслихата*  
+> *Приложение 10*  
+> *к решению Сырдарьинского*  
+> *районного маслихата*  
 > *от 27 декабря 2023 года № 77*
 
 # Бюджет сельского округа Амангельды на 2024 год
 
-> *Сноска. Приложение 10 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 15.05.2024 № 103 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 10 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 06.08.2024 № 132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -3453,35 +3478,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">147510,5</td>
+<td colspan="2">148015,9</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">8131,5</td>
+<td colspan="2">8931,5</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">2000</td>
+<td colspan="2">2300</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">2000</td>
+<td colspan="2">2300</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">6126</td>
+<td colspan="2">6626</td>
 </tr>
 <tr>
 <td></td>
@@ -3502,7 +3527,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">5500</td>
+<td colspan="2">6000</td>
 </tr>
 <tr>
 <td></td>
@@ -3551,21 +3576,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">138959</td>
+<td colspan="2">138664,4</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">138959</td>
+<td colspan="2">138664,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">138959</td>
+<td colspan="2">138664,4</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -3594,21 +3619,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">147675,9</td>
+<td colspan="2">148181,3</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">74403,4</td>
+<td colspan="2">74653,4</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">74403,4</td>
+<td colspan="2">74653,4</td>
 </tr>
 <tr>
 <td></td>
@@ -3622,7 +3647,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">4243,2</td>
+<td colspan="2">4493,2</td>
 </tr>
 <tr>
 <td>06</td>
@@ -3650,21 +3675,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">15589,3</td>
+<td colspan="2">16139,3</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">15589,3</td>
+<td colspan="2">16139,3</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">10281,1</td>
+<td colspan="2">10831,1</td>
 </tr>
 <tr>
 <td></td>
@@ -3685,21 +3710,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">52345</td>
+<td colspan="2">52050,4</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">52345</td>
+<td colspan="2">52050,4</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="2">52345</td>
+<td colspan="2">52050,4</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4503,13 +4528,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 </tr>
 </table>
 
-> *Приложение 13 к решению*  
-> *Сырдарьинского районного маслихата*  
+> *Приложение 13*  
+> *к решению Сырдарьинского*  
+> *районного маслихата*  
 > *от 27 декабря 2023 года № 77*
 
 # Бюджет сельского округа Аскара Токмаганбетова на 2024 год
 
-> *Сноска. Приложение 13 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 15.05.2024 № 103 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 13 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 06.08.2024 № 132 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -4536,14 +4562,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">100355</td>
+<td colspan="2">112510</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">5162</td>
+<td colspan="2">5510,5</td>
 </tr>
 <tr>
 <td></td>
@@ -4564,7 +4590,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">3654</td>
+<td colspan="2">4002,5</td>
 </tr>
 <tr>
 <td></td>
@@ -4578,7 +4604,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">20</td>
+<td colspan="2">24,7</td>
 </tr>
 <tr>
 <td></td>
@@ -4592,7 +4618,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">280</td>
+<td colspan="2">623,8</td>
 </tr>
 <tr>
 <td></td>
@@ -4613,7 +4639,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">582</td>
+<td colspan="2">583,5</td>
 </tr>
 <tr>
 <td></td>
@@ -4644,25 +4670,39 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td colspan="2">1</td>
 </tr>
 <tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td colspan="2">Прочие неналоговые поступления</td>
+<td colspan="2">1,5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Прочие неналоговые поступления</td>
+<td colspan="2">1,5</td>
+</tr>
+<tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">94611</td>
+<td colspan="2">106416</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">94611</td>
+<td colspan="2">106416</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">94611</td>
+<td colspan="2">106416</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -4691,28 +4731,28 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">100650,7</td>
+<td colspan="2">112805,7</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">53945,6</td>
+<td colspan="2">55142,6</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">53945,6</td>
+<td colspan="2">55142,6</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">52847,4</td>
+<td colspan="2">54044,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4747,35 +4787,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/15.05.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">5691,6</td>
+<td colspan="2">16649,6</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">5691,6</td>
+<td colspan="2">16649,6</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">3141,6</td>
+<td colspan="2">2664,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">1020</td>
+<td colspan="2">650</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1530</td>
+<td colspan="2">13335</td>
 </tr>
 <tr>
 <td>08</td>
