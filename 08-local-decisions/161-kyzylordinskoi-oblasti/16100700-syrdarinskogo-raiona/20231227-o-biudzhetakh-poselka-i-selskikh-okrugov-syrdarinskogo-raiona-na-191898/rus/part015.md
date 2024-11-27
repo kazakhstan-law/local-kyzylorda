@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
+source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 ---
 
 > *Приложение 15 к решению*  
@@ -367,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 
 # Бюджет сельского округа Бесарык на 2024 год
 
-> *Сноска. Приложение 16 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 21.10.2024 № 140 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 16 в редакции решения Сырдарьинского районного маслихата Кызылординской области от 27.11.2024 № 145 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -394,63 +394,63 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">563761,7</td>
+<td colspan="2">564375</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">15980,4</td>
+<td colspan="2">16551</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">6564,9</td>
+<td colspan="2">6893</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">6564,9</td>
+<td colspan="2">6893</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">9215,5</td>
+<td colspan="2">9458</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">293,5</td>
+<td colspan="2">322,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">341,2</td>
+<td colspan="2">508,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">8279,3</td>
+<td colspan="2">8293,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">301,5</td>
+<td colspan="2">333,1</td>
 </tr>
 <tr>
 <td></td>
@@ -471,21 +471,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">511,9</td>
+<td colspan="2">554,6</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">384,3</td>
+<td colspan="2">427</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">384,3</td>
+<td colspan="2">427</td>
 </tr>
 <tr>
 <td></td>
@@ -570,28 +570,28 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">564175,9</td>
+<td colspan="2">564789,2</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">61158,7</td>
+<td colspan="2">60437,7</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">61158,7</td>
+<td colspan="2">60437,7</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">47443,5</td>
+<td colspan="2">46722,5</td>
 </tr>
 <tr>
 <td></td>
@@ -689,14 +689,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td colspan="2">388493,4</td>
+<td colspan="2">393615,7</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">388493,4</td>
+<td colspan="2">393615,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">013</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td colspan="2">5122,3</td>
 </tr>
 <tr>
 <td></td>
@@ -704,27 +711,6 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td colspan="2">388493,4</td>
-</tr>
-<tr>
-<td>13</td>
-<td></td>
-<td colspan="2"></td>
-<td>Прочие</td>
-<td colspan="2">3788</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td colspan="2"></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">3788</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">040</td>
-<td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Государственной программы развития регионов до 2025 года</td>
-<td colspan="2">3788</td>
 </tr>
 <tr>
 <td></td>
@@ -1457,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 
 # Бюджет сельского округа Жетиколь на 2024 год
 
-> *Сноска. Приложение 19 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 21.10.2024 № 140 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 19 в редакции решения Сырдарьинского районного маслихата Кызылординской области от 27.11.2024 № 145 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1484,35 +1470,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">89853,5</td>
+<td colspan="2">89874,5</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">2371</td>
+<td colspan="2">2392</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">273</td>
+<td colspan="2">289</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">273</td>
+<td colspan="2">289</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">2098</td>
+<td colspan="2">2103</td>
 </tr>
 <tr>
 <td></td>
@@ -1526,7 +1512,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">10</td>
+<td colspan="2">13</td>
 </tr>
 <tr>
 <td></td>
@@ -1540,7 +1526,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">76</td>
+<td colspan="2">78</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1611,35 +1597,35 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">89881,7</td>
+<td colspan="2">89902,7</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">46624,2</td>
+<td colspan="2">46693,2</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">46624,2</td>
+<td colspan="2">46693,2</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">41758,2</td>
+<td colspan="2">41718,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">2526</td>
+<td colspan="2">2635</td>
 </tr>
 <tr>
 <td></td>
@@ -1653,21 +1639,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="2">2635,9</td>
+<td colspan="2">2587,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2635,9</td>
+<td colspan="2">2587,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="2">2635,9</td>
+<td colspan="2">2587,9</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3560,7 +3546,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 
 # Бюджет сельского округа Калжан ахун на 2024 год
 
-> *Сноска. Приложение 25 - в редакции решения Сырдарьинского районного маслихата Кызылординской области от 21.10.2024 № 140 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 25 в редакции решения Сырдарьинского районного маслихата Кызылординской области от 27.11.2024 № 145 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -3594,49 +3580,49 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">2491,5</td>
+<td colspan="2">2569</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">610</td>
+<td colspan="2">647,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">610</td>
+<td colspan="2">647,7</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">1877,2</td>
+<td colspan="2">1917</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td colspan="2">147</td>
+<td colspan="2">149,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">14,8</td>
+<td colspan="2">16,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td colspan="2">1709,6</td>
+<td colspan="2">1745,3</td>
 </tr>
 <tr>
 <td></td>
@@ -3664,21 +3650,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td colspan="2">780</td>
+<td colspan="2">702,5</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td colspan="2">780</td>
+<td colspan="2">702,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">780</td>
+<td colspan="2">702,5</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3735,21 +3721,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">55547,6</td>
+<td colspan="2">55727,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">55547,6</td>
+<td colspan="2">55727,9</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">48024</td>
+<td colspan="2">48204,3</td>
 </tr>
 <tr>
 <td></td>
@@ -3791,14 +3777,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">4408,8</td>
+<td colspan="2">4228,5</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">4408,8</td>
+<td colspan="2">4228,5</td>
 </tr>
 <tr>
 <td></td>
@@ -3819,7 +3805,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/21.10.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1020</td>
+<td colspan="2">839,7</td>
 </tr>
 <tr>
 <td>08</td>
