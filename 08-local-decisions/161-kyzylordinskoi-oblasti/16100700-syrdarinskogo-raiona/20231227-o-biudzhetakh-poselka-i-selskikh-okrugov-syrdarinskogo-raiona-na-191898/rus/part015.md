@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
+source: https://zan.gov.kz/client/#!/doc/191898/rus/17.12.2024
 ---
 
 > *Приложение 15 к решению*  
@@ -1443,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 
 # Бюджет сельского округа Жетиколь на 2024 год
 
-> *Сноска. Приложение 19 в редакции решения Сырдарьинского районного маслихата Кызылординской области от 27.11.2024 № 145 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 19 в редакции решения Сырдарьинского районного маслихата Кызылординской области от 17.12.2024 № 156 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1470,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">89874,5</td>
+<td colspan="2">87833,8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1554,21 +1554,21 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td colspan="2">87405,5</td>
+<td colspan="2">85364,8</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">87405,5</td>
+<td colspan="2">85364,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">87405,5</td>
+<td colspan="2">85364,8</td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -1597,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 <td></td>
 <td colspan="2"></td>
 <td>2. ЗАТРАТЫ</td>
-<td colspan="2">89902,7</td>
+<td colspan="2">87862</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1660,14 +1660,14 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">12030</td>
+<td colspan="2">9989,3</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">12030</td>
+<td colspan="2">9989,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1688,7 +1688,7 @@ source: https://zan.gov.kz/client/#!/doc/191898/rus/27.11.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">5693,3</td>
+<td colspan="2">3652,6</td>
 </tr>
 <tr>
 <td>08</td>
