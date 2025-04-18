@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
+source: https://zan.gov.kz/client/#!/doc/204738/rus/18.04.2025
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 
 # Районный бюджет на 2025 год
 
-> *Сноска. Приложение 1 - в редакции решения Шиелийского районного маслихата Кызылординской области от 28.02.2025 № 26/2 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 1 - в редакции решения Шиелийского районного маслихата Кызылординской области от 18.04.2025 № 28/2 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственныеуслугиобщегохарактера</td>
-<td>2262371,6</td>
+<td>2308342,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>1902922,8</td>
+<td>1948893,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -376,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1697373,8</td>
+<td>1743344,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -400,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>1635958,8</td>
+<td>1681929,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -520,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>58333</td>
+<td>56921</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -528,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области общественного порядка и безопасности</td>
-<td>58333</td>
+<td>56921</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>58333</td>
+<td>56921</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -544,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td>Обеспечение безопасности дорожного движения в населенных пунктах</td>
-<td>58333</td>
+<td>56921</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -560,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>1178158</td>
+<td>1178122</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -568,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости, социальных программ района (города областного значения)</td>
-<td>1178158</td>
+<td>1178122</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -576,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Государственнаяадреснаясоциальнаяпомощь</td>
-<td>1178158</td>
+<td>1178122</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -584,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>792465</td>
+<td>792501</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -592,7 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости, социальных программ района (города областного значения)</td>
-<td>792465</td>
+<td>792501</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -616,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>182581</td>
+<td>182617</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -704,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">050</td>
 <td>Обеспечение прав и улучшение качества жизни лиц с инвалидностью в Республике Казахстан</td>
-<td>212272</td>
+<td>202272</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -712,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">054</td>
 <td>Размещение государственного социального заказа в неправительственных организациях</td>
-<td>23977</td>
+<td>33977</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -720,7 +720,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>362368</td>
+<td>341242</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -776,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
-<td>90322</td>
+<td>69196</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -784,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>63126</td>
+<td>42000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -800,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>21126</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1208,7 +1208,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>894362</td>
+<td>870929</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1216,7 +1216,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>836402</td>
+<td>812969</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1224,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>836402</td>
+<td>812969</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1232,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td>Развитие транспортной инфраструктуры</td>
-<td>768551</td>
+<td>743706</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1240,7 +1240,7 @@ source: https://zan.gov.kz/client/#!/doc/204738/rus/28.02.2025
 <td colspan="2"></td>
 <td colspan="2">023</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>67851</td>
+<td>69263</td>
 </tr>
 <tr>
 <td colspan="2"></td>
