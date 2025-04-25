@@ -10,8 +10,10 @@ approved_on: 2024-12-25
 approved_by:
 - '161009000002'
 version_date:
-  kaz: 2024-12-25
-  rus: 2024-12-25
+  kaz: 2025-04-25
+  rus: 2025-04-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/206654/kaz/25.12.2024
-  rus: https://zan.gov.kz/client/#!/doc/206654/rus/25.12.2024
+  kaz: https://zan.gov.kz/client/#!/doc/206654/kaz/25.04.2025
+  rus: https://zan.gov.kz/client/#!/doc/206654/rus/25.04.2025
+caused_by:
+  code: '210638'
