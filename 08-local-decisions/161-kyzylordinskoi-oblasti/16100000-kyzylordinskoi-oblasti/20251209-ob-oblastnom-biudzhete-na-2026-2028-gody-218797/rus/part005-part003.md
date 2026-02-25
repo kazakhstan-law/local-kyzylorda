@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/218797/rus/21.01.2026
+source: https://zan.gov.kz/client/#!/doc/218797/rus/25.02.2026
 ---
 
 Аббревиатура:

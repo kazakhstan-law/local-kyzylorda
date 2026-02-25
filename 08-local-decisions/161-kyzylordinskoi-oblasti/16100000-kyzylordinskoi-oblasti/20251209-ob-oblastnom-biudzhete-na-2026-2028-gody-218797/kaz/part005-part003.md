@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/218797/kaz/21.01.2026
+source: https://zan.gov.kz/client/#!/doc/218797/kaz/25.02.2026
 ---
 
 Аббревиатура:
