@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
+source: https://zan.gov.kz/client/#!/doc/221284/rus/03.03.2026
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 
 # Районный бюджет на 2026 год
 
-> *Сноска. Приложение 1 - в редакции решения Шиелийского районного маслихата Кызылординской области от 18.02.2026 № 41/3 (вводится в действие с 01.01.2026).*
+> *Сноска. Приложение 1 - в редакции решения Шиелийского районного маслихата Кызылординской области от 03.03.2026 № 42/2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -322,8 +322,8 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Государственные услуги общего характера</td>
-<td>1771348,9</td>
+<td>Государственныеуслугиобщегохарактера</td>
+<td>1770233,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -419,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>1384223,2</td>
+<td>1383108,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -467,7 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения</td>
-<td>280284,3</td>
+<td>279169,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -491,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>127366</td>
+<td>126251</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -619,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>1611708</td>
+<td>1611647</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -739,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>425494</td>
+<td>425433</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -747,7 +747,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>425494</td>
+<td>425433</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -755,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
-<td>150521</td>
+<td>150460</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -995,7 +995,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>1617107,7</td>
+<td>1614593,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1051,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Спорт</td>
-<td>421202,2</td>
+<td>418688,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1075,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2">804</td>
 <td colspan="2"></td>
 <td>Отдел физической культуры, спорта и туризма района (города областного значения)</td>
-<td>299202,2</td>
+<td>296688,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1091,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Проведение спортивных соревнований на районном (города областного значения) уровне</td>
-<td>3500</td>
+<td>986</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1563,7 +1563,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>149748</td>
+<td>153438</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1571,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>149748</td>
+<td>153438</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1579,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>149748</td>
+<td>153438</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1587,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/221284/rus/18.02.2026
 <td colspan="2"></td>
 <td colspan="2">012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>149748</td>
+<td>153438</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
