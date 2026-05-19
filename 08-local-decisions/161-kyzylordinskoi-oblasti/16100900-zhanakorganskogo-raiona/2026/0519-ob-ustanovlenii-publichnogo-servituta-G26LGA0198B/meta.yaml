@@ -1,0 +1,25 @@
+key: G26LGA0198B
+akn: /akn/kz/act/2026-05-19/G26LGA0198B
+act_code: '225455'
+requisite: Решение акима поселка Жанакорган Жанакорганского района Кызылординской области от 19 мая 2026 № 198
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-05-19
+in_force_from: 2026-05-22
+approved_by:
+- '161009001001'
+versions:
+- date: 2026-05-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-05-19
+  rus: 2026-05-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/225455/kaz/19.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/225455/rus/19.05.2026
